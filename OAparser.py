@@ -2,6 +2,7 @@
 Parser handles reading and interpreting the OA logfile
 """
 
+from player import Player
 
 class Parser:
     
@@ -9,11 +10,16 @@ class Parser:
     def __init__(self, logfile):
         self.logfile = logfile
         self.loglist = []
-        self.log = {}
+        self.log = []
+        self.players = {}
 
         self.open()
         self.get_timecodes()
         self.get_commands()
+        self.get_players()
+        self.get_kills()
+
+        self.results()
 
     def open(self):
         try:
@@ -25,16 +31,61 @@ class Parser:
     
     def get_timecodes(self):
         for i in self.loglist:
-            self.log[i[0:7].strip()] = i[7:].strip()
+            self.log.append(i[7:].strip())
     
     def get_commands(self):
-        remove = []
+        #remove = []
+        temp = []
         for i in self.log:
-            print(self.log[i])
+            #print(i)
             try:
-                a = self.log[i].split(":")
-                self.log[i] = [a[0], a[1]]
+                temp.append(i.split(":", 1))
             except IndexError:
-                remove.append(i)
-        for i in remove:
-            self.log.pop(i)
+                print(i)
+                pass
+        print("Commands extracted")
+        #for i in remove:
+        #    self.log.pop(i)
+        self.log = temp
+
+    def get_players(self):
+        print("Getting players from log size of", len(self.log))
+        for i in self.log:
+            if i[0] == "ClientUserinfoChanged":
+                temp = i[1].split("n\\", 1)
+                #print("Found", temp[1].split("\\"))
+                playernumber = int(temp[0].strip())
+                if playernumber > 30: continue
+                self.players[playernumber] = Player(number=playernumber)
+                self.extract_player_data(self.players[playernumber], temp[1].split("\\"))
+        #for i in self.players:
+        #    print(self.players[i].number, self.players[i].name)
+        #print(self.players)
+
+    def get_kills(self):
+        for i in self.log:
+            if i[0] == "Kill":
+                data = i[1].split(":", 1)[0].split()
+                if int(data[0]) > 30: 
+                    print(data[0], "omitted")
+                    continue
+                if int(data[0]) == 1:
+                    print("Player number", data[0], "frags player", data[1])
+                self.players[int(data[0])].addkill(int(data[1]))
+                self.players[int(data[0])].weapons(int(data[2]))
+
+
+    def results(self):
+        toplist = {}
+
+        for i in self.players:
+            toplist[self.players[i].number] = self.players[i].killnumber
+        a = sorted(toplist, key=toplist.get)
+        for i in a:
+            print(self.players[i].name, toplist[i])
+
+    @staticmethod
+    def extract_player_data(player, data):
+        player.data = data
+        player.name = data[0]
+        player.team = data[2]
