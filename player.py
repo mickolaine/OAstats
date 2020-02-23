@@ -12,6 +12,8 @@ class Player:
 
         self.kills = {}
         self.killnumber = 0
+        self.deathcount = 0
+        self.killedby = {}
         self.weaponlist = {}
 
     def addkill(self, player):
@@ -21,15 +23,26 @@ class Player:
             self.kills[player] = 1
         else:
             self.kills[player] = self.kills[player] + 1
-        
-        
+    
+    def adddeath(self, player):
+        self.deathcount = self.deathcount + 1
+
+        if not player in self.killedby:
+            self.killedby[player] = 1
+        else:
+            self.killedby[player] = self.killedby[player] + 1
     
     def weapons(self, weapon):
         if not weapon in self.weaponlist:
             self.weaponlist[weapon] = 1
         else:
             self.weaponlist[weapon] = self.weaponlist[weapon] + 1
-        
+
+    def mostkilled(self):
+        return sorted(self.kills, key=self.kills.get, reverse=True)[0]
+
+    def favgun(self):
+        return sorted(self.weaponlist, key=self.weaponlist.get, reverse=True)[0]
             
 
             
