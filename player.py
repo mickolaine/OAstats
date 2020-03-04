@@ -12,11 +12,14 @@ class Player:
 
         self.kills = {}
         self.killnumber = 0
+        self.teamkills = 0
         self.deathcount = 0
         self.killedby = {}
         self.weaponlist = {}
 
-    def addkill(self, player):
+    def addkill(self, player, team = False):
+        if team:
+            self.teamkills = self.teamkills + 1
         self.killnumber = self.killnumber + 1
 
         if not player in self.kills:

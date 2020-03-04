@@ -81,7 +81,11 @@ class Parser:
                     else:
                         print(data[0], "omitted")
                     continue
-                self.players[int(data[0])].addkill(int(data[1]))
+
+                if self.players[int(data[0])].team == self.players[int(data[1])].team:
+                    team = True
+                else: team = False
+                self.players[int(data[0])].addkill(int(data[1]), team)
                 self.players[int(data[1])].adddeath(int(data[0]))
                 self.players[int(data[0])].weapons(int(data[2]))
 
@@ -99,19 +103,22 @@ class Parser:
         
         print("The results are ready:\n")
 
-        print(f"Player {(maxlength - 5)*' '} Kills   Most Killed   Fav Gun")
+        print(f"Player {(maxlength - 5)*' '} Kills   Most Killed       Fav Gun                   Teamkills")
         for i in a:
             mostkilled_number = self.players[i].mostkilled()
             if mostkilled_number != -1:
                 mostkilled = self.players[mostkilled_number].name
             else:
                 mostkilled = "Ei tappoja"
-            favgun = self.players[i].favgun()
+            favgun = self.favgun_name(self.players[i].favgun())
+
+            teamkills = self.players[i].teamkills
 
             space1 = (maxlength - len(self.players[i].name) + 2)*" "
             space2 = (7 - len(str(self.players[i].killnumber)))*" "
             space3 = (maxlength - len(mostkilled))*" "
-            print(f"{self.players[i].name}{space1} {self.players[i].killnumber}{space2} {mostkilled} {space3}   {favgun}")
+            space4 = (25 - len(str(favgun)))*" "
+            print(f"{self.players[i].name}{space1} {self.players[i].killnumber}{space2} {mostkilled} {space3}   {favgun}{space4} {teamkills}")
 
         
 
@@ -122,3 +129,23 @@ class Parser:
         player.data = data
         player.name = data[0]
         player.team = data[2]
+
+    @staticmethod
+    def favgun_name(number):
+        gunlist = {
+            -1: "None",
+            1: "Shotgun",
+            2: "Gauntlet",
+            3: "Machinegun",
+            4: "4",
+            5: "5",
+            6: "Rocket launcher",
+            7: "Rocket launcher splash",
+            8: "Plasma gun",
+            9: "9",
+            10: "Railgun",
+            19: "Falling",
+            20: "Suicide",
+            22: "Mod_Trigger_Hurt"
+        }
+        return gunlist[number]
