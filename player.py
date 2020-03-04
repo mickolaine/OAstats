@@ -39,10 +39,16 @@ class Player:
             self.weaponlist[weapon] = self.weaponlist[weapon] + 1
 
     def mostkilled(self):
-        return sorted(self.kills, key=self.kills.get, reverse=True)[0]
+        try:
+            return sorted(self.kills, key=self.kills.get, reverse=True)[0]
+        except IndexError:
+            return -1
 
     def favgun(self):
-        return sorted(self.weaponlist, key=self.weaponlist.get, reverse=True)[0]
+        try:
+            return sorted(self.weaponlist, key=self.weaponlist.get, reverse=True)[0]
+        except IndexError:
+            return -1
             
 
             

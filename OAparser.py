@@ -76,7 +76,10 @@ class Parser:
             if i[0] == "Kill":
                 data = i[1].split(":", 1)[0].split()
                 if int(data[0]) > 30: 
-                    print(data[0], "omitted")
+                    if int(data[0]) == 1022:
+                        pass
+                    else:
+                        print(data[0], "omitted")
                     continue
                 self.players[int(data[0])].addkill(int(data[1]))
                 self.players[int(data[1])].adddeath(int(data[0]))
@@ -98,11 +101,17 @@ class Parser:
 
         print(f"Player {(maxlength - 5)*' '} Kills   Most Killed   Fav Gun")
         for i in a:
+            mostkilled_number = self.players[i].mostkilled()
+            if mostkilled_number != -1:
+                mostkilled = self.players[mostkilled_number].name
+            else:
+                mostkilled = "Ei tappoja"
+            favgun = self.players[i].favgun()
+
             space1 = (maxlength - len(self.players[i].name) + 2)*" "
             space2 = (7 - len(str(self.players[i].killnumber)))*" "
-            mostkilled = self.players[self.players[i].mostkilled()].name
-            favgun = self.players[i].favgun()
-            print(f"{self.players[i].name}{space1} {self.players[i].killnumber}{space2} {mostkilled}    {favgun}")
+            space3 = (maxlength - len(mostkilled))*" "
+            print(f"{self.players[i].name}{space1} {self.players[i].killnumber}{space2} {mostkilled} {space3}   {favgun}")
 
         
 

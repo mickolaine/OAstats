@@ -1,0 +1,2212 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_lms_mode\0\elimination_roundtime\120\g_delagHitscan\1\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\g_voteGametypes\/0/1/3/4/5/6/7/8/9/10/11/12/\g_allowVote\1\capturelimit\8\videoflags\7\g_maxGameClients\0\g_doWarmup\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_fps\25\sv_floodProtect\1\sv_maxPing\400\sv_minPing\0\sv_maxRate\25000\sv_minRate\0\sv_maxclients\22\sv_hostname\Opekone\timelimit\15\fraglimit\35\dmflags\0\version\ioq3+oa 1.36_SVN1910M win_mingw-x86 Dec 25 2011\protocol\71\g_gametype\0\mapname\oa_dm7\sv_privateClients\0\sv_allowDownload\1\bot_minplayers\0\g_instantgib\0\g_rockets\0\gamename\baseoa\elimflags\0\voteflags\767\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2020-02-25 08:57:28
+  0:00 Info: ServerInfo length: 797 of 1024
+  0:00 ClientUserinfoChanged: 0 n\Ope\t\0\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AD6ADE5966C291F885B781481CE9B4B5
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 0 n\Ope\t\0\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AD6ADE5966C291F885B781481CE9B4B5
+  0:00 ClientUserinfoChanged: 0 n\Ope\t\0\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AD6ADE5966C291F885B781481CE9B4B5
+  0:00 Playerstore: Nothing to restore. Guid: AD6ADE5966C291F885B781481CE9B4B5
+  0:00 ClientBegin: 0
+  0:00 Item: 0 weapon_rocketlauncher
+  0:03 ClientUserinfoChanged: 1 n\De Noob\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\id\0EDB725D06F4E1B10A6403B660EEE59F
+  0:03 ClientConnect: 1
+  0:03 ClientUserinfoChanged: 2 n\Ficxesto\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\3EB23380DC93175F6A843264C00CC260
+  0:03 ClientConnect: 2
+  0:04 ClientUserinfoChanged: 3 n\bomb\t\0\model\smarine/blue\hmodel\smarine/blue\g_redteam\\g_blueteam\\c1\4\c2\6\hc\100\w\0\l\0\tt\0\tl\0\id\7CA5C2A97E57D851708366B7951C30BE
+  0:04 ClientConnect: 3
+  0:04 ClientUserinfoChanged: 4 n\kaapo\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\0D381E59047A1B60B5C727BF8BA0CFFF
+  0:04 ClientConnect: 4
+  0:04 ClientUserinfoChanged: 2 n\Ficxesto\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\3EB23380DC93175F6A843264C00CC260
+  0:04 Playerstore: Nothing to restore. Guid: 3EB23380DC93175F6A843264C00CC260
+  0:04 ClientBegin: 2
+  0:05 Item: 2 weapon_rocketlauncher
+  0:05 Item: 0 weapon_rocketlauncher
+  0:06 ClientUserinfoChanged: 4 n\kaapo\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\0D381E59047A1B60B5C727BF8BA0CFFF
+  0:06 Playerstore: Nothing to restore. Guid: 0D381E59047A1B60B5C727BF8BA0CFFF
+  0:06 ClientBegin: 4
+  0:06 ClientUserinfoChanged: 5 n\PRO GAMER 69\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\F8EE0140DDB0ABE007F9579C94ABA8A9
+  0:06 ClientConnect: 5
+  0:07 ClientUserinfoChanged: 6 n\boomer\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\159B7CA2D489DB5A7D78BE79E5A4C09E
+  0:07 ClientConnect: 6
+  0:08 ClientUserinfoChanged: 5 n\PRO GAMER 69\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\F8EE0140DDB0ABE007F9579C94ABA8A9
+  0:08 Playerstore: Nothing to restore. Guid: F8EE0140DDB0ABE007F9579C94ABA8A9
+  0:08 ClientBegin: 5
+  0:08 Item: 5 weapon_grenadelauncher
+  0:08 ClientUserinfoChanged: 6 n\boomer\t\0\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\159B7CA2D489DB5A7D78BE79E5A4C09E
+  0:08 Playerstore: Nothing to restore. Guid: 159B7CA2D489DB5A7D78BE79E5A4C09E
+  0:08 ClientBegin: 6
+  0:09 ClientUserinfoChanged: 1 n\De Noob\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\id\0EDB725D06F4E1B10A6403B660EEE59F
+  0:09 Playerstore: Nothing to restore. Guid: 0EDB725D06F4E1B10A6403B660EEE59F
+  0:09 ClientBegin: 1
+  0:10 ClientUserinfoChanged: 3 n\bomb\t\0\model\smarine/blue\hmodel\smarine/blue\g_redteam\\g_blueteam\\c1\4\c2\6\hc\100\w\0\l\0\tt\0\tl\0\id\7CA5C2A97E57D851708366B7951C30BE
+  0:10 Playerstore: Nothing to restore. Guid: 7CA5C2A97E57D851708366B7951C30BE
+  0:10 ClientBegin: 3
+  0:10 Item: 4 ammo_cells
+  0:10 Item: 0 weapon_rocketlauncher
+  0:11 Item: 1 ammo_rockets
+  0:12 ClientUserinfoChanged: 7 n\xdlol\t\0\model\merman/default\hmodel\merman/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:12 ClientConnect: 7
+  0:13 Kill: 1 6 3: De Noob killed boomer by MOD_MACHINEGUN
+  0:13 PlayerScore: 1 1: De Noob now has 1 points
+  0:13 Challenge: 1 202 1: Client 1 got award 202
+  0:13 Challenge: 1 1 1: Client 1 got award 1
+  0:13 Challenge: 6 2 1: Client 6 got award 2
+  0:13 ClientUserinfoChanged: 8 n\sksksksk\t\0\model\kyonshi/blue\hmodel\kyonshi/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\59C591E9EDB17ACAD577C06F7EDEB7E4
+  0:13 ClientConnect: 8
+  0:13 Kill: 4 2 3: kaapo killed Ficxesto by MOD_MACHINEGUN
+  0:13 PlayerScore: 4 1: kaapo now has 1 points
+  0:13 Challenge: 4 202 1: Client 4 got award 202
+  0:13 Challenge: 4 1 1: Client 4 got award 1
+  0:13 Challenge: 2 2 1: Client 2 got award 2
+  0:14 ClientUserinfoChanged: 7 n\xdlol\t\0\model\merman/default\hmodel\merman/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:14 Playerstore: Nothing to restore. Guid: 7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:14 ClientBegin: 7
+  0:14 Item: 7 weapon_rocketlauncher
+  0:14 Item: 6 weapon_plasmagun
+  0:14 ClientUserinfoChanged: 9 n\moi\t\0\model\sarge/classic\hmodel\sarge/classic\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\876029DC3BF91A5FB26219541D7A5A08
+  0:14 ClientConnect: 9
+  0:15 ClientUserinfoChanged: 8 n\sksksksk\t\0\model\kyonshi/blue\hmodel\kyonshi/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\59C591E9EDB17ACAD577C06F7EDEB7E4
+  0:15 Playerstore: Nothing to restore. Guid: 59C591E9EDB17ACAD577C06F7EDEB7E4
+  0:15 ClientBegin: 8
+  0:15 Item: 8 weapon_grenadelauncher
+  0:15 Item: 1 ammo_lightning
+  0:15 Item: 0 weapon_rocketlauncher
+  0:16 ClientUserinfoChanged: 10 n\ploo\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\id\85D097CF1186E935A69A639769891332
+  0:16 ClientConnect: 10
+  0:16 ClientUserinfoChanged: 9 n\moi\t\0\model\sarge/classic\hmodel\sarge/classic\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\876029DC3BF91A5FB26219541D7A5A08
+  0:16 Playerstore: Nothing to restore. Guid: 876029DC3BF91A5FB26219541D7A5A08
+  0:16 ClientBegin: 9
+  0:16 ClientUserinfoChanged: 11 n\pro\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AB8780F3C8761D58AF14FB7AB5F30ED5
+  0:16 ClientConnect: 11
+  0:17 ClientUserinfoChanged: 12 n\jeespoks\t\0\model\assassin/default\hmodel\assassin/default\g_redteam\\g_blueteam\\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\66471D5B93B192E83FF0510D25BADEC5
+  0:17 ClientConnect: 12
+  0:17 ClientUserinfoChanged: 13 n\UnnamedPlayer\t\0\model\liz/blue\hmodel\liz/blue\g_redteam\\g_blueteam\\c1\2\c2\1\hc\100\w\0\l\0\tt\0\tl\0\id\BD83C7EC8F43D6E04539299A92D6FE8A
+  0:17 ClientConnect: 13
+  0:17 Item: 5 ammo_rockets
+  0:17 Item: 7 item_armor_combat
+  0:17 ClientUserinfoChanged: 14 n\UnnamedPlayer\t\0\model\beret/red\hmodel\beret/red\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0A341F11E44CDDF0F5E60CDB20EF5E0D
+  0:17 ClientConnect: 14
+  0:18 ClientUserinfoChanged: 10 n\ploo\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\1\hc\100\w\0\l\0\tt\0\tl\0\id\85D097CF1186E935A69A639769891332
+  0:18 Playerstore: Nothing to restore. Guid: 85D097CF1186E935A69A639769891332
+  0:18 ClientBegin: 10
+  0:18 Item: 5 ammo_bullets
+  0:18 ClientUserinfoChanged: 11 n\pro\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AB8780F3C8761D58AF14FB7AB5F30ED5
+  0:18 Playerstore: Nothing to restore. Guid: AB8780F3C8761D58AF14FB7AB5F30ED5
+  0:18 Kill: 11 9 18: pro killed moi by MOD_TELEFRAG
+  0:18 PlayerScore: 11 1: pro now has 1 points
+  0:18 Challenge: 11 216 1: Client 11 got award 216
+  0:18 Challenge: 11 1 1: Client 11 got award 1
+  0:18 Challenge: 9 2 1: Client 9 got award 2
+  0:18 ClientBegin: 11
+  0:18 Kill: 3 5 3: bomb killed PRO GAMER 69 by MOD_MACHINEGUN
+  0:18 PlayerScore: 3 1: bomb now has 1 points
+  0:18 Challenge: 3 202 1: Client 3 got award 202
+  0:18 Challenge: 3 1 1: Client 3 got award 1
+  0:18 Challenge: 5 2 1: Client 5 got award 2
+  0:18 ClientUserinfoChanged: 12 n\jeespoks\t\0\model\assassin/default\hmodel\assassin/default\g_redteam\\g_blueteam\\c1\5\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\66471D5B93B192E83FF0510D25BADEC5
+  0:18 Playerstore: Nothing to restore. Guid: 66471D5B93B192E83FF0510D25BADEC5
+  0:18 Kill: 12 11 18: jeespoks killed pro by MOD_TELEFRAG
+  0:18 PlayerScore: 12 1: jeespoks now has 1 points
+  0:18 Challenge: 12 216 1: Client 12 got award 216
+  0:18 Challenge: 12 1 1: Client 12 got award 1
+  0:18 Challenge: 11 2 1: Client 11 got award 2
+  0:18 ClientBegin: 12
+  0:18 ClientUserinfoChanged: 13 n\UnnamedPlayer\t\0\model\liz/blue\hmodel\liz/blue\g_redteam\\g_blueteam\\c1\2\c2\1\hc\100\w\0\l\0\tt\0\tl\0\id\BD83C7EC8F43D6E04539299A92D6FE8A
+  0:18 Playerstore: Nothing to restore. Guid: BD83C7EC8F43D6E04539299A92D6FE8A
+  0:18 Kill: 13 12 18: UnnamedPlayer killed jeespoks by MOD_TELEFRAG
+  0:18 PlayerScore: 13 1: UnnamedPlayer now has 1 points
+  0:18 Challenge: 13 216 1: Client 13 got award 216
+  0:18 Challenge: 13 1 1: Client 13 got award 1
+  0:18 Challenge: 12 2 1: Client 12 got award 2
+  0:18 ClientBegin: 13
+  0:19 Item: 13 weapon_rocketlauncher
+  0:19 Item: 1 ammo_grenades
+  0:19 Item: 10 weapon_plasmagun
+  0:20 Item: 8 weapon_grenadelauncher
+  0:20 Item: 3 weapon_grenadelauncher
+  0:20 Kill: 7 13 7: xdlol killed UnnamedPlayer by MOD_ROCKET_SPLASH
+  0:20 PlayerScore: 7 1: xdlol now has 1 points
+  0:20 Challenge: 7 205 1: Client 7 got award 205
+  0:20 Challenge: 7 1 1: Client 7 got award 1
+  0:20 Challenge: 13 2 1: Client 13 got award 2
+  0:20 Kill: 8 2 4: sksksksk killed Ficxesto by MOD_GRENADE
+  0:20 PlayerScore: 8 1: sksksksk now has 1 points
+  0:20 Challenge: 8 204 1: Client 8 got award 204
+  0:20 Challenge: 8 1 1: Client 8 got award 1
+  0:20 Challenge: 2 2 1: Client 2 got award 2
+  0:20 Kill: 8 8 5: sksksksk killed sksksksk by MOD_GRENADE_SPLASH
+  0:20 PlayerScore: 8 0: sksksksk now has 0 points
+  0:20 Item: 0 weapon_rocketlauncher
+  0:20 Item: 3 ammo_shells
+  0:21 Kill: 11 9 18: pro killed moi by MOD_TELEFRAG
+  0:21 PlayerScore: 11 2: pro now has 2 points
+  0:21 Challenge: 11 216 1: Client 11 got award 216
+  0:21 Challenge: 11 1 1: Client 11 got award 1
+  0:21 Challenge: 9 2 1: Client 9 got award 2
+  0:21 Kill: 12 11 18: jeespoks killed pro by MOD_TELEFRAG
+  0:21 PlayerScore: 12 2: jeespoks now has 2 points
+  0:21 Challenge: 12 216 1: Client 12 got award 216
+  0:21 Challenge: 12 1 1: Client 12 got award 1
+  0:21 Challenge: 11 2 1: Client 11 got award 2
+  0:22 Item: 4 item_health
+  0:22 Item: 3 ammo_grenades
+  0:22 Kill: 2 12 18: Ficxesto killed jeespoks by MOD_TELEFRAG
+  0:22 PlayerScore: 2 1: Ficxesto now has 1 points
+  0:22 Challenge: 2 216 1: Client 2 got award 216
+  0:22 Challenge: 2 1 1: Client 2 got award 1
+  0:22 Challenge: 12 2 1: Client 12 got award 2
+  0:23 Item: 4 item_health
+  0:23 Item: 7 ammo_rockets
+  0:23 Kill: 9 2 18: moi killed Ficxesto by MOD_TELEFRAG
+  0:23 PlayerScore: 9 1: moi now has 1 points
+  0:23 Challenge: 9 216 1: Client 9 got award 216
+  0:23 Challenge: 9 1 1: Client 9 got award 1
+  0:23 Challenge: 2 2 1: Client 2 got award 2
+  0:23 ClientUserinfoChanged: 14 n\UnnamedPlayer\t\0\model\beret/red\hmodel\beret/red\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\0A341F11E44CDDF0F5E60CDB20EF5E0D
+  0:23 Playerstore: Nothing to restore. Guid: 0A341F11E44CDDF0F5E60CDB20EF5E0D
+  0:23 Kill: 14 9 18: UnnamedPlayer killed moi by MOD_TELEFRAG
+  0:23 PlayerScore: 14 1: UnnamedPlayer now has 1 points
+  0:23 Challenge: 14 216 1: Client 14 got award 216
+  0:23 Challenge: 14 1 1: Client 14 got award 1
+  0:23 Challenge: 9 2 1: Client 9 got award 2
+  0:23 ClientBegin: 14
+  0:23 Kill: 11 14 18: pro killed UnnamedPlayer by MOD_TELEFRAG
+  0:23 PlayerScore: 11 3: pro now has 3 points
+  0:23 Challenge: 11 216 1: Client 11 got award 216
+  0:23 Challenge: 11 1 1: Client 11 got award 1
+  0:23 Challenge: 14 2 1: Client 14 got award 2
+  0:23 Item: 6 item_health
+  0:24 Item: 11 weapon_rocketlauncher
+  0:24 Item: 8 weapon_grenadelauncher
+  0:24 Kill: 13 11 18: UnnamedPlayer killed pro by MOD_TELEFRAG
+  0:24 PlayerScore: 13 2: UnnamedPlayer now has 2 points
+  0:24 Challenge: 13 216 1: Client 13 got award 216
+  0:24 Challenge: 13 1 1: Client 13 got award 1
+  0:24 Challenge: 11 2 1: Client 11 got award 2
+  0:24 Item: 13 weapon_rocketlauncher
+  0:24 Item: 10 weapon_plasmagun
+  0:25 ClientUserinfoChanged: 15 n\auts\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\78C85AD505F760F80FF7E470067535CB
+  0:25 ClientConnect: 15
+  0:25 Item: 8 weapon_grenadelauncher
+  0:25 Item: 4 item_health
+  0:25 Kill: 2 13 18: Ficxesto killed UnnamedPlayer by MOD_TELEFRAG
+  0:25 PlayerScore: 2 2: Ficxesto now has 2 points
+  0:25 Challenge: 2 216 1: Client 2 got award 216
+  0:25 Challenge: 2 1 1: Client 2 got award 1
+  0:25 Challenge: 13 2 1: Client 13 got award 2
+  0:25 Kill: 4 1 3: kaapo killed De Noob by MOD_MACHINEGUN
+  0:25 PlayerScore: 4 2: kaapo now has 2 points
+  0:25 Challenge: 4 202 1: Client 4 got award 202
+  0:25 Challenge: 4 1 1: Client 4 got award 1
+  0:25 Challenge: 1 2 1: Client 1 got award 2
+  0:25 Item: 0 weapon_rocketlauncher
+  0:26 Kill: 7 5 6: xdlol killed PRO GAMER 69 by MOD_ROCKET
+  0:26 PlayerScore: 7 2: xdlol now has 2 points
+  0:26 Challenge: 7 205 1: Client 7 got award 205
+  0:26 Challenge: 7 1 1: Client 7 got award 1
+  0:26 Challenge: 5 2 1: Client 5 got award 2
+  0:26 ClientUserinfoChanged: 16 n\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7FBEAFBA152BDE82783AC02F9A72C3C6
+  0:26 ClientConnect: 16
+  0:26 ClientUserinfoChanged: 15 n\auts\t\0\model\major/default\hmodel\major/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\78C85AD505F760F80FF7E470067535CB
+  0:26 Playerstore: Nothing to restore. Guid: 78C85AD505F760F80FF7E470067535CB
+  0:26 ClientBegin: 15
+  0:27 Kill: 14 15 18: UnnamedPlayer killed auts by MOD_TELEFRAG
+  0:27 PlayerScore: 14 2: UnnamedPlayer now has 2 points
+  0:27 Challenge: 14 216 1: Client 14 got award 216
+  0:27 Challenge: 14 1 1: Client 14 got award 1
+  0:27 Challenge: 15 2 1: Client 15 got award 2
+  0:27 Kill: 1 14 18: De Noob killed UnnamedPlayer by MOD_TELEFRAG
+  0:27 PlayerScore: 1 2: De Noob now has 2 points
+  0:27 Challenge: 1 216 1: Client 1 got award 216
+  0:27 Challenge: 1 1 1: Client 1 got award 1
+  0:27 Challenge: 14 2 1: Client 14 got award 2
+  0:29 ClientUserinfoChanged: 16 n\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7FBEAFBA152BDE82783AC02F9A72C3C6
+  0:29 Playerstore: Nothing to restore. Guid: 7FBEAFBA152BDE82783AC02F9A72C3C6
+  0:29 ClientBegin: 16
+  0:29 Item: 7 item_health
+  0:29 Item: 9 weapon_rocketlauncher
+  0:29 Kill: 15 9 18: auts killed moi by MOD_TELEFRAG
+  0:29 PlayerScore: 15 1: auts now has 1 points
+  0:29 Challenge: 15 216 1: Client 15 got award 216
+  0:29 Challenge: 15 1 1: Client 15 got award 1
+  0:29 Challenge: 9 2 1: Client 9 got award 2
+  0:29 Item: 3 ammo_shells
+  0:29 Item: 16 weapon_plasmagun
+  0:29 Kill: 11 10 3: pro killed ploo by MOD_MACHINEGUN
+  0:29 PlayerScore: 11 4: pro now has 4 points
+  0:29 Challenge: 11 202 1: Client 11 got award 202
+  0:29 Challenge: 11 1 1: Client 11 got award 1
+  0:29 Challenge: 10 2 1: Client 10 got award 2
+  0:30 Item: 13 weapon_grenadelauncher
+  0:30 Kill: 15 7 3: auts killed xdlol by MOD_MACHINEGUN
+  0:30 PlayerScore: 15 2: auts now has 2 points
+  0:30 Challenge: 15 202 1: Client 15 got award 202
+  0:30 Challenge: 15 1 1: Client 15 got award 1
+  0:30 Challenge: 7 2 1: Client 7 got award 2
+  0:30 Award: 15 1: auts gained the EXCELLENT award!
+  0:30 Challenge: 15 302 1: Client 15 got award 302
+  0:30 Item: 12 weapon_rocketlauncher
+  0:30 Item: 0 weapon_rocketlauncher
+  0:31 Kill: 16 8 8: UnnamedPlayer killed sksksksk by MOD_PLASMA
+  0:31 PlayerScore: 16 1: UnnamedPlayer now has 1 points
+  0:31 Challenge: 16 207 1: Client 16 got award 207
+  0:31 Challenge: 16 1 1: Client 16 got award 1
+  0:31 Challenge: 8 2 1: Client 8 got award 2
+  0:31 Kill: 14 12 18: UnnamedPlayer killed jeespoks by MOD_TELEFRAG
+  0:31 PlayerScore: 14 3: UnnamedPlayer now has 3 points
+  0:31 Challenge: 14 216 1: Client 14 got award 216
+  0:31 Challenge: 14 1 1: Client 14 got award 1
+  0:31 Challenge: 12 2 1: Client 12 got award 2
+  0:31 Item: 14 weapon_rocketlauncher
+  0:31 Kill: 6 4 8: boomer killed kaapo by MOD_PLASMA
+  0:31 PlayerScore: 6 1: boomer now has 1 points
+  0:31 Challenge: 6 207 1: Client 6 got award 207
+  0:31 Challenge: 6 1 1: Client 6 got award 1
+  0:31 Challenge: 4 2 1: Client 4 got award 2
+  0:32 Kill: 16 11 8: UnnamedPlayer killed pro by MOD_PLASMA
+  0:32 PlayerScore: 16 2: UnnamedPlayer now has 2 points
+  0:32 Challenge: 16 207 1: Client 16 got award 207
+  0:32 Challenge: 16 1 1: Client 16 got award 1
+  0:32 Challenge: 11 2 1: Client 11 got award 2
+  0:32 Award: 16 1: UnnamedPlayer gained the EXCELLENT award!
+  0:32 Challenge: 16 302 1: Client 16 got award 302
+  0:33 Kill: 5 16 3: PRO GAMER 69 killed UnnamedPlayer by MOD_MACHINEGUN
+  0:33 PlayerScore: 5 1: PRO GAMER 69 now has 1 points
+  0:33 Challenge: 5 202 1: Client 5 got award 202
+  0:33 Challenge: 5 1 1: Client 5 got award 1
+  0:33 Challenge: 16 2 1: Client 16 got award 2
+  0:33 Kill: 1 15 3: De Noob killed auts by MOD_MACHINEGUN
+  0:33 PlayerScore: 1 3: De Noob now has 3 points
+  0:33 Challenge: 1 202 1: Client 1 got award 202
+  0:33 Challenge: 1 1 1: Client 1 got award 1
+  0:33 Challenge: 15 2 1: Client 15 got award 2
+  0:34 Kill: 13 5 3: UnnamedPlayer killed PRO GAMER 69 by MOD_MACHINEGUN
+  0:34 PlayerScore: 13 3: UnnamedPlayer now has 3 points
+  0:34 Challenge: 13 202 1: Client 13 got award 202
+  0:34 Challenge: 13 1 1: Client 13 got award 1
+  0:34 Challenge: 5 2 1: Client 5 got award 2
+  0:34 Item: 8 weapon_rocketlauncher
+  0:34 Kill: 12 8 18: jeespoks killed sksksksk by MOD_TELEFRAG
+  0:34 PlayerScore: 12 3: jeespoks now has 3 points
+  0:34 Challenge: 12 216 1: Client 12 got award 216
+  0:34 Challenge: 12 1 1: Client 12 got award 1
+  0:34 Challenge: 8 2 1: Client 8 got award 2
+  0:34 Kill: 6 3 8: boomer killed bomb by MOD_PLASMA
+  0:34 PlayerScore: 6 2: boomer now has 2 points
+  0:34 Challenge: 6 207 1: Client 6 got award 207
+  0:34 Challenge: 6 1 1: Client 6 got award 1
+  0:34 Challenge: 3 2 1: Client 3 got award 2
+  0:35 Item: 6 weapon_grenadelauncher
+  0:35 Item: 15 weapon_grenadelauncher
+  0:35 Item: 0 weapon_rocketlauncher
+  0:36 Kill: 2 7 3: Ficxesto killed xdlol by MOD_MACHINEGUN
+  0:36 PlayerScore: 2 3: Ficxesto now has 3 points
+  0:36 Challenge: 2 202 1: Client 2 got award 202
+  0:36 Challenge: 2 1 1: Client 2 got award 1
+  0:36 Challenge: 7 2 1: Client 7 got award 2
+  0:36 Kill: 2 14 3: Ficxesto killed UnnamedPlayer by MOD_MACHINEGUN
+  0:36 PlayerScore: 2 4: Ficxesto now has 4 points
+  0:36 Challenge: 2 202 1: Client 2 got award 202
+  0:36 Challenge: 2 1 1: Client 2 got award 1
+  0:36 Challenge: 14 2 1: Client 14 got award 2
+  0:36 Award: 2 1: Ficxesto gained the EXCELLENT award!
+  0:36 Challenge: 2 302 1: Client 2 got award 302
+  0:36 Item: 16 weapon_plasmagun
+  0:36 Item: 16 weapon_plasmagun
+  0:37 Kill: 5 2 3: PRO GAMER 69 killed Ficxesto by MOD_MACHINEGUN
+  0:37 PlayerScore: 5 2: PRO GAMER 69 now has 2 points
+  0:37 Challenge: 5 202 1: Client 5 got award 202
+  0:37 Challenge: 5 1 1: Client 5 got award 1
+  0:37 Challenge: 2 2 1: Client 2 got award 2
+  0:37 Kill: 5 1 3: PRO GAMER 69 killed De Noob by MOD_MACHINEGUN
+  0:37 PlayerScore: 5 3: PRO GAMER 69 now has 3 points
+  0:37 Challenge: 5 202 1: Client 5 got award 202
+  0:37 Challenge: 5 1 1: Client 5 got award 1
+  0:37 Challenge: 1 2 1: Client 1 got award 2
+  0:37 Award: 5 1: PRO GAMER 69 gained the EXCELLENT award!
+  0:37 Challenge: 5 302 1: Client 5 got award 302
+  0:38 Kill: 14 11 18: UnnamedPlayer killed pro by MOD_TELEFRAG
+  0:38 PlayerScore: 14 4: UnnamedPlayer now has 4 points
+  0:38 Challenge: 14 216 1: Client 14 got award 216
+  0:38 Challenge: 14 1 1: Client 14 got award 1
+  0:38 Challenge: 11 2 1: Client 11 got award 2
+  0:38 Kill: 8 14 18: sksksksk killed UnnamedPlayer by MOD_TELEFRAG
+  0:38 PlayerScore: 8 1: sksksksk now has 1 points
+  0:38 Challenge: 8 216 1: Client 8 got award 216
+  0:38 Challenge: 8 1 1: Client 8 got award 1
+  0:38 Challenge: 14 2 1: Client 14 got award 2
+  0:39 Item: 8 weapon_rocketlauncher
+  0:39 Kill: 1 9 18: De Noob killed moi by MOD_TELEFRAG
+  0:39 PlayerScore: 1 4: De Noob now has 4 points
+  0:39 Challenge: 1 216 1: Client 1 got award 216
+  0:39 Challenge: 1 1 1: Client 1 got award 1
+  0:39 Challenge: 9 2 1: Client 9 got award 2
+  0:39 Kill: 1 8 18: De Noob killed sksksksk by MOD_TELEFRAG
+  0:39 PlayerScore: 1 5: De Noob now has 5 points
+  0:39 Challenge: 1 216 1: Client 1 got award 216
+  0:39 Challenge: 1 1 1: Client 1 got award 1
+  0:39 Challenge: 8 2 1: Client 8 got award 2
+  0:39 Award: 1 1: De Noob gained the EXCELLENT award!
+  0:39 Challenge: 1 302 1: Client 1 got award 302
+  0:39 Item: 1 weapon_rocketlauncher
+  0:40 Kill: 15 16 4: auts killed UnnamedPlayer by MOD_GRENADE
+  0:40 PlayerScore: 15 3: auts now has 3 points
+  0:40 Challenge: 15 204 1: Client 15 got award 204
+  0:40 Challenge: 15 1 1: Client 15 got award 1
+  0:40 Challenge: 16 2 1: Client 16 got award 2
+  0:40 Item: 0 weapon_rocketlauncher
+  0:40 Item: 11 weapon_grenadelauncher
+  0:41 Item: 6 weapon_plasmagun
+  0:41 Item: 15 weapon_plasmagun
+  0:41 Kill: 7 15 3: xdlol killed auts by MOD_MACHINEGUN
+  0:41 PlayerScore: 7 3: xdlol now has 3 points
+  0:41 Challenge: 7 202 1: Client 7 got award 202
+  0:41 Challenge: 7 1 1: Client 7 got award 1
+  0:41 Challenge: 15 2 1: Client 15 got award 2
+  0:41 Item: 12 ammo_bullets
+  0:42 ClientUserinfoChanged: 17 n\UnnamedPlayer\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\7\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\9FA75019708DA8F89B17882B75E5EA4A
+  0:42 ClientConnect: 17
+  0:42 Kill: 2 7 3: Ficxesto killed xdlol by MOD_MACHINEGUN
+  0:42 PlayerScore: 2 5: Ficxesto now has 5 points
+  0:42 Challenge: 2 202 1: Client 2 got award 202
+  0:42 Challenge: 2 1 1: Client 2 got award 1
+  0:42 Challenge: 7 2 1: Client 7 got award 2
+  0:43 Item: 11 item_invis
+  0:43 Item: 12 ammo_bullets
+  0:43 Kill: 8 10 18: sksksksk killed ploo by MOD_TELEFRAG
+  0:43 PlayerScore: 8 2: sksksksk now has 2 points
+  0:43 Challenge: 8 216 1: Client 8 got award 216
+  0:43 Challenge: 8 1 1: Client 8 got award 1
+  0:43 Challenge: 10 2 1: Client 10 got award 2
+  0:44 ClientUserinfoChanged: 17 n\UnnamedPlayer\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\7\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\9FA75019708DA8F89B17882B75E5EA4A
+  0:44 Playerstore: Nothing to restore. Guid: 9FA75019708DA8F89B17882B75E5EA4A
+  0:44 Kill: 17 8 18: UnnamedPlayer killed sksksksk by MOD_TELEFRAG
+  0:44 PlayerScore: 17 1: UnnamedPlayer now has 1 points
+  0:44 Challenge: 17 216 1: Client 17 got award 216
+  0:44 Challenge: 17 1 1: Client 17 got award 1
+  0:44 Challenge: 8 2 1: Client 8 got award 2
+  0:44 ClientBegin: 17
+  0:44 Kill: 15 17 18: auts killed UnnamedPlayer by MOD_TELEFRAG
+  0:44 PlayerScore: 15 4: auts now has 4 points
+  0:44 Challenge: 15 216 1: Client 15 got award 216
+  0:44 Challenge: 15 1 1: Client 15 got award 1
+  0:44 Challenge: 17 2 1: Client 17 got award 2
+  0:44 Item: 15 weapon_rocketlauncher
+  0:44 Item: 3 weapon_shotgun
+  0:45 Kill: 7 15 18: xdlol killed auts by MOD_TELEFRAG
+  0:45 PlayerScore: 7 4: xdlol now has 4 points
+  0:45 Challenge: 7 216 1: Client 7 got award 216
+  0:45 Challenge: 7 1 1: Client 7 got award 1
+  0:45 Challenge: 15 2 1: Client 15 got award 2
+  0:45 Item: 7 weapon_rocketlauncher
+  0:45 Kill: 14 3 3: UnnamedPlayer killed bomb by MOD_MACHINEGUN
+  0:45 PlayerScore: 14 5: UnnamedPlayer now has 5 points
+  0:45 Challenge: 14 202 1: Client 14 got award 202
+  0:45 Challenge: 14 1 1: Client 14 got award 1
+  0:45 Challenge: 3 2 1: Client 3 got award 2
+  0:45 Kill: 10 7 18: ploo killed xdlol by MOD_TELEFRAG
+  0:45 PlayerScore: 10 1: ploo now has 1 points
+  0:45 Challenge: 10 216 1: Client 10 got award 216
+  0:45 Challenge: 10 1 1: Client 10 got award 1
+  0:45 Challenge: 7 2 1: Client 7 got award 2
+  0:45 Item: 0 weapon_rocketlauncher
+  0:45 Item: 9 weapon_grenadelauncher
+  0:46 Kill: 6 13 4: boomer killed UnnamedPlayer by MOD_GRENADE
+  0:46 PlayerScore: 6 3: boomer now has 3 points
+  0:46 Challenge: 6 204 1: Client 6 got award 204
+  0:46 Challenge: 6 1 1: Client 6 got award 1
+  0:46 Challenge: 13 2 1: Client 13 got award 2
+  0:46 Kill: 1 5 3: De Noob killed PRO GAMER 69 by MOD_MACHINEGUN
+  0:46 PlayerScore: 1 6: De Noob now has 6 points
+  0:46 Challenge: 1 202 1: Client 1 got award 202
+  0:46 Challenge: 1 1 1: Client 1 got award 1
+  0:46 Challenge: 5 2 1: Client 5 got award 2
+  0:46 Kill: 17 8 18: UnnamedPlayer killed sksksksk by MOD_TELEFRAG
+  0:46 PlayerScore: 17 2: UnnamedPlayer now has 2 points
+  0:46 Challenge: 17 216 1: Client 17 got award 216
+  0:46 Challenge: 17 1 1: Client 17 got award 1
+  0:46 Challenge: 8 2 1: Client 8 got award 2
+  0:46 Kill: 2 9 3: Ficxesto killed moi by MOD_MACHINEGUN
+  0:46 PlayerScore: 2 6: Ficxesto now has 6 points
+  0:46 Challenge: 2 202 1: Client 2 got award 202
+  0:46 Challenge: 2 1 1: Client 2 got award 1
+  0:46 Challenge: 9 2 1: Client 9 got award 2
+  0:46 Item: 12 ammo_rockets
+  0:47 Kill: 15 17 18: auts killed UnnamedPlayer by MOD_TELEFRAG
+  0:47 PlayerScore: 15 5: auts now has 5 points
+  0:47 Challenge: 15 216 1: Client 15 got award 216
+  0:47 Challenge: 15 1 1: Client 15 got award 1
+  0:47 Challenge: 17 2 1: Client 17 got award 2
+  0:47 Kill: 9 11 4: moi killed pro by MOD_GRENADE
+  0:47 PlayerScore: 9 2: moi now has 2 points
+  0:47 Challenge: 9 204 1: Client 9 got award 204
+  0:47 Challenge: 9 1 1: Client 9 got award 1
+  0:47 Challenge: 11 2 1: Client 11 got award 2
+  0:47 Challenge: 9 409 1: Client 9 got award 409
+  0:47 Item: 12 ammo_rockets
+  0:47 Kill: 7 15 18: xdlol killed auts by MOD_TELEFRAG
+  0:47 PlayerScore: 7 5: xdlol now has 5 points
+  0:47 Challenge: 7 216 1: Client 7 got award 216
+  0:47 Challenge: 7 1 1: Client 7 got award 1
+  0:47 Challenge: 15 2 1: Client 15 got award 2
+  0:48 Item: 6 item_health
+  0:48 Item: 12 ammo_bullets
+  0:48 Kill: 3 5 18: bomb killed PRO GAMER 69 by MOD_TELEFRAG
+  0:48 PlayerScore: 3 2: bomb now has 2 points
+  0:48 Challenge: 3 216 1: Client 3 got award 216
+  0:48 Challenge: 3 1 1: Client 3 got award 1
+  0:48 Challenge: 5 2 1: Client 5 got award 2
+  0:48 Item: 16 weapon_grenadelauncher
+  0:48 Item: 16 weapon_plasmagun
+  0:48 Item: 12 ammo_lightning
+  0:49 Kill: 11 3 18: pro killed bomb by MOD_TELEFRAG
+  0:49 PlayerScore: 11 5: pro now has 5 points
+  0:49 Challenge: 11 216 1: Client 11 got award 216
+  0:49 Challenge: 11 1 1: Client 11 got award 1
+  0:49 Challenge: 3 2 1: Client 3 got award 2
+  0:49 Kill: 13 11 18: UnnamedPlayer killed pro by MOD_TELEFRAG
+  0:49 PlayerScore: 13 4: UnnamedPlayer now has 4 points
+  0:49 Challenge: 13 216 1: Client 13 got award 216
+  0:49 Challenge: 13 1 1: Client 13 got award 1
+  0:49 Challenge: 11 2 1: Client 11 got award 2
+  0:49 Kill: 17 13 18: UnnamedPlayer killed UnnamedPlayer by MOD_TELEFRAG
+  0:49 PlayerScore: 17 3: UnnamedPlayer now has 3 points
+  0:49 Challenge: 17 216 1: Client 17 got award 216
+  0:49 Challenge: 17 1 1: Client 17 got award 1
+  0:49 Challenge: 13 2 1: Client 13 got award 2
+  0:49 Item: 17 weapon_rocketlauncher
+  0:49 Kill: 15 17 18: auts killed UnnamedPlayer by MOD_TELEFRAG
+  0:49 PlayerScore: 15 6: auts now has 6 points
+  0:49 Challenge: 15 216 1: Client 15 got award 216
+  0:49 Challenge: 15 1 1: Client 15 got award 1
+  0:49 Challenge: 17 2 1: Client 17 got award 2
+  0:50 Kill: 5 15 18: PRO GAMER 69 killed auts by MOD_TELEFRAG
+  0:50 PlayerScore: 5 4: PRO GAMER 69 now has 4 points
+  0:50 Challenge: 5 216 1: Client 5 got award 216
+  0:50 Challenge: 5 1 1: Client 5 got award 1
+  0:50 Challenge: 15 2 1: Client 15 got award 2
+  0:50 Item: 0 weapon_rocketlauncher
+  0:50 Item: 9 weapon_grenadelauncher
+  0:51 ClientUserinfoChanged: 4 n\kaapo\t\0\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\0D381E59047A1B60B5C727BF8BA0CFFF
+  0:51 Item: 1 weapon_shotgun
+  0:51 Item: 1 item_health
+  0:51 Kill: 17 11 18: UnnamedPlayer killed pro by MOD_TELEFRAG
+  0:51 PlayerScore: 17 4: UnnamedPlayer now has 4 points
+  0:51 Challenge: 17 216 1: Client 17 got award 216
+  0:51 Challenge: 17 1 1: Client 17 got award 1
+  0:51 Challenge: 11 2 1: Client 11 got award 2
+  0:51 Kill: 13 17 18: UnnamedPlayer killed UnnamedPlayer by MOD_TELEFRAG
+  0:51 PlayerScore: 13 5: UnnamedPlayer now has 5 points
+  0:51 Challenge: 13 216 1: Client 13 got award 216
+  0:51 Challenge: 13 1 1: Client 13 got award 1
+  0:51 Challenge: 17 2 1: Client 17 got award 2
+  0:52 Item: 9 weapon_grenadelauncher
+  0:52 Item: 7 weapon_shotgun
+  0:52 Kill: 1 6 1: De Noob killed boomer by MOD_SHOTGUN
+  0:52 PlayerScore: 1 7: De Noob now has 7 points
+  0:52 Challenge: 1 203 1: Client 1 got award 203
+  0:52 Challenge: 1 1 1: Client 1 got award 1
+  0:52 Challenge: 6 2 1: Client 6 got award 2
+  0:53 Item: 5 ammo_rockets
+  0:53 Kill: 10 12 3: ploo killed jeespoks by MOD_MACHINEGUN
+  0:53 PlayerScore: 10 2: ploo now has 2 points
+  0:53 Challenge: 10 202 1: Client 10 got award 202
+  0:53 Challenge: 10 1 1: Client 10 got award 1
+  0:53 Challenge: 12 2 1: Client 12 got award 2
+  0:53 Item: 3 weapon_plasmagun
+  0:54 Item: 17 weapon_rocketlauncher
+  0:55 Kill: 6 14 5: boomer killed UnnamedPlayer by MOD_GRENADE_SPLASH
+  0:55 PlayerScore: 6 4: boomer now has 4 points
+  0:55 Challenge: 6 204 1: Client 6 got award 204
+  0:55 Challenge: 6 1 1: Client 6 got award 1
+  0:55 Challenge: 14 2 1: Client 14 got award 2
+  0:55 Item: 5 item_health
+  0:55 Kill: 1 8 1: De Noob killed sksksksk by MOD_SHOTGUN
+  0:55 PlayerScore: 1 8: De Noob now has 8 points
+  0:55 Challenge: 1 203 1: Client 1 got award 203
+  0:55 Challenge: 1 1 1: Client 1 got award 1
+  0:55 Challenge: 8 2 1: Client 8 got award 2
+  0:55 Award: 1 1: De Noob gained the EXCELLENT award!
+  0:55 Challenge: 1 302 1: Client 1 got award 302
+  0:55 Item: 0 weapon_rocketlauncher
+  0:55 Kill: 6 3 3: boomer killed bomb by MOD_MACHINEGUN
+  0:55 PlayerScore: 6 5: boomer now has 5 points
+  0:55 Challenge: 6 202 1: Client 6 got award 202
+  0:55 Challenge: 6 1 1: Client 6 got award 1
+  0:55 Challenge: 3 2 1: Client 3 got award 2
+  0:55 Award: 6 1: boomer gained the EXCELLENT award!
+  0:55 Challenge: 6 302 1: Client 6 got award 302
+  0:56 Item: 7 weapon_plasmagun
+  0:56 Kill: 11 9 3: pro killed moi by MOD_MACHINEGUN
+  0:56 PlayerScore: 11 6: pro now has 6 points
+  0:56 Challenge: 11 202 1: Client 11 got award 202
+  0:56 Challenge: 11 1 1: Client 11 got award 1
+  0:56 Challenge: 9 2 1: Client 9 got award 2
+  0:56 Item: 11 weapon_grenadelauncher
+  0:56 Kill: 4 13 3: kaapo killed UnnamedPlayer by MOD_MACHINEGUN
+  0:56 PlayerScore: 4 3: kaapo now has 3 points
+  0:56 Challenge: 4 202 1: Client 4 got award 202
+  0:56 Challenge: 4 1 1: Client 4 got award 1
+  0:56 Challenge: 13 2 1: Client 13 got award 2
+  0:57 Item: 5 weapon_plasmagun
+  0:58 Item: 3 weapon_grenadelauncher
+  0:58 Kill: 1 7 1: De Noob killed xdlol by MOD_SHOTGUN
+  0:58 PlayerScore: 1 9: De Noob now has 9 points
+  0:58 Challenge: 1 203 1: Client 1 got award 203
+  0:58 Challenge: 1 1 1: Client 1 got award 1
+  0:58 Challenge: 7 2 1: Client 7 got award 2
+  0:58 Award: 1 1: De Noob gained the EXCELLENT award!
+  0:58 Challenge: 1 302 1: Client 1 got award 302
+  0:58 Kill: 9 12 18: moi killed jeespoks by MOD_TELEFRAG
+  0:58 PlayerScore: 9 3: moi now has 3 points
+  0:58 Challenge: 9 216 1: Client 9 got award 216
+  0:58 Challenge: 9 1 1: Client 9 got award 1
+  0:58 Challenge: 12 2 1: Client 12 got award 2
+  0:58 Item: 8 weapon_plasmagun
+  0:58 Item: 2 ammo_shells
+  0:58 Item: 15 ammo_rockets
+  0:59 Kill: 13 9 18: UnnamedPlayer killed moi by MOD_TELEFRAG
+  0:59 PlayerScore: 13 6: UnnamedPlayer now has 6 points
+  0:59 Challenge: 13 216 1: Client 13 got award 216
+  0:59 Challenge: 13 1 1: Client 13 got award 1
+  0:59 Challenge: 9 2 1: Client 9 got award 2
+  0:59 Item: 13 weapon_rocketlauncher
+  0:59 Item: 1 weapon_plasmagun
+  1:00 Kill: 13 11 6: UnnamedPlayer killed pro by MOD_ROCKET
+  1:00 PlayerScore: 13 7: UnnamedPlayer now has 7 points
+  1:00 Challenge: 13 205 1: Client 13 got award 205
+  1:00 Challenge: 13 1 1: Client 13 got award 1
+  1:00 Challenge: 11 2 1: Client 11 got award 2
+  1:00 Award: 13 1: UnnamedPlayer gained the EXCELLENT award!
+  1:00 Challenge: 13 302 1: Client 13 got award 302
+  1:00 Item: 0 weapon_rocketlauncher
+  1:00 Item: 1 item_health
+  1:01 Item: 17 weapon_shotgun
+  1:02 Kill: 11 13 5: pro killed UnnamedPlayer by MOD_GRENADE_SPLASH
+  1:02 PlayerScore: 11 7: pro now has 7 points
+  1:02 Challenge: 11 204 1: Client 11 got award 204
+  1:02 Challenge: 11 1 1: Client 11 got award 1
+  1:02 Challenge: 13 2 1: Client 13 got award 2
+  1:02 Item: 6 weapon_grenadelauncher
+  1:02 Item: 1 item_health
+  1:02 Item: 14 weapon_plasmagun
+  1:03 Kill: 5 4 8: PRO GAMER 69 killed kaapo by MOD_PLASMA
+  1:03 PlayerScore: 5 5: PRO GAMER 69 now has 5 points
+  1:03 Challenge: 5 207 1: Client 5 got award 207
+  1:03 Challenge: 5 1 1: Client 5 got award 1
+  1:03 Challenge: 4 2 1: Client 4 got award 2
+  1:03 Item: 11 weapon_grenadelauncher
+  1:03 Kill: 1 2 8: De Noob killed Ficxesto by MOD_PLASMA
+  1:03 PlayerScore: 1 10: De Noob now has 10 points
+  1:03 Challenge: 1 207 1: Client 1 got award 207
+  1:03 Challenge: 1 1 1: Client 1 got award 1
+  1:03 Challenge: 2 2 1: Client 2 got award 2
+  1:03 Item: 6 weapon_rocketlauncher
+  1:03 Item: 8 weapon_plasmagun
+  1:04 Item: 9 weapon_rocketlauncher
+  1:04 Kill: 8 14 3: sksksksk killed UnnamedPlayer by MOD_MACHINEGUN
+  1:04 PlayerScore: 8 3: sksksksk now has 3 points
+  1:04 Challenge: 8 202 1: Client 8 got award 202
+  1:04 Challenge: 8 1 1: Client 8 got award 1
+  1:04 Challenge: 14 2 1: Client 14 got award 2
+  1:04 Item: 7 ammo_rockets
+  1:04 Item: 6 item_armor_combat
+  1:04 Item: 17 item_health
+  1:05 Kill: 1 10 8: De Noob killed ploo by MOD_PLASMA
+  1:05 PlayerScore: 1 11: De Noob now has 11 points
+  1:05 Challenge: 1 207 1: Client 1 got award 207
+  1:05 Challenge: 1 1 1: Client 1 got award 1
+  1:05 Challenge: 10 2 1: Client 10 got award 2
+  1:05 Award: 1 1: De Noob gained the EXCELLENT award!
+  1:05 Challenge: 1 302 1: Client 1 got award 302
+  1:05 Item: 7 ammo_cells
+  1:05 Item: 8 weapon_plasmagun
+  1:05 Item: 12 ammo_cells
+  1:05 Kill: 11 3 4: pro killed bomb by MOD_GRENADE
+  1:05 PlayerScore: 11 8: pro now has 8 points
+  1:05 Challenge: 11 204 1: Client 11 got award 204
+  1:05 Challenge: 11 1 1: Client 11 got award 1
+  1:05 Challenge: 3 2 1: Client 3 got award 2
+  1:05 Item: 0 weapon_rocketlauncher
+  1:06 Item: 17 weapon_plasmagun
+  1:06 Item: 1 weapon_shotgun
+  1:07 Kill: 5 12 8: PRO GAMER 69 killed jeespoks by MOD_PLASMA
+  1:07 PlayerScore: 5 6: PRO GAMER 69 now has 6 points
+  1:07 Challenge: 5 207 1: Client 5 got award 207
+  1:07 Challenge: 5 1 1: Client 5 got award 1
+  1:07 Challenge: 12 2 1: Client 12 got award 2
+  1:07 Item: 9 ammo_lightning
+  1:07 Item: 4 item_invis
+  1:08 Item: 13 weapon_grenadelauncher
+  1:08 Kill: 2 9 3: Ficxesto killed moi by MOD_MACHINEGUN
+  1:08 PlayerScore: 2 7: Ficxesto now has 7 points
+  1:08 Challenge: 2 202 1: Client 2 got award 202
+  1:08 Challenge: 2 1 1: Client 2 got award 1
+  1:08 Challenge: 9 2 1: Client 9 got award 2
+  1:08 Item: 17 item_health
+  1:08 Kill: 4 11 3: kaapo killed pro by MOD_MACHINEGUN
+  1:08 PlayerScore: 4 4: kaapo now has 4 points
+  1:08 Challenge: 4 202 1: Client 4 got award 202
+  1:08 Challenge: 4 1 1: Client 4 got award 1
+  1:08 Challenge: 11 2 1: Client 11 got award 2
+  1:08 Challenge: 4 404 1: Client 4 got award 404
+  1:08 Item: 4 weapon_grenadelauncher
+  1:09 Item: 10 weapon_rocketlauncher
+  1:09 Kill: 6 16 6: boomer killed UnnamedPlayer by MOD_ROCKET
+  1:09 PlayerScore: 6 6: boomer now has 6 points
+  1:09 Challenge: 6 205 1: Client 6 got award 205
+  1:09 Challenge: 6 1 1: Client 6 got award 1
+  1:09 Challenge: 16 2 1: Client 16 got award 2
+  1:09 Item: 2 weapon_rocketlauncher
+  1:09 Item: 15 ammo_rockets
+  1:10 Item: 1 item_health
+  1:10 Item: 15 ammo_bullets
+  1:10 Item: 8 weapon_grenadelauncher
+  1:10 Item: 15 ammo_lightning
+  1:10 Kill: 4 13 4: kaapo killed UnnamedPlayer by MOD_GRENADE
+  1:10 PlayerScore: 4 5: kaapo now has 5 points
+  1:10 Challenge: 4 204 1: Client 4 got award 204
+  1:10 Challenge: 4 1 1: Client 4 got award 1
+  1:10 Challenge: 13 2 1: Client 13 got award 2
+  1:10 Challenge: 4 404 1: Client 4 got award 404
+  1:10 Award: 4 1: kaapo gained the EXCELLENT award!
+  1:10 Challenge: 4 302 1: Client 4 got award 302
+  1:10 Item: 1 weapon_plasmagun
+  1:10 Item: 0 weapon_rocketlauncher
+  1:10 Item: 10 item_health
+  1:12 Kill: 3 8 3: bomb killed sksksksk by MOD_MACHINEGUN
+  1:12 PlayerScore: 3 3: bomb now has 3 points
+  1:12 Challenge: 3 202 1: Client 3 got award 202
+  1:12 Challenge: 3 1 1: Client 3 got award 1
+  1:12 Challenge: 8 2 1: Client 8 got award 2
+  1:12 Kill: 4 14 4: kaapo killed UnnamedPlayer by MOD_GRENADE
+  1:12 PlayerScore: 4 6: kaapo now has 6 points
+  1:12 Challenge: 4 204 1: Client 4 got award 204
+  1:12 Challenge: 4 1 1: Client 4 got award 1
+  1:12 Challenge: 14 2 1: Client 14 got award 2
+  1:12 Challenge: 4 404 1: Client 4 got award 404
+  1:12 Award: 4 1: kaapo gained the EXCELLENT award!
+  1:12 Challenge: 4 302 1: Client 4 got award 302
+  1:13 Item: 15 weapon_grenadelauncher
+  1:13 Kill: 2 1 6: Ficxesto killed De Noob by MOD_ROCKET
+  1:13 PlayerScore: 2 8: Ficxesto now has 8 points
+  1:13 Challenge: 2 205 1: Client 2 got award 205
+  1:13 Challenge: 2 1 1: Client 2 got award 1
+  1:13 Challenge: 1 2 1: Client 1 got award 2
+  1:13 Item: 16 weapon_grenadelauncher
+  1:13 Kill: 5 17 8: PRO GAMER 69 killed UnnamedPlayer by MOD_PLASMA
+  1:13 PlayerScore: 5 7: PRO GAMER 69 now has 7 points
+  1:13 Challenge: 5 207 1: Client 5 got award 207
+  1:13 Challenge: 5 1 1: Client 5 got award 1
+  1:13 Challenge: 17 2 1: Client 17 got award 2
+  1:13 Kill: 7 5 3: xdlol killed PRO GAMER 69 by MOD_MACHINEGUN
+  1:13 PlayerScore: 7 6: xdlol now has 6 points
+  1:13 Challenge: 7 202 1: Client 7 got award 202
+  1:13 Challenge: 7 1 1: Client 7 got award 1
+  1:13 Challenge: 5 2 1: Client 5 got award 2
+  1:13 Kill: 1022 15 14: <world> killed auts by MOD_WATER
+  1:13 PlayerScore: 15 5: auts now has 5 points
+  1:14 Item: 13 weapon_plasmagun
+  1:14 Item: 9 weapon_rocketlauncher
+  1:14 Item: 7 weapon_plasmagun
+  1:14 Kill: 14 9 18: UnnamedPlayer killed moi by MOD_TELEFRAG
+  1:14 PlayerScore: 14 6: UnnamedPlayer now has 6 points
+  1:14 Challenge: 14 216 1: Client 14 got award 216
+  1:14 Challenge: 14 1 1: Client 14 got award 1
+  1:14 Challenge: 9 2 1: Client 9 got award 2
+  1:14 Item: 14 weapon_rocketlauncher
+  1:14 Item: 3 weapon_grenadelauncher
+  1:15 Kill: 1 5 18: De Noob killed PRO GAMER 69 by MOD_TELEFRAG
+  1:15 PlayerScore: 1 12: De Noob now has 12 points
+  1:15 Challenge: 1 216 1: Client 1 got award 216
+  1:15 Challenge: 1 1 1: Client 1 got award 1
+  1:15 Challenge: 5 2 1: Client 5 got award 2
+  1:15 Item: 16 weapon_grenadelauncher
+  1:15 Kill: 15 1 18: auts killed De Noob by MOD_TELEFRAG
+  1:15 PlayerScore: 15 6: auts now has 6 points
+  1:15 Challenge: 15 216 1: Client 15 got award 216
+  1:15 Challenge: 15 1 1: Client 15 got award 1
+  1:15 Challenge: 1 2 1: Client 1 got award 2
+  1:15 Kill: 17 15 18: UnnamedPlayer killed auts by MOD_TELEFRAG
+  1:15 PlayerScore: 17 5: UnnamedPlayer now has 5 points
+  1:15 Challenge: 17 216 1: Client 17 got award 216
+  1:15 Challenge: 17 1 1: Client 17 got award 1
+  1:15 Challenge: 15 2 1: Client 15 got award 2
+  1:15 Item: 0 weapon_rocketlauncher
+  1:16 Kill: 15 11 5: auts killed pro by MOD_GRENADE_SPLASH
+  1:16 PlayerScore: 15 7: auts now has 7 points
+  1:16 Challenge: 15 204 1: Client 15 got award 204
+  1:16 Challenge: 15 1 1: Client 15 got award 1
+  1:16 Challenge: 11 2 1: Client 11 got award 2
+  1:16 Award: 15 1: auts gained the EXCELLENT award!
+  1:16 Challenge: 15 302 1: Client 15 got award 302
+  1:16 Kill: 4 16 5: kaapo killed UnnamedPlayer by MOD_GRENADE_SPLASH
+  1:16 PlayerScore: 4 7: kaapo now has 7 points
+  1:16 Challenge: 4 204 1: Client 4 got award 204
+  1:16 Challenge: 4 1 1: Client 4 got award 1
+  1:16 Challenge: 16 2 1: Client 16 got award 2
+  1:16 Challenge: 4 404 1: Client 4 got award 404
+  1:16 Item: 7 weapon_plasmagun
+  1:17 Kill: 13 4 3: UnnamedPlayer killed kaapo by MOD_MACHINEGUN
+  1:17 PlayerScore: 13 8: UnnamedPlayer now has 8 points
+  1:17 Challenge: 13 202 1: Client 13 got award 202
+  1:17 Challenge: 13 1 1: Client 13 got award 1
+  1:17 Challenge: 4 2 1: Client 4 got award 2
+  1:17 Challenge: 13 409 1: Client 13 got award 409
+  1:17 Kill: 13 8 3: UnnamedPlayer killed sksksksk by MOD_MACHINEGUN
+  1:17 PlayerScore: 13 9: UnnamedPlayer now has 9 points
+  1:17 Challenge: 13 202 1: Client 13 got award 202
+  1:17 Challenge: 13 1 1: Client 13 got award 1
+  1:17 Challenge: 8 2 1: Client 8 got award 2
+  1:17 Award: 13 1: UnnamedPlayer gained the EXCELLENT award!
+  1:17 Challenge: 13 302 1: Client 13 got award 302
+  1:17 Kill: 0 0 20: Ope killed Ope by MOD_SUICIDE
+  1:17 Playerstore: Stored player with guid: AD6ADE5966C291F885B781481CE9B4B5 in 0
+  1:17 ClientUserinfoChanged: 0 n\Ope\t\3\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AD6ADE5966C291F885B781481CE9B4B5
+  1:17 ClientBegin: 0
+  1:17 Item: 5 weapon_rocketlauncher
+  1:17 Kill: 15 17 18: auts killed UnnamedPlayer by MOD_TELEFRAG
+  1:17 PlayerScore: 15 8: auts now has 8 points
+  1:17 Challenge: 15 216 1: Client 15 got award 216
+  1:17 Challenge: 15 1 1: Client 15 got award 1
+  1:17 Challenge: 17 2 1: Client 17 got award 2
+  1:17 Kill: 1 15 18: De Noob killed auts by MOD_TELEFRAG
+  1:17 PlayerScore: 1 13: De Noob now has 13 points
+  1:17 Challenge: 1 216 1: Client 1 got award 216
+  1:17 Challenge: 1 1 1: Client 1 got award 1
+  1:17 Challenge: 15 2 1: Client 15 got award 2
+  1:17 Kill: 3 10 4: bomb killed ploo by MOD_GRENADE
+  1:17 PlayerScore: 3 4: bomb now has 4 points
+  1:17 Challenge: 3 204 1: Client 3 got award 204
+  1:17 Challenge: 3 1 1: Client 3 got award 1
+  1:17 Challenge: 10 2 1: Client 10 got award 2
+  1:18 Kill: 6 2 6: boomer killed Ficxesto by MOD_ROCKET
+  1:18 PlayerScore: 6 7: boomer now has 7 points
+  1:18 Challenge: 6 205 1: Client 6 got award 205
+  1:18 Challenge: 6 1 1: Client 6 got award 1
+  1:18 Challenge: 2 2 1: Client 2 got award 2
+  1:19 Item: 13 weapon_plasmagun
+  1:19 Item: 3 weapon_rocketlauncher
+  1:19 Item: 4 weapon_rocketlauncher
+  1:19 Kill: 9 4 18: moi killed kaapo by MOD_TELEFRAG
+  1:19 PlayerScore: 9 4: moi now has 4 points
+  1:19 Challenge: 9 216 1: Client 9 got award 216
+  1:19 Challenge: 9 1 1: Client 9 got award 1
+  1:19 Challenge: 4 2 1: Client 4 got award 2
+  1:19 Kill: 15 9 18: auts killed moi by MOD_TELEFRAG
+  1:19 PlayerScore: 15 9: auts now has 9 points
+  1:19 Challenge: 15 216 1: Client 15 got award 216
+  1:19 Challenge: 15 1 1: Client 15 got award 1
+  1:19 Challenge: 9 2 1: Client 9 got award 2
+  1:19 Kill: 17 15 18: UnnamedPlayer killed auts by MOD_TELEFRAG
+  1:19 PlayerScore: 17 6: UnnamedPlayer now has 6 points
+  1:19 Challenge: 17 216 1: Client 17 got award 216
+  1:19 Challenge: 17 1 1: Client 17 got award 1
+  1:19 Challenge: 15 2 1: Client 15 got award 2
+  1:19 Kill: 3 6 6: bomb killed boomer by MOD_ROCKET
+  1:19 PlayerScore: 3 5: bomb now has 5 points
+  1:19 Challenge: 3 205 1: Client 3 got award 205
+  1:19 Challenge: 3 1 1: Client 3 got award 1
+  1:19 Challenge: 6 2 1: Client 6 got award 2
+  1:19 Award: 3 1: bomb gained the EXCELLENT award!
+  1:19 Challenge: 3 302 1: Client 3 got award 302
+  1:19 Kill: 3 3 7: bomb killed bomb by MOD_ROCKET_SPLASH
+  1:19 PlayerScore: 3 4: bomb now has 4 points
+  1:20 Kill: 10 17 18: ploo killed UnnamedPlayer by MOD_TELEFRAG
+  1:20 PlayerScore: 10 3: ploo now has 3 points
+  1:20 Challenge: 10 216 1: Client 10 got award 216
+  1:20 Challenge: 10 1 1: Client 10 got award 1
+  1:20 Challenge: 17 2 1: Client 17 got award 2
+  1:20 Kill: 2 10 18: Ficxesto killed ploo by MOD_TELEFRAG
+  1:20 PlayerScore: 2 9: Ficxesto now has 9 points
+  1:20 Challenge: 2 216 1: Client 2 got award 216
+  1:20 Challenge: 2 1 1: Client 2 got award 1
+  1:20 Challenge: 10 2 1: Client 10 got award 2
+  1:20 Item: 16 weapon_rocketlauncher
+  1:21 Kill: 5 11 3: PRO GAMER 69 killed pro by MOD_MACHINEGUN
+  1:21 PlayerScore: 5 8: PRO GAMER 69 now has 8 points
+  1:21 Challenge: 5 202 1: Client 5 got award 202
+  1:21 Challenge: 5 1 1: Client 5 got award 1
+  1:21 Challenge: 11 2 1: Client 11 got award 2
+  1:21 Kill: 6 15 18: boomer killed auts by MOD_TELEFRAG
+  1:21 PlayerScore: 6 8: boomer now has 8 points
+  1:21 Challenge: 6 216 1: Client 6 got award 216
+  1:21 Challenge: 6 1 1: Client 6 got award 1
+  1:21 Challenge: 15 2 1: Client 15 got award 2
+  1:21 Item: 8 weapon_grenadelauncher
+  1:21 Kill: 17 6 18: UnnamedPlayer killed boomer by MOD_TELEFRAG
+  1:21 PlayerScore: 17 7: UnnamedPlayer now has 7 points
+  1:21 Challenge: 17 216 1: Client 17 got award 216
+  1:21 Challenge: 17 1 1: Client 17 got award 1
+  1:21 Challenge: 6 2 1: Client 6 got award 2
+  1:22 Item: 13 item_invis
+  1:22 Kill: 10 4 18: ploo killed kaapo by MOD_TELEFRAG
+  1:22 PlayerScore: 10 4: ploo now has 4 points
+  1:22 Challenge: 10 216 1: Client 10 got award 216
+  1:22 Challenge: 10 1 1: Client 10 got award 1
+  1:22 Challenge: 4 2 1: Client 4 got award 2
+  1:23 Kill: 16 5 6: UnnamedPlayer killed PRO GAMER 69 by MOD_ROCKET
+  1:23 PlayerScore: 16 3: UnnamedPlayer now has 3 points
+  1:23 Challenge: 16 205 1: Client 16 got award 205
+  1:23 Challenge: 16 1 1: Client 16 got award 1
+  1:23 Challenge: 5 2 1: Client 5 got award 2
+  1:23 Kill: 6 10 18: boomer killed ploo by MOD_TELEFRAG
+  1:23 PlayerScore: 6 9: boomer now has 9 points
+  1:23 Challenge: 6 216 1: Client 6 got award 216
+  1:23 Challenge: 6 1 1: Client 6 got award 1
+  1:23 Challenge: 10 2 1: Client 10 got award 2
+  1:23 Kill: 9 6 18: moi killed boomer by MOD_TELEFRAG
+  1:23 PlayerScore: 9 5: moi now has 5 points
+  1:23 Challenge: 9 216 1: Client 9 got award 216
+  1:23 Challenge: 9 1 1: Client 9 got award 1
+  1:23 Challenge: 6 2 1: Client 6 got award 2
+  1:24 Item: 15 weapon_plasmagun
+  1:24 Item: 9 weapon_rocketlauncher
+  1:24 Kill: 4 9 18: kaapo killed moi by MOD_TELEFRAG
+  1:24 PlayerScore: 4 8: kaapo now has 8 points
+  1:24 Challenge: 4 216 1: Client 4 got award 216
+  1:24 Challenge: 4 1 1: Client 4 got award 1
+  1:24 Challenge: 9 2 1: Client 9 got award 2
+  1:24 Item: 4 weapon_rocketlauncher
+  1:24 Item: 13 weapon_grenadelauncher
+  1:24 Item: 7 weapon_rocketlauncher
+  1:25 Item: 6 weapon_rocketlauncher
+  1:25 Kill: 4 12 3: kaapo killed jeespoks by MOD_MACHINEGUN
+  1:25 PlayerScore: 4 9: kaapo now has 9 points
+  1:25 Challenge: 4 202 1: Client 4 got award 202
+  1:25 Challenge: 4 1 1: Client 4 got award 1
+  1:25 Challenge: 12 2 1: Client 12 got award 2
+  1:25 Award: 4 1: kaapo gained the EXCELLENT award!
+  1:25 Challenge: 4 302 1: Client 4 got award 302
+  1:26 Item: 8 weapon_rocketlauncher
+  1:26 Kill: 2 1 3: Ficxesto killed De Noob by MOD_MACHINEGUN
+  1:26 PlayerScore: 2 10: Ficxesto now has 10 points
+  1:26 Challenge: 2 202 1: Client 2 got award 202
+  1:26 Challenge: 2 1 1: Client 2 got award 1
+  1:26 Challenge: 1 2 1: Client 1 got award 2
+  1:26 Item: 13 weapon_grenadelauncher
+  1:26 Item: 8 weapon_grenadelauncher
+  1:27 Kill: 6 16 6: boomer killed UnnamedPlayer by MOD_ROCKET
+  1:27 PlayerScore: 6 10: boomer now has 10 points
+  1:27 Challenge: 6 205 1: Client 6 got award 205
+  1:27 Challenge: 6 1 1: Client 6 got award 1
+  1:27 Challenge: 16 2 1: Client 16 got award 2
+  1:28 Kill: 2 10 3: Ficxesto killed ploo by MOD_MACHINEGUN
+  1:28 PlayerScore: 2 11: Ficxesto now has 11 points
+  1:28 Challenge: 2 202 1: Client 2 got award 202
+  1:28 Challenge: 2 1 1: Client 2 got award 1
+  1:28 Challenge: 10 2 1: Client 10 got award 2
+  1:28 Award: 2 1: Ficxesto gained the EXCELLENT award!
+  1:28 Challenge: 2 302 1: Client 2 got award 302
+  1:28 Item: 7 ammo_bullets
+  1:28 Kill: 17 14 3: UnnamedPlayer killed UnnamedPlayer by MOD_MACHINEGUN
+  1:28 PlayerScore: 17 8: UnnamedPlayer now has 8 points
+  1:28 Challenge: 17 202 1: Client 17 got award 202
+  1:28 Challenge: 17 1 1: Client 17 got award 1
+  1:28 Challenge: 14 2 1: Client 14 got award 2
+  1:29 Item: 6 weapon_rocketlauncher
+  1:29 Kill: 15 5 8: auts killed PRO GAMER 69 by MOD_PLASMA
+  1:29 PlayerScore: 15 10: auts now has 10 points
+  1:29 Challenge: 15 207 1: Client 15 got award 207
+  1:29 Challenge: 15 1 1: Client 15 got award 1
+  1:29 Challenge: 5 2 1: Client 5 got award 2
+  1:29 Kill: 15 15 9: auts killed auts by MOD_PLASMA_SPLASH
+  1:29 PlayerScore: 15 9: auts now has 9 points
+  1:29 Kill: 6 11 6: boomer killed pro by MOD_ROCKET
+  1:29 PlayerScore: 6 11: boomer now has 11 points
+  1:29 Challenge: 6 205 1: Client 6 got award 205
+  1:29 Challenge: 6 1 1: Client 6 got award 1
+  1:29 Challenge: 11 2 1: Client 11 got award 2
+  1:29 Award: 6 1: boomer gained the EXCELLENT award!
+  1:29 Challenge: 6 302 1: Client 6 got award 302
+  1:30 Item: 12 weapon_plasmagun
+  1:30 Item: 7 ammo_bullets
+  1:30 Item: 3 weapon_rocketlauncher
+  1:31 Item: 5 weapon_rocketlauncher
+  1:31 Item: 9 weapon_plasmagun
+  1:31 Kill: 1022 7 14: <world> killed xdlol by MOD_WATER
+  1:31 PlayerScore: 7 5: xdlol now has 5 points
+  1:31 Kill: 2 3 3: Ficxesto killed bomb by MOD_MACHINEGUN
+  1:31 PlayerScore: 2 12: Ficxesto now has 12 points
+  1:31 Challenge: 2 202 1: Client 2 got award 202
+  1:31 Challenge: 2 1 1: Client 2 got award 1
+  1:31 Challenge: 3 2 1: Client 3 got award 2
+  1:31 Award: 2 1: Ficxesto gained the EXCELLENT award!
+  1:31 Challenge: 2 302 1: Client 2 got award 302
+  1:31 Item: 17 weapon_rocketlauncher
+  1:32 Kill: 17 15 6: UnnamedPlayer killed auts by MOD_ROCKET
+  1:32 PlayerScore: 17 9: UnnamedPlayer now has 9 points
+  1:32 Challenge: 17 205 1: Client 17 got award 205
+  1:32 Challenge: 17 1 1: Client 17 got award 1
+  1:32 Challenge: 15 2 1: Client 15 got award 2
+  1:32 Item: 11 weapon_grenadelauncher
+  1:32 Kill: 9 14 8: moi killed UnnamedPlayer by MOD_PLASMA
+  1:32 PlayerScore: 9 6: moi now has 6 points
+  1:32 Challenge: 9 207 1: Client 9 got award 207
+  1:32 Challenge: 9 1 1: Client 9 got award 1
+  1:32 Challenge: 14 2 1: Client 14 got award 2
+  1:32 Kill: 17 4 7: UnnamedPlayer killed kaapo by MOD_ROCKET_SPLASH
+  1:32 PlayerScore: 17 10: UnnamedPlayer now has 10 points
+  1:32 Challenge: 17 205 1: Client 17 got award 205
+  1:32 Challenge: 17 1 1: Client 17 got award 1
+  1:32 Challenge: 4 2 1: Client 4 got award 2
+  1:32 Award: 17 1: UnnamedPlayer gained the EXCELLENT award!
+  1:32 Challenge: 17 302 1: Client 17 got award 302
+  1:33 Kill: 6 16 6: boomer killed UnnamedPlayer by MOD_ROCKET
+  1:33 PlayerScore: 6 12: boomer now has 12 points
+  1:33 Challenge: 6 205 1: Client 6 got award 205
+  1:33 Challenge: 6 1 1: Client 6 got award 1
+  1:33 Challenge: 16 2 1: Client 16 got award 2
+  1:34 Kill: 8 12 6: sksksksk killed jeespoks by MOD_ROCKET
+  1:34 PlayerScore: 8 4: sksksksk now has 4 points
+  1:34 Challenge: 8 205 1: Client 8 got award 205
+  1:34 Challenge: 8 1 1: Client 8 got award 1
+  1:34 Challenge: 12 2 1: Client 12 got award 2
+  1:34 Kill: 8 13 7: sksksksk killed UnnamedPlayer by MOD_ROCKET_SPLASH
+  1:34 PlayerScore: 8 5: sksksksk now has 5 points
+  1:34 Challenge: 8 205 1: Client 8 got award 205
+  1:34 Challenge: 8 1 1: Client 8 got award 1
+  1:34 Challenge: 13 2 1: Client 13 got award 2
+  1:34 Award: 8 1: sksksksk gained the EXCELLENT award!
+  1:34 Challenge: 8 302 1: Client 8 got award 302
+  1:34 Kill: 6 2 6: boomer killed Ficxesto by MOD_ROCKET
+  1:34 PlayerScore: 6 13: boomer now has 13 points
+  1:34 Challenge: 6 205 1: Client 6 got award 205
+  1:34 Challenge: 6 1 1: Client 6 got award 1
+  1:34 Challenge: 2 2 1: Client 2 got award 2
+  1:34 Award: 6 1: boomer gained the EXCELLENT award!
+  1:34 Challenge: 6 302 1: Client 6 got award 302
+  1:35 Item: 5 ammo_rockets
+  1:35 Item: 15 weapon_rocketlauncher
+  1:36 Item: 13 weapon_rocketlauncher
+  1:36 Kill: 2 15 18: Ficxesto killed auts by MOD_TELEFRAG
+  1:36 PlayerScore: 2 13: Ficxesto now has 13 points
+  1:36 Challenge: 2 216 1: Client 2 got award 216
+  1:36 Challenge: 2 1 1: Client 2 got award 1
+  1:36 Challenge: 15 2 1: Client 15 got award 2
+  1:36 Item: 2 weapon_rocketlauncher
+  1:36 Kill: 6 3 6: boomer killed bomb by MOD_ROCKET
+  1:36 PlayerScore: 6 14: boomer now has 14 points
+  1:36 Challenge: 6 205 1: Client 6 got award 205
+  1:36 Challenge: 6 1 1: Client 6 got award 1
+  1:36 Challenge: 3 2 1: Client 3 got award 2
+  1:36 Award: 6 1: boomer gained the EXCELLENT award!
+  1:36 Challenge: 6 302 1: Client 6 got award 302
+  1:37 Item: 10 weapon_grenadelauncher
+  1:37 Item: 1 item_health_small
+  1:37 Item: 7 weapon_plasmagun
+  1:37 Item: 1 item_health_small
+  1:38 Item: 8 weapon_grenadelauncher
+  1:38 Item: 1 item_health_small
+  1:38 Kill: 2 5 3: Ficxesto killed PRO GAMER 69 by MOD_MACHINEGUN
+  1:38 PlayerScore: 2 14: Ficxesto now has 14 points
+  1:38 Challenge: 2 202 1: Client 2 got award 202
+  1:38 Challenge: 2 1 1: Client 2 got award 1
+  1:38 Challenge: 5 2 1: Client 5 got award 2
+  1:38 Award: 2 1: Ficxesto gained the EXCELLENT award!
+  1:38 Challenge: 2 302 1: Client 2 got award 302
+  1:39 Item: 1 item_armor_body
+  1:39 Item: 1 ammo_cells
+  1:39 Kill: 9 6 8: moi killed boomer by MOD_PLASMA
+  1:39 PlayerScore: 9 7: moi now has 7 points
+  1:39 Challenge: 9 207 1: Client 9 got award 207
+  1:39 Challenge: 9 1 1: Client 9 got award 1
+  1:39 Challenge: 6 2 1: Client 6 got award 2
+  1:39 Item: 9 weapon_rocketlauncher
+  1:41 Item: 1 ammo_bullets
+  1:41 Item: 12 weapon_rocketlauncher
+  1:41 Item: 1 item_health_small
+  1:41 Item: 9 item_armor_combat
+  1:41 Item: 6 weapon_rocketlauncher
+  1:42 Kill: 7 5 8: xdlol killed PRO GAMER 69 by MOD_PLASMA
+  1:42 PlayerScore: 7 6: xdlol now has 6 points
+  1:42 Challenge: 7 207 1: Client 7 got award 207
+  1:42 Challenge: 7 1 1: Client 7 got award 1
+  1:42 Challenge: 5 2 1: Client 5 got award 2
+  1:42 Kill: 7 10 8: xdlol killed ploo by MOD_PLASMA
+  1:42 PlayerScore: 7 7: xdlol now has 7 points
+  1:42 Challenge: 7 207 1: Client 7 got award 207
+  1:42 Challenge: 7 1 1: Client 7 got award 1
+  1:42 Challenge: 10 2 1: Client 10 got award 2
+  1:42 Award: 7 1: xdlol gained the EXCELLENT award!
+  1:42 Challenge: 7 302 1: Client 7 got award 302
+  1:44 Item: 10 weapon_plasmagun
+  1:44 Item: 11 ammo_rockets
+  1:44 Kill: 1022 8 14: <world> killed sksksksk by MOD_WATER
+  1:44 PlayerScore: 8 4: sksksksk now has 4 points
+  1:44 Item: 4 weapon_plasmagun
+  1:44 Item: 12 weapon_shotgun
+  1:45 Kill: 6 2 3: boomer killed Ficxesto by MOD_MACHINEGUN
+  1:45 PlayerScore: 6 15: boomer now has 15 points
+  1:45 Challenge: 6 202 1: Client 6 got award 202
+  1:45 Challenge: 6 1 1: Client 6 got award 1
+  1:45 Challenge: 2 2 1: Client 2 got award 2
+  1:45 Item: 11 holdable_teleporter
+  1:45 Item: 1 item_health_small
+  1:45 Kill: 6 13 3: boomer killed UnnamedPlayer by MOD_MACHINEGUN
+  1:45 PlayerScore: 6 16: boomer now has 16 points
+  1:45 Challenge: 6 202 1: Client 6 got award 202
+  1:45 Challenge: 6 1 1: Client 6 got award 1
+  1:45 Challenge: 13 2 1: Client 13 got award 2
+  1:45 Award: 6 1: boomer gained the EXCELLENT award!
+  1:45 Challenge: 6 302 1: Client 6 got award 302
+  1:46 Item: 8 weapon_grenadelauncher
+  1:46 Kill: 15 11 3: auts killed pro by MOD_MACHINEGUN
+  1:46 PlayerScore: 15 10: auts now has 10 points
+  1:46 Challenge: 15 202 1: Client 15 got award 202
+  1:46 Challenge: 15 1 1: Client 15 got award 1
+  1:46 Challenge: 11 2 1: Client 11 got award 2
+  1:46 Item: 2 weapon_rocketlauncher
+  1:47 Item: 12 item_health
+  1:48 Item: 1 item_armor_shard
+  1:48 Kill: 5 14 3: PRO GAMER 69 killed UnnamedPlayer by MOD_MACHINEGUN
+  1:48 PlayerScore: 5 9: PRO GAMER 69 now has 9 points
+  1:48 Challenge: 5 202 1: Client 5 got award 202
+  1:48 Challenge: 5 1 1: Client 5 got award 1
+  1:48 Challenge: 14 2 1: Client 14 got award 2
+  1:48 Kill: 4 12 8: kaapo killed jeespoks by MOD_PLASMA
+  1:48 PlayerScore: 4 10: kaapo now has 10 points
+  1:48 Challenge: 4 207 1: Client 4 got award 207
+  1:48 Challenge: 4 1 1: Client 4 got award 1
+  1:48 Challenge: 12 2 1: Client 12 got award 2
+  1:49 Item: 10 weapon_plasmagun
+  1:49 Item: 1 item_quad
+  1:49 Kill: 3 15 3: bomb killed auts by MOD_MACHINEGUN
+  1:49 PlayerScore: 3 5: bomb now has 5 points
+  1:49 Challenge: 3 202 1: Client 3 got award 202
+  1:49 Challenge: 3 1 1: Client 3 got award 1
+  1:49 Challenge: 15 2 1: Client 15 got award 2
+  1:50 Item: 7 ammo_lightning
+  1:50 Item: 4 item_health
+  1:51 Item: 11 weapon_grenadelauncher
+  1:51 Item: 15 weapon_rocketlauncher
+  1:51 Item: 1 ammo_lightning
+  1:51 Item: 13 weapon_rocketlauncher
+  1:52 Item: 4 ammo_shells
+  1:52 Kill: 8 3 3: sksksksk killed bomb by MOD_MACHINEGUN
+  1:52 PlayerScore: 8 5: sksksksk now has 5 points
+  1:52 Challenge: 8 202 1: Client 8 got award 202
+  1:52 Challenge: 8 1 1: Client 8 got award 1
+  1:52 Challenge: 3 2 1: Client 3 got award 2
+  1:53 Kill: 1022 16 14: <world> killed UnnamedPlayer by MOD_WATER
+  1:53 PlayerScore: 16 2: UnnamedPlayer now has 2 points
+  1:54 Item: 10 weapon_plasmagun
+  1:54 Kill: 6 8 3: boomer killed sksksksk by MOD_MACHINEGUN
+  1:54 PlayerScore: 6 17: boomer now has 17 points
+  1:54 Challenge: 6 202 1: Client 6 got award 202
+  1:54 Challenge: 6 1 1: Client 6 got award 1
+  1:54 Challenge: 8 2 1: Client 8 got award 2
+  1:54 Item: 13 item_health
+  1:55 Kill: 9 11 6: moi killed pro by MOD_ROCKET
+  1:55 PlayerScore: 9 8: moi now has 8 points
+  1:55 Challenge: 9 205 1: Client 9 got award 205
+  1:55 Challenge: 9 1 1: Client 9 got award 1
+  1:55 Challenge: 11 2 1: Client 11 got award 2
+  1:55 Kill: 13 17 3: UnnamedPlayer killed UnnamedPlayer by MOD_MACHINEGUN
+  1:55 PlayerScore: 13 10: UnnamedPlayer now has 10 points
+  1:55 Challenge: 13 202 1: Client 13 got award 202
+  1:55 Challenge: 13 1 1: Client 13 got award 1
+  1:55 Challenge: 17 2 1: Client 17 got award 2
+  1:55 Item: 9 weapon_grenadelauncher
+  1:55 Item: 1 item_health
+  1:55 Kill: 4 6 8: kaapo killed boomer by MOD_PLASMA
+  1:55 PlayerScore: 4 11: kaapo now has 11 points
+  1:55 Challenge: 4 207 1: Client 4 got award 207
+  1:55 Challenge: 4 1 1: Client 4 got award 1
+  1:55 Challenge: 6 2 1: Client 6 got award 2
+  1:56 Kill: 1 2 3: De Noob killed Ficxesto by MOD_MACHINEGUN
+  1:56 PlayerScore: 1 14: De Noob now has 14 points
+  1:56 Challenge: 1 202 1: Client 1 got award 202
+  1:56 Challenge: 1 1 1: Client 1 got award 1
+  1:56 Challenge: 2 2 1: Client 2 got award 2
+  1:56 Challenge: 1 401 1: Client 1 got award 401
+  1:56 Kill: 7 4 8: xdlol killed kaapo by MOD_PLASMA
+  1:56 PlayerScore: 7 8: xdlol now has 8 points
+  1:56 Challenge: 7 207 1: Client 7 got award 207
+  1:56 Challenge: 7 1 1: Client 7 got award 1
+  1:56 Challenge: 4 2 1: Client 4 got award 2
+  1:56 Item: 16 weapon_grenadelauncher
+  1:56 Item: 12 weapon_rocketlauncher
+  1:56 Item: 8 weapon_rocketlauncher
+  1:57 Kill: 17 8 18: UnnamedPlayer killed sksksksk by MOD_TELEFRAG
+  1:57 PlayerScore: 17 11: UnnamedPlayer now has 11 points
+  1:57 Challenge: 17 216 1: Client 17 got award 216
+  1:57 Challenge: 17 1 1: Client 17 got award 1
+  1:57 Challenge: 8 2 1: Client 8 got award 2
+  1:57 Item: 17 weapon_rocketlauncher
+  1:57 Kill: 6 17 18: boomer killed UnnamedPlayer by MOD_TELEFRAG
+  1:57 PlayerScore: 6 18: boomer now has 18 points
+  1:57 Challenge: 6 216 1: Client 6 got award 216
+  1:57 Challenge: 6 1 1: Client 6 got award 1
+  1:57 Challenge: 17 2 1: Client 17 got award 2
+  1:58 Kill: 2 6 18: Ficxesto killed boomer by MOD_TELEFRAG
+  1:58 PlayerScore: 2 15: Ficxesto now has 15 points
+  1:58 Challenge: 2 216 1: Client 2 got award 216
+  1:58 Challenge: 2 1 1: Client 2 got award 1
+  1:58 Challenge: 6 2 1: Client 6 got award 2
+  1:58 Kill: 10 9 3: ploo killed moi by MOD_MACHINEGUN
+  1:58 PlayerScore: 10 5: ploo now has 5 points
+  1:58 Challenge: 10 202 1: Client 10 got award 202
+  1:58 Challenge: 10 1 1: Client 10 got award 1
+  1:58 Challenge: 9 2 1: Client 9 got award 2
+  1:58 Item: 10 weapon_grenadelauncher
+  1:58 Kill: 1 15 3: De Noob killed auts by MOD_MACHINEGUN
+  1:58 PlayerScore: 1 15: De Noob now has 15 points
+  1:58 Challenge: 1 202 1: Client 1 got award 202
+  1:58 Challenge: 1 1 1: Client 1 got award 1
+  1:58 Challenge: 15 2 1: Client 15 got award 2
+  1:58 Challenge: 1 401 1: Client 1 got award 401
+  1:58 Award: 1 1: De Noob gained the EXCELLENT award!
+  1:58 Challenge: 1 302 1: Client 1 got award 302
+  1:58 Kill: 5 13 3: PRO GAMER 69 killed UnnamedPlayer by MOD_MACHINEGUN
+  1:58 PlayerScore: 5 10: PRO GAMER 69 now has 10 points
+  1:58 Challenge: 5 202 1: Client 5 got award 202
+  1:58 Challenge: 5 1 1: Client 5 got award 1
+  1:58 Challenge: 13 2 1: Client 13 got award 2
+  1:59 Item: 10 weapon_plasmagun
+  2:01 Item: 1 ammo_grenades
+  2:01 Item: 1 weapon_rocketlauncher
+  2:01 Kill: 4 11 3: kaapo killed pro by MOD_MACHINEGUN
+  2:01 PlayerScore: 4 12: kaapo now has 12 points
+  2:01 Challenge: 4 202 1: Client 4 got award 202
+  2:01 Challenge: 4 1 1: Client 4 got award 1
+  2:01 Challenge: 11 2 1: Client 11 got award 2
+  2:01 Kill: 6 15 18: boomer killed auts by MOD_TELEFRAG
+  2:01 PlayerScore: 6 19: boomer now has 19 points
+  2:01 Challenge: 6 216 1: Client 6 got award 216
+  2:01 Challenge: 6 1 1: Client 6 got award 1
+  2:01 Challenge: 15 2 1: Client 15 got award 2
+  2:01 Item: 8 weapon_grenadelauncher
+  2:01 Kill: 4 14 3: kaapo killed UnnamedPlayer by MOD_MACHINEGUN
+  2:01 PlayerScore: 4 13: kaapo now has 13 points
+  2:01 Challenge: 4 202 1: Client 4 got award 202
+  2:01 Challenge: 4 1 1: Client 4 got award 1
+  2:01 Challenge: 14 2 1: Client 14 got award 2
+  2:01 Award: 4 1: kaapo gained the EXCELLENT award!
+  2:01 Challenge: 4 302 1: Client 4 got award 302
+  2:01 Item: 9 weapon_rocketlauncher
+  2:02 Kill: 4 10 3: kaapo killed ploo by MOD_MACHINEGUN
+  2:02 PlayerScore: 4 14: kaapo now has 14 points
+  2:02 Challenge: 4 202 1: Client 4 got award 202
+  2:02 Challenge: 4 1 1: Client 4 got award 1
+  2:02 Challenge: 10 2 1: Client 10 got award 2
+  2:02 Award: 4 1: kaapo gained the EXCELLENT award!
+  2:02 Challenge: 4 302 1: Client 4 got award 302
+  2:02 Item: 5 ammo_bullets
+  2:02 Item: 1 ammo_shells
+  2:02 Item: 5 weapon_plasmagun
+  2:03 Item: 11 weapon_rocketlauncher
+  2:03 Kill: 14 11 18: UnnamedPlayer killed pro by MOD_TELEFRAG
+  2:03 PlayerScore: 14 7: UnnamedPlayer now has 7 points
+  2:03 Challenge: 14 216 1: Client 14 got award 216
+  2:03 Challenge: 14 1 1: Client 14 got award 1
+  2:03 Challenge: 11 2 1: Client 11 got award 2
+  2:03 Kill: 1022 7 14: <world> killed xdlol by MOD_WATER
+  2:03 PlayerScore: 7 7: xdlol now has 7 points
+  2:03 Kill: 17 16 3: UnnamedPlayer killed UnnamedPlayer by MOD_MACHINEGUN
+  2:03 PlayerScore: 17 12: UnnamedPlayer now has 12 points
+  2:03 Challenge: 17 202 1: Client 17 got award 202
+  2:03 Challenge: 17 1 1: Client 17 got award 1
+  2:03 Challenge: 16 2 1: Client 16 got award 2
+  2:03 Item: 17 weapon_grenadelauncher
+  2:04 Kill: 3 5 3: bomb killed PRO GAMER 69 by MOD_MACHINEGUN
+  2:04 PlayerScore: 3 6: bomb now has 6 points
+  2:04 Challenge: 3 202 1: Client 3 got award 202
+  2:04 Challenge: 3 1 1: Client 3 got award 1
+  2:04 Challenge: 5 2 1: Client 5 got award 2
+  2:04 Kill: 1 8 6: De Noob killed sksksksk by MOD_ROCKET
+  2:04 PlayerScore: 1 16: De Noob now has 16 points
+  2:04 Challenge: 1 205 1: Client 1 got award 205
+  2:04 Challenge: 1 1 1: Client 1 got award 1
+  2:04 Challenge: 8 2 1: Client 8 got award 2
+  2:04 Challenge: 1 401 1: Client 1 got award 401
+  2:04 Item: 3 weapon_plasmagun
+  2:05 Item: 16 weapon_plasmagun
+  2:05 Kill: 2 14 3: Ficxesto killed UnnamedPlayer by MOD_MACHINEGUN
+  2:05 PlayerScore: 2 16: Ficxesto now has 16 points
+  2:05 Challenge: 2 202 1: Client 2 got award 202
+  2:05 Challenge: 2 1 1: Client 2 got award 1
+  2:05 Challenge: 14 2 1: Client 14 got award 2
+  2:05 Kill: 12 3 6: jeespoks killed bomb by MOD_ROCKET
+  2:05 PlayerScore: 12 4: jeespoks now has 4 points
+  2:05 Challenge: 12 205 1: Client 12 got award 205
+  2:05 Challenge: 12 1 1: Client 12 got award 1
+  2:05 Challenge: 3 2 1: Client 3 got award 2
+  2:05 Kill: 13 4 3: UnnamedPlayer killed kaapo by MOD_MACHINEGUN
+  2:05 PlayerScore: 13 11: UnnamedPlayer now has 11 points
+  2:05 Challenge: 13 202 1: Client 13 got award 202
+  2:05 Challenge: 13 1 1: Client 13 got award 1
+  2:05 Challenge: 4 2 1: Client 4 got award 2
+  2:05 Item: 1 weapon_grenadelauncher
+  2:05 Kill: 5 7 18: PRO GAMER 69 killed xdlol by MOD_TELEFRAG
+  2:05 PlayerScore: 5 11: PRO GAMER 69 now has 11 points
+  2:05 Challenge: 5 216 1: Client 5 got award 216
+  2:05 Challenge: 5 1 1: Client 5 got award 1
+  2:05 Challenge: 7 2 1: Client 7 got award 2
+  2:06 Item: 11 weapon_grenadelauncher
+  2:06 Item: 10 weapon_rocketlauncher
+  2:06 Item: 9 weapon_plasmagun
+  2:07 Kill: 4 5 18: kaapo killed PRO GAMER 69 by MOD_TELEFRAG
+  2:07 PlayerScore: 4 15: kaapo now has 15 points
+  2:07 Challenge: 4 216 1: Client 4 got award 216
+  2:07 Challenge: 4 1 1: Client 4 got award 1
+  2:07 Challenge: 5 2 1: Client 5 got award 2
+  2:07 Item: 12 ammo_bullets
+  2:07 Kill: 3 4 18: bomb killed kaapo by MOD_TELEFRAG
+  2:07 PlayerScore: 3 7: bomb now has 7 points
+  2:07 Challenge: 3 216 1: Client 3 got award 216
+  2:07 Challenge: 3 1 1: Client 3 got award 1
+  2:07 Challenge: 4 2 1: Client 4 got award 2
+  2:08 Item: 3 weapon_rocketlauncher
+  2:08 Kill: 17 12 4: UnnamedPlayer killed jeespoks by MOD_GRENADE
+  2:08 PlayerScore: 17 13: UnnamedPlayer now has 13 points
+  2:08 Challenge: 17 204 1: Client 17 got award 204
+  2:08 Challenge: 17 1 1: Client 17 got award 1
+  2:08 Challenge: 12 2 1: Client 12 got award 2
+  2:09 Kill: 6 2 3: boomer killed Ficxesto by MOD_MACHINEGUN
+  2:09 PlayerScore: 6 20: boomer now has 20 points
+  2:09 Challenge: 6 202 1: Client 6 got award 202
+  2:09 Challenge: 6 1 1: Client 6 got award 1
+  2:09 Challenge: 2 2 1: Client 2 got award 2
+  2:09 Kill: 10 15 3: ploo killed auts by MOD_MACHINEGUN
+  2:09 PlayerScore: 10 6: ploo now has 6 points
+  2:09 Challenge: 10 202 1: Client 10 got award 202
+  2:09 Challenge: 10 1 1: Client 10 got award 1
+  2:09 Challenge: 15 2 1: Client 15 got award 2
+  2:10 Kill: 9 17 9: moi killed UnnamedPlayer by MOD_PLASMA_SPLASH
+  2:10 PlayerScore: 9 9: moi now has 9 points
+  2:10 Challenge: 9 207 1: Client 9 got award 207
+  2:10 Challenge: 9 1 1: Client 9 got award 1
+  2:10 Challenge: 17 2 1: Client 17 got award 2
+  2:10 Kill: 11 13 5: pro killed UnnamedPlayer by MOD_GRENADE_SPLASH
+  2:10 PlayerScore: 11 9: pro now has 9 points
+  2:10 Challenge: 11 204 1: Client 11 got award 204
+  2:10 Challenge: 11 1 1: Client 11 got award 1
+  2:10 Challenge: 13 2 1: Client 13 got award 2
+  2:10 Item: 6 ammo_grenades
+  2:10 Item: 9 weapon_grenadelauncher
+  2:10 Kill: 11 7 4: pro killed xdlol by MOD_GRENADE
+  2:10 PlayerScore: 11 10: pro now has 10 points
+  2:10 Challenge: 11 204 1: Client 11 got award 204
+  2:10 Challenge: 11 1 1: Client 11 got award 1
+  2:10 Challenge: 7 2 1: Client 7 got award 2
+  2:10 Award: 11 1: pro gained the EXCELLENT award!
+  2:10 Challenge: 11 302 1: Client 11 got award 302
+  2:11 Kill: 8 11 3: sksksksk killed pro by MOD_MACHINEGUN
+  2:11 PlayerScore: 8 6: sksksksk now has 6 points
+  2:11 Challenge: 8 202 1: Client 8 got award 202
+  2:11 Challenge: 8 1 1: Client 8 got award 1
+  2:11 Challenge: 11 2 1: Client 11 got award 2
+  2:11 Item: 2 weapon_plasmagun
+  2:11 Item: 8 weapon_grenadelauncher
+  2:11 Item: 10 weapon_rocketlauncher
+  2:11 Item: 3 weapon_shotgun
+  2:12 Kill: 17 14 18: UnnamedPlayer killed UnnamedPlayer by MOD_TELEFRAG
+  2:12 PlayerScore: 17 14: UnnamedPlayer now has 14 points
+  2:12 Challenge: 17 216 1: Client 17 got award 216
+  2:12 Challenge: 17 1 1: Client 17 got award 1
+  2:12 Challenge: 14 2 1: Client 14 got award 2
+  2:12 Kill: 2 5 3: Ficxesto killed PRO GAMER 69 by MOD_MACHINEGUN
+  2:12 PlayerScore: 2 17: Ficxesto now has 17 points
+  2:12 Challenge: 2 202 1: Client 2 got award 202
+  2:12 Challenge: 2 1 1: Client 2 got award 1
+  2:12 Challenge: 5 2 1: Client 5 got award 2
+  2:12 Kill: 7 17 18: xdlol killed UnnamedPlayer by MOD_TELEFRAG
+  2:12 PlayerScore: 7 8: xdlol now has 8 points
+  2:12 Challenge: 7 216 1: Client 7 got award 216
+  2:12 Challenge: 7 1 1: Client 7 got award 1
+  2:12 Challenge: 17 2 1: Client 17 got award 2
+  2:12 Kill: 12 7 18: jeespoks killed xdlol by MOD_TELEFRAG
+  2:12 PlayerScore: 12 5: jeespoks now has 5 points
+  2:12 Challenge: 12 216 1: Client 12 got award 216
+  2:12 Challenge: 12 1 1: Client 12 got award 1
+  2:12 Challenge: 7 2 1: Client 7 got award 2
+  2:12 Item: 4 item_armor_combat
+  2:13 Item: 12 weapon_rocketlauncher
+  2:13 Kill: 13 12 18: UnnamedPlayer killed jeespoks by MOD_TELEFRAG
+  2:13 PlayerScore: 13 12: UnnamedPlayer now has 12 points
+  2:13 Challenge: 13 216 1: Client 13 got award 216
+  2:13 Challenge: 13 1 1: Client 13 got award 1
+  2:13 Challenge: 12 2 1: Client 12 got award 2
+  2:13 Item: 13 weapon_rocketlauncher
+  2:13 Item: 16 item_health
+  2:13 Item: 8 weapon_grenadelauncher
+  2:13 Kill: 1 9 4: De Noob killed moi by MOD_GRENADE
+  2:13 PlayerScore: 1 17: De Noob now has 17 points
+  2:13 Challenge: 1 204 1: Client 1 got award 204
+  2:13 Challenge: 1 1 1: Client 1 got award 1
+  2:13 Challenge: 9 2 1: Client 9 got award 2
+  2:13 Challenge: 1 401 1: Client 1 got award 401
+  2:13 Item: 2 item_invis
+  2:13 Item: 16 weapon_shotgun
+  2:14 Kill: 1 3 4: De Noob killed bomb by MOD_GRENADE
+  2:14 PlayerScore: 1 18: De Noob now has 18 points
+  2:14 Challenge: 1 204 1: Client 1 got award 204
+  2:14 Challenge: 1 1 1: Client 1 got award 1
+  2:14 Challenge: 3 2 1: Client 3 got award 2
+  2:14 Challenge: 1 401 1: Client 1 got award 401
+  2:14 Award: 1 1: De Noob gained the EXCELLENT award!
+  2:14 Challenge: 1 302 1: Client 1 got award 302
+  2:14 Kill: 2 8 3: Ficxesto killed sksksksk by MOD_MACHINEGUN
+  2:14 PlayerScore: 2 18: Ficxesto now has 18 points
+  2:14 Challenge: 2 202 1: Client 2 got award 202
+  2:14 Challenge: 2 1 1: Client 2 got award 1
+  2:14 Challenge: 8 2 1: Client 8 got award 2
+  2:14 Challenge: 2 404 1: Client 2 got award 404
+  2:14 Award: 2 1: Ficxesto gained the EXCELLENT award!
+  2:14 Challenge: 2 302 1: Client 2 got award 302
+  2:14 Kill: 7 13 18: xdlol killed UnnamedPlayer by MOD_TELEFRAG
+  2:14 PlayerScore: 7 9: xdlol now has 9 points
+  2:14 Challenge: 7 216 1: Client 7 got award 216
+  2:14 Challenge: 7 1 1: Client 7 got award 1
+  2:14 Challenge: 13 2 1: Client 13 got award 2
+  2:15 Item: 6 weapon_shotgun
+  2:15 Item: 16 item_health
+  2:16 Item: 15 ammo_shells
+  2:16 Item: 17 weapon_plasmagun
+  2:16 Item: 10 weapon_rocketlauncher
+  2:16 Item: 3 weapon_grenadelauncher
+  2:16 Item: 6 weapon_plasmagun
+  2:16 ClientUserinfoChanged: 0 n\Ope\t\3\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AD6ADE5966C291F885B781481CE9B4B5
+  2:16 ClientBegin: 0
+  2:17 Kill: 13 14 18: UnnamedPlayer killed UnnamedPlayer by MOD_TELEFRAG
+  2:17 PlayerScore: 13 13: UnnamedPlayer now has 13 points
+  2:17 Challenge: 13 216 1: Client 13 got award 216
+  2:17 Challenge: 13 1 1: Client 13 got award 1
+  2:17 Challenge: 14 2 1: Client 14 got award 2
+  2:17 Item: 4 ammo_rockets
+  2:17 Item: 1 weapon_shotgun
+  2:17 Item: 7 ammo_rockets
+  2:17 Kill: 9 13 18: moi killed UnnamedPlayer by MOD_TELEFRAG
+  2:17 PlayerScore: 9 10: moi now has 10 points
+  2:17 Challenge: 9 216 1: Client 9 got award 216
+  2:17 Challenge: 9 1 1: Client 9 got award 1
+  2:17 Challenge: 13 2 1: Client 13 got award 2
+  2:17 Kill: 1022 1 14: <world> killed De Noob by MOD_WATER
+  2:17 PlayerScore: 1 17: De Noob now has 17 points
+  2:17 Item: 16 item_health
+  2:17 Kill: 8 9 18: sksksksk killed moi by MOD_TELEFRAG
+  2:17 PlayerScore: 8 7: sksksksk now has 7 points
+  2:17 Challenge: 8 216 1: Client 8 got award 216
+  2:17 Challenge: 8 1 1: Client 8 got award 1
+  2:17 Challenge: 9 2 1: Client 9 got award 2
+  2:18 Item: 8 weapon_rocketlauncher
+  2:18 Item: 16 weapon_plasmagun
+  2:18 Kill: 17 5 8: UnnamedPlayer killed PRO GAMER 69 by MOD_PLASMA
+  2:18 PlayerScore: 17 15: UnnamedPlayer now has 15 points
+  2:18 Challenge: 17 207 1: Client 17 got award 207
+  2:18 Challenge: 17 1 1: Client 17 got award 1
+  2:18 Challenge: 5 2 1: Client 5 got award 2
+  2:19 Kill: 1 8 18: De Noob killed sksksksk by MOD_TELEFRAG
+  2:19 PlayerScore: 1 18: De Noob now has 18 points
+  2:19 Challenge: 1 216 1: Client 1 got award 216
+  2:19 Challenge: 1 1 1: Client 1 got award 1
+  2:19 Challenge: 8 2 1: Client 8 got award 2
+  2:19 Item: 1 weapon_rocketlauncher
+  2:19 Kill: 13 1 18: UnnamedPlayer killed De Noob by MOD_TELEFRAG
+  2:19 PlayerScore: 13 14: UnnamedPlayer now has 14 points
+  2:19 Challenge: 13 216 1: Client 13 got award 216
+  2:19 Challenge: 13 1 1: Client 13 got award 1
+  2:19 Challenge: 1 2 1: Client 1 got award 2
+  2:19 Kill: 9 13 18: moi killed UnnamedPlayer by MOD_TELEFRAG
+  2:19 PlayerScore: 9 11: moi now has 11 points
+  2:19 Challenge: 9 216 1: Client 9 got award 216
+  2:19 Challenge: 9 1 1: Client 9 got award 1
+  2:19 Challenge: 13 2 1: Client 13 got award 2
+  2:19 Kill: 4 12 3: kaapo killed jeespoks by MOD_MACHINEGUN
+  2:19 PlayerScore: 4 16: kaapo now has 16 points
+  2:19 Challenge: 4 202 1: Client 4 got award 202
+  2:19 Challenge: 4 1 1: Client 4 got award 1
+  2:19 Challenge: 12 2 1: Client 12 got award 2
+  2:19 Item: 7 weapon_rocketlauncher
+  2:20 Item: 15 ammo_bullets
+  2:20 Kill: 2 15 3: Ficxesto killed auts by MOD_MACHINEGUN
+  2:20 PlayerScore: 2 19: Ficxesto now has 19 points
+  2:20 Challenge: 2 202 1: Client 2 got award 202
+  2:20 Challenge: 2 1 1: Client 2 got award 1
+  2:20 Challenge: 15 2 1: Client 15 got award 2
+  2:20 Challenge: 2 404 1: Client 2 got award 404
+  2:21 Item: 17 weapon_plasmagun
+  2:21 Item: 10 weapon_rocketlauncher
+  2:21 Item: 5 weapon_grenadelauncher
+  2:21 Item: 3 weapon_grenadelauncher
+  2:21 Kill: 13 12 18: UnnamedPlayer killed jeespoks by MOD_TELEFRAG
+  2:21 PlayerScore: 13 15: UnnamedPlayer now has 15 points
+  2:21 Challenge: 13 216 1: Client 13 got award 216
+  2:21 Challenge: 13 1 1: Client 13 got award 1
+  2:21 Challenge: 12 2 1: Client 12 got award 2
+  2:22 Kill: 14 17 3: UnnamedPlayer killed UnnamedPlayer by MOD_MACHINEGUN
+  2:22 PlayerScore: 14 8: UnnamedPlayer now has 8 points
+  2:22 Challenge: 14 202 1: Client 14 got award 202
+  2:22 Challenge: 14 1 1: Client 14 got award 1
+  2:22 Challenge: 17 2 1: Client 17 got award 2
+  2:22 Kill: 9 11 3: moi killed pro by MOD_MACHINEGUN
+  2:22 PlayerScore: 9 12: moi now has 12 points
+  2:22 Challenge: 9 202 1: Client 9 got award 202
+  2:22 Challenge: 9 1 1: Client 9 got award 1
+  2:22 Challenge: 11 2 1: Client 11 got award 2
+  2:23 Item: 15 weapon_rocketlauncher
+  2:23 Kill: 5 14 4: PRO GAMER 69 killed UnnamedPlayer by MOD_GRENADE
+  2:23 PlayerScore: 5 12: PRO GAMER 69 now has 12 points
+  2:23 Challenge: 5 204 1: Client 5 got award 204
+  2:23 Challenge: 5 1 1: Client 5 got award 1
+  2:23 Challenge: 14 2 1: Client 14 got award 2
+  2:23 Kill: 1 9 3: De Noob killed moi by MOD_MACHINEGUN
+  2:23 PlayerScore: 1 19: De Noob now has 19 points
+  2:23 Challenge: 1 202 1: Client 1 got award 202
+  2:23 Challenge: 1 1 1: Client 1 got award 1
+  2:23 Challenge: 9 2 1: Client 9 got award 2
+  2:23 Kill: 2 6 3: Ficxesto killed boomer by MOD_MACHINEGUN
+  2:23 PlayerScore: 2 20: Ficxesto now has 20 points
+  2:23 Challenge: 2 202 1: Client 2 got award 202
+  2:23 Challenge: 2 1 1: Client 2 got award 1
+  2:23 Challenge: 6 2 1: Client 6 got award 2
+  2:23 Challenge: 2 404 1: Client 2 got award 404
+  2:24 Kill: 7 3 6: xdlol killed bomb by MOD_ROCKET
+  2:24 PlayerScore: 7 10: xdlol now has 10 points
+  2:24 Challenge: 7 205 1: Client 7 got award 205
+  2:24 Challenge: 7 1 1: Client 7 got award 1
+  2:24 Challenge: 3 2 1: Client 3 got award 2
+  2:24 Item: 12 weapon_plasmagun
+  2:24 Kill: 11 15 18: pro killed auts by MOD_TELEFRAG
+  2:24 PlayerScore: 11 11: pro now has 11 points
+  2:24 Challenge: 11 216 1: Client 11 got award 216
+  2:24 Challenge: 11 1 1: Client 11 got award 1
+  2:24 Challenge: 15 2 1: Client 15 got award 2
+  2:24 Item: 11 weapon_rocketlauncher
+  2:24 Item: 5 weapon_grenadelauncher
+  2:26 Item: 14 weapon_plasmagun
+  2:26 Item: 10 weapon_rocketlauncher
+  2:26 Item: 2 weapon_plasmagun
+  2:26 Kill: 5 12 4: PRO GAMER 69 killed jeespoks by MOD_GRENADE
+  2:26 PlayerScore: 5 13: PRO GAMER 69 now has 13 points
+  2:26 Challenge: 5 204 1: Client 5 got award 204
+  2:26 Challenge: 5 1 1: Client 5 got award 1
+  2:26 Challenge: 12 2 1: Client 12 got award 2
+  2:26 Award: 5 1: PRO GAMER 69 gained the EXCELLENT award!
+  2:26 Challenge: 5 302 1: Client 5 got award 302
+  2:26 Kill: 9 6 18: moi killed boomer by MOD_TELEFRAG
+  2:26 PlayerScore: 9 13: moi now has 13 points
+  2:26 Challenge: 9 216 1: Client 9 got award 216
+  2:26 Challenge: 9 1 1: Client 9 got award 1
+  2:26 Challenge: 6 2 1: Client 6 got award 2
+  2:26 Item: 15 weapon_grenadelauncher
+  2:27 Item: 2 item_health
+  2:27 Item: 8 weapon_grenadelauncher
+  2:28 Item: 9 weapon_rocketlauncher
+  2:28 Kill: 8 7 4: sksksksk killed xdlol by MOD_GRENADE
+  2:28 PlayerScore: 8 8: sksksksk now has 8 points
+  2:28 Challenge: 8 204 1: Client 8 got award 204
+  2:28 Challenge: 8 1 1: Client 8 got award 1
+  2:28 Challenge: 7 2 1: Client 7 got award 2
+  2:28 Kill: 8 8 5: sksksksk killed sksksksk by MOD_GRENADE_SPLASH
+  2:28 PlayerScore: 8 7: sksksksk now has 7 points
+  2:28 Kill: 13 1 3: UnnamedPlayer killed De Noob by MOD_MACHINEGUN
+  2:28 PlayerScore: 13 16: UnnamedPlayer now has 16 points
+  2:28 Challenge: 13 202 1: Client 13 got award 202
+  2:28 Challenge: 13 1 1: Client 13 got award 1
+  2:28 Challenge: 1 2 1: Client 1 got award 2
+  2:28 Kill: 9 11 6: moi killed pro by MOD_ROCKET
+  2:28 PlayerScore: 9 14: moi now has 14 points
+  2:28 Challenge: 9 205 1: Client 9 got award 205
+  2:28 Challenge: 9 1 1: Client 9 got award 1
+  2:28 Challenge: 11 2 1: Client 11 got award 2
+  2:28 Award: 9 1: moi gained the EXCELLENT award!
+  2:28 Challenge: 9 302 1: Client 9 got award 302
+  2:29 Kill: 5 14 4: PRO GAMER 69 killed UnnamedPlayer by MOD_GRENADE
+  2:29 PlayerScore: 5 14: PRO GAMER 69 now has 14 points
+  2:29 Challenge: 5 204 1: Client 5 got award 204
+  2:29 Challenge: 5 1 1: Client 5 got award 1
+  2:29 Challenge: 14 2 1: Client 14 got award 2
+  2:29 Award: 5 1: PRO GAMER 69 gained the EXCELLENT award!
+  2:29 Challenge: 5 302 1: Client 5 got award 302
+  2:29 Kill: 15 5 4: auts killed PRO GAMER 69 by MOD_GRENADE
+  2:29 PlayerScore: 15 11: auts now has 11 points
+  2:29 Challenge: 15 204 1: Client 15 got award 204
+  2:29 Challenge: 15 1 1: Client 15 got award 1
+  2:29 Challenge: 5 2 1: Client 5 got award 2
+  2:29 Kill: 7 9 18: xdlol killed moi by MOD_TELEFRAG
+  2:29 PlayerScore: 7 11: xdlol now has 11 points
+  2:29 Challenge: 7 216 1: Client 7 got award 216
+  2:29 Challenge: 7 1 1: Client 7 got award 1
+  2:29 Challenge: 9 2 1: Client 9 got award 2
+  2:29 Item: 7 weapon_rocketlauncher
+  2:30 Kill: 2 4 8: Ficxesto killed kaapo by MOD_PLASMA
+  2:30 PlayerScore: 2 21: Ficxesto now has 21 points
+  2:30 Challenge: 2 207 1: Client 2 got award 207
+  2:30 Challenge: 2 1 1: Client 2 got award 1
+  2:30 Challenge: 4 2 1: Client 4 got award 2
+  2:30 Challenge: 2 404 1: Client 2 got award 404
+  2:30 Item: 15 weapon_grenadelauncher
+  2:30 Kill: 3 15 3: bomb killed auts by MOD_MACHINEGUN
+  2:30 PlayerScore: 3 8: bomb now has 8 points
+  2:30 Challenge: 3 202 1: Client 3 got award 202
+  2:30 Challenge: 3 1 1: Client 3 got award 1
+  2:30 Challenge: 15 2 1: Client 15 got award 2
+  2:31 Item: 6 weapon_grenadelauncher
+  2:31 Kill: 5 1 18: PRO GAMER 69 killed De Noob by MOD_TELEFRAG
+  2:31 PlayerScore: 5 15: PRO GAMER 69 now has 15 points
+  2:31 Challenge: 5 216 1: Client 5 got award 216
+  2:31 Challenge: 5 1 1: Client 5 got award 1
+  2:31 Challenge: 1 2 1: Client 1 got award 2
+  2:31 Kill: 11 5 18: pro killed PRO GAMER 69 by MOD_TELEFRAG
+  2:31 PlayerScore: 11 12: pro now has 12 points
+  2:31 Challenge: 11 216 1: Client 11 got award 216
+  2:31 Challenge: 11 1 1: Client 11 got award 1
+  2:31 Challenge: 5 2 1: Client 5 got award 2
+  2:31 Item: 10 weapon_rocketlauncher
+  2:31 Item: 8 weapon_grenadelauncher
+  2:32 Kill: 13 17 3: UnnamedPlayer killed UnnamedPlayer by MOD_MACHINEGUN
+  2:32 PlayerScore: 13 17: UnnamedPlayer now has 17 points
+  2:32 Challenge: 13 202 1: Client 13 got award 202
+  2:32 Challenge: 13 1 1: Client 13 got award 1
+  2:32 Challenge: 17 2 1: Client 17 got award 2
+  2:32 Item: 9 weapon_plasmagun
+  2:32 Item: 9 weapon_plasmagun
+  2:32 Item: 13 weapon_rocketlauncher
+  2:32 Item: 13 weapon_grenadelauncher
+  2:32 Item: 2 weapon_plasmagun
+  2:33 Item: 4 weapon_rocketlauncher
+  2:33 Kill: 6 3 4: boomer killed bomb by MOD_GRENADE
+  2:33 PlayerScore: 6 21: boomer now has 21 points
+  2:33 Challenge: 6 204 1: Client 6 got award 204
+  2:33 Challenge: 6 1 1: Client 6 got award 1
+  2:33 Challenge: 3 2 1: Client 3 got award 2
+  2:33 Kill: 5 4 18: PRO GAMER 69 killed kaapo by MOD_TELEFRAG
+  2:33 PlayerScore: 5 16: PRO GAMER 69 now has 16 points
+  2:33 Challenge: 5 216 1: Client 5 got award 216
+  2:33 Challenge: 5 1 1: Client 5 got award 1
+  2:33 Challenge: 4 2 1: Client 4 got award 2
+  2:33 Item: 5 weapon_rocketlauncher
+  2:33 Kill: 9 6 3: moi killed boomer by MOD_MACHINEGUN
+  2:33 PlayerScore: 9 15: moi now has 15 points
+  2:33 Challenge: 9 202 1: Client 9 got award 202
+  2:33 Challenge: 9 1 1: Client 9 got award 1
+  2:33 Challenge: 6 2 1: Client 6 got award 2
+  2:33 Item: 9 weapon_grenadelauncher
+  2:34 Kill: 8 9 4: sksksksk killed moi by MOD_GRENADE
+  2:34 PlayerScore: 8 8: sksksksk now has 8 points
+  2:34 Challenge: 8 204 1: Client 8 got award 204
+  2:34 Challenge: 8 1 1: Client 8 got award 1
+  2:34 Challenge: 9 2 1: Client 9 got award 2
+  2:34 Item: 2 item_health
+  2:34 Item: 13 item_health
+  2:35 Kill: 8 1 5: sksksksk killed De Noob by MOD_GRENADE_SPLASH
+  2:35 PlayerScore: 8 9: sksksksk now has 9 points
+  2:35 Challenge: 8 204 1: Client 8 got award 204
+  2:35 Challenge: 8 1 1: Client 8 got award 1
+  2:35 Challenge: 1 2 1: Client 1 got award 2
+  2:35 Award: 8 1: sksksksk gained the EXCELLENT award!
+  2:35 Challenge: 8 302 1: Client 8 got award 302
+  2:35 Kill: 6 15 18: boomer killed auts by MOD_TELEFRAG
+  2:35 PlayerScore: 6 22: boomer now has 22 points
+  2:35 Challenge: 6 216 1: Client 6 got award 216
+  2:35 Challenge: 6 1 1: Client 6 got award 1
+  2:35 Challenge: 15 2 1: Client 15 got award 2
+  2:35 Item: 11 weapon_plasmagun
+  2:35 Item: 16 weapon_plasmagun
+  2:36 Item: 10 weapon_rocketlauncher
+  2:36 Item: 17 weapon_grenadelauncher
+  2:36 Item: 2 weapon_shotgun
+  2:36 Kill: 14 8 3: UnnamedPlayer killed sksksksk by MOD_MACHINEGUN
+  2:36 PlayerScore: 14 9: UnnamedPlayer now has 9 points
+  2:36 Challenge: 14 202 1: Client 14 got award 202
+  2:36 Challenge: 14 1 1: Client 14 got award 1
+  2:36 Challenge: 8 2 1: Client 8 got award 2
+  2:37 Item: 11 ammo_bullets
+  2:37 Item: 1 weapon_plasmagun
+  2:37 Kill: 17 14 4: UnnamedPlayer killed UnnamedPlayer by MOD_GRENADE
+  2:37 PlayerScore: 17 16: UnnamedPlayer now has 16 points
+  2:37 Challenge: 17 204 1: Client 17 got award 204
+  2:37 Challenge: 17 1 1: Client 17 got award 1
+  2:37 Challenge: 14 2 1: Client 14 got award 2
+  2:38 Item: 15 weapon_rocketlauncher
+  2:38 Item: 2 item_health
+  2:38 Kill: 2 13 1: Ficxesto killed UnnamedPlayer by MOD_SHOTGUN
+  2:38 PlayerScore: 2 22: Ficxesto now has 22 points
+  2:38 Challenge: 2 203 1: Client 2 got award 203
+  2:38 Challenge: 2 1 1: Client 2 got award 1
+  2:38 Challenge: 13 2 1: Client 13 got award 2
+  2:38 Item: 5 ammo_cells
+  2:39 Item: 4 weapon_shotgun
+  2:39 Kill: 1 17 8: De Noob killed UnnamedPlayer by MOD_PLASMA
+  2:39 PlayerScore: 1 20: De Noob now has 20 points
+  2:39 Challenge: 1 207 1: Client 1 got award 207
+  2:39 Challenge: 1 1 1: Client 1 got award 1
+  2:39 Challenge: 17 2 1: Client 17 got award 2
+  2:39 Kill: 3 1 3: bomb killed De Noob by MOD_MACHINEGUN
+  2:39 PlayerScore: 3 9: bomb now has 9 points
+  2:39 Challenge: 3 202 1: Client 3 got award 202
+  2:39 Challenge: 3 1 1: Client 3 got award 1
+  2:39 Challenge: 1 2 1: Client 1 got award 2
+  2:40 Item: 3 weapon_grenadelauncher
+  2:40 Kill: 4 16 1: kaapo killed UnnamedPlayer by MOD_SHOTGUN
+  2:40 PlayerScore: 4 17: kaapo now has 17 points
+  2:40 Challenge: 4 203 1: Client 4 got award 203
+  2:40 Challenge: 4 1 1: Client 4 got award 1
+  2:40 Challenge: 16 2 1: Client 16 got award 2
+  2:41 Item: 12 ammo_rockets
+  2:41 Kill: 6 5 3: boomer killed PRO GAMER 69 by MOD_MACHINEGUN
+  2:41 PlayerScore: 6 23: boomer now has 23 points
+  2:41 Challenge: 6 202 1: Client 6 got award 202
+  2:41 Challenge: 6 1 1: Client 6 got award 1
+  2:41 Challenge: 5 2 1: Client 5 got award 2
+  2:41 Item: 3 weapon_plasmagun
+  2:41 Item: 1 weapon_rocketlauncher
+  2:41 Item: 10 weapon_shotgun
+  2:41 Kill: 12 11 3: jeespoks killed pro by MOD_MACHINEGUN
+  2:41 PlayerScore: 12 6: jeespoks now has 6 points
+  2:41 Challenge: 12 202 1: Client 12 got award 202
+  2:41 Challenge: 12 1 1: Client 12 got award 1
+  2:41 Challenge: 11 2 1: Client 11 got award 2
+  2:42 Item: 3 weapon_grenadelauncher
+  2:42 Item: 17 weapon_plasmagun
+  2:42 Item: 14 weapon_grenadelauncher
+  2:42 Item: 7 weapon_grenadelauncher
+  2:43 Item: 13 weapon_rocketlauncher
+  2:43 Item: 15 ammo_lightning
+  2:43 Item: 8 weapon_plasmagun
+  2:44 Kill: 16 5 18: UnnamedPlayer killed PRO GAMER 69 by MOD_TELEFRAG
+  2:44 PlayerScore: 16 3: UnnamedPlayer now has 3 points
+  2:44 Challenge: 16 216 1: Client 16 got award 216
+  2:44 Challenge: 16 1 1: Client 16 got award 1
+  2:44 Challenge: 5 2 1: Client 5 got award 2
+  2:44 Item: 1 item_quad
+  2:44 Item: 2 weapon_plasmagun
+  2:44 Kill: 17 7 8: UnnamedPlayer killed xdlol by MOD_PLASMA
+  2:44 PlayerScore: 17 17: UnnamedPlayer now has 17 points
+  2:44 Challenge: 17 207 1: Client 17 got award 207
+  2:44 Challenge: 17 1 1: Client 17 got award 1
+  2:44 Challenge: 7 2 1: Client 7 got award 2
+  2:44 Kill: 10 8 7: ploo killed sksksksk by MOD_ROCKET_SPLASH
+  2:44 PlayerScore: 10 7: ploo now has 7 points
+  2:44 Challenge: 10 205 1: Client 10 got award 205
+  2:44 Challenge: 10 1 1: Client 10 got award 1
+  2:44 Challenge: 8 2 1: Client 8 got award 2
+  2:44 Item: 1 ammo_rockets
+  2:45 Item: 12 ammo_rockets
+  2:45 Kill: 3 17 8: bomb killed UnnamedPlayer by MOD_PLASMA
+  2:45 PlayerScore: 3 10: bomb now has 10 points
+  2:45 Challenge: 3 207 1: Client 3 got award 207
+  2:45 Challenge: 3 1 1: Client 3 got award 1
+  2:45 Challenge: 17 2 1: Client 17 got award 2
+  2:45 Kill: 13 15 6: UnnamedPlayer killed auts by MOD_ROCKET
+  2:45 PlayerScore: 13 18: UnnamedPlayer now has 18 points
+  2:45 Challenge: 13 205 1: Client 13 got award 205
+  2:45 Challenge: 13 1 1: Client 13 got award 1
+  2:45 Challenge: 15 2 1: Client 15 got award 2
+  2:45 Item: 1 ammo_bullets
+  2:45 Kill: 6 1 3: boomer killed De Noob by MOD_MACHINEGUN
+  2:45 PlayerScore: 6 24: boomer now has 24 points
+  2:45 Challenge: 6 202 1: Client 6 got award 202
+  2:45 Challenge: 6 1 1: Client 6 got award 1
+  2:45 Challenge: 1 2 1: Client 1 got award 2
+  2:46 Item: 12 ammo_bullets
+  2:46 Item: 12 ammo_lightning
+  2:46 Item: 7 weapon_rocketlauncher
+  2:46 Item: 3 weapon_plasmagun
+  2:47 Item: 3 weapon_grenadelauncher
+  2:47 Kill: 2 10 1: Ficxesto killed ploo by MOD_SHOTGUN
+  2:47 PlayerScore: 2 23: Ficxesto now has 23 points
+  2:47 Challenge: 2 203 1: Client 2 got award 203
+  2:47 Challenge: 2 1 1: Client 2 got award 1
+  2:47 Challenge: 10 2 1: Client 10 got award 2
+  2:47 Item: 9 weapon_plasmagun
+  2:47 Kill: 4 6 1: kaapo killed boomer by MOD_SHOTGUN
+  2:47 PlayerScore: 4 18: kaapo now has 18 points
+  2:47 Challenge: 4 203 1: Client 4 got award 203
+  2:47 Challenge: 4 1 1: Client 4 got award 1
+  2:47 Challenge: 6 2 1: Client 6 got award 2
+  2:47 Item: 3 weapon_plasmagun
+  2:47 Item: 15 weapon_grenadelauncher
+  2:48 Item: 17 weapon_rocketlauncher
+  2:48 Item: 4 ammo_grenades
+  2:49 Item: 2 weapon_shotgun
+  2:49 Kill: 17 14 7: UnnamedPlayer killed UnnamedPlayer by MOD_ROCKET_SPLASH
+  2:49 PlayerScore: 17 18: UnnamedPlayer now has 18 points
+  2:49 Challenge: 17 205 1: Client 17 got award 205
+  2:49 Challenge: 17 1 1: Client 17 got award 1
+  2:49 Challenge: 14 2 1: Client 14 got award 2
+  2:49 Kill: 9 2 8: moi killed Ficxesto by MOD_PLASMA
+  2:49 PlayerScore: 9 16: moi now has 16 points
+  2:49 Challenge: 9 207 1: Client 9 got award 207
+  2:49 Challenge: 9 1 1: Client 9 got award 1
+  2:49 Challenge: 2 2 1: Client 2 got award 2
+  2:49 Item: 4 ammo_shells
+  2:50 Item: 9 weapon_shotgun
+  2:50 Item: 12 weapon_rocketlauncher
+  2:50 Kill: 7 12 3: xdlol killed jeespoks by MOD_MACHINEGUN
+  2:50 PlayerScore: 7 12: xdlol now has 12 points
+  2:50 Challenge: 7 202 1: Client 7 got award 202
+  2:50 Challenge: 7 1 1: Client 7 got award 1
+  2:50 Challenge: 12 2 1: Client 12 got award 2
+  2:51 Kill: 14 17 18: UnnamedPlayer killed UnnamedPlayer by MOD_TELEFRAG
+  2:51 PlayerScore: 14 10: UnnamedPlayer now has 10 points
+  2:51 Challenge: 14 216 1: Client 14 got award 216
+  2:51 Challenge: 14 1 1: Client 14 got award 1
+  2:51 Challenge: 17 2 1: Client 17 got award 2
+  2:51 Item: 14 weapon_rocketlauncher
+  2:51 Kill: 2 14 18: Ficxesto killed UnnamedPlayer by MOD_TELEFRAG
+  2:51 PlayerScore: 2 24: Ficxesto now has 24 points
+  2:51 Challenge: 2 216 1: Client 2 got award 216
+  2:51 Challenge: 2 1 1: Client 2 got award 1
+  2:51 Challenge: 14 2 1: Client 14 got award 2
+  2:51 Item: 1 weapon_rocketlauncher
+  2:52 Item: 4 holdable_teleporter
+  2:52 Item: 8 weapon_plasmagun
+  2:52 Item: 13 item_health
+  2:52 Item: 10 weapon_grenadelauncher
+  2:52 Kill: 4 3 1: kaapo killed bomb by MOD_SHOTGUN
+  2:52 PlayerScore: 4 19: kaapo now has 19 points
+  2:52 Challenge: 4 203 1: Client 4 got award 203
+  2:52 Challenge: 4 1 1: Client 4 got award 1
+  2:52 Challenge: 3 2 1: Client 3 got award 2
+  2:53 Kill: 1 11 6: De Noob killed pro by MOD_ROCKET
+  2:53 PlayerScore: 1 21: De Noob now has 21 points
+  2:53 Challenge: 1 205 1: Client 1 got award 205
+  2:53 Challenge: 1 1 1: Client 1 got award 1
+  2:53 Challenge: 11 2 1: Client 11 got award 2
+  2:53 Item: 12 weapon_rocketlauncher
+  2:53 Item: 9 weapon_plasmagun
+  2:54 Kill: 14 12 18: UnnamedPlayer killed jeespoks by MOD_TELEFRAG
+  2:54 PlayerScore: 14 11: UnnamedPlayer now has 11 points
+  2:54 Challenge: 14 216 1: Client 14 got award 216
+  2:54 Challenge: 14 1 1: Client 14 got award 1
+  2:54 Challenge: 12 2 1: Client 12 got award 2
+  2:55 Item: 9 item_health
+  2:56 Kill: 8 10 8: sksksksk killed ploo by MOD_PLASMA
+  2:56 PlayerScore: 8 10: sksksksk now has 10 points
+  2:56 Challenge: 8 207 1: Client 8 got award 207
+  2:56 Challenge: 8 1 1: Client 8 got award 1
+  2:56 Challenge: 10 2 1: Client 10 got award 2
+  2:56 Kill: 5 16 3: PRO GAMER 69 killed UnnamedPlayer by MOD_MACHINEGUN
+  2:56 PlayerScore: 5 17: PRO GAMER 69 now has 17 points
+  2:56 Challenge: 5 202 1: Client 5 got award 202
+  2:56 Challenge: 5 1 1: Client 5 got award 1
+  2:56 Challenge: 16 2 1: Client 16 got award 2
+  2:56 Item: 13 weapon_plasmagun
+  2:58 Item: 9 weapon_shotgun
+  2:58 Item: 10 weapon_rocketlauncher
+  2:58 Item: 7 weapon_rocketlauncher
+  2:58 Item: 16 weapon_grenadelauncher
+  2:59 Kill: 4 17 1: kaapo killed UnnamedPlayer by MOD_SHOTGUN
+  2:59 PlayerScore: 4 20: kaapo now has 20 points
+  2:59 Challenge: 4 203 1: Client 4 got award 203
+  2:59 Challenge: 4 1 1: Client 4 got award 1
+  2:59 Challenge: 17 2 1: Client 17 got award 2
+  2:59 Kill: 6 7 3: boomer killed xdlol by MOD_MACHINEGUN
+  2:59 PlayerScore: 6 25: boomer now has 25 points
+  2:59 Challenge: 6 202 1: Client 6 got award 202
+  2:59 Challenge: 6 1 1: Client 6 got award 1
+  2:59 Challenge: 7 2 1: Client 7 got award 2
+  2:59 Kill: 1 13 6: De Noob killed UnnamedPlayer by MOD_ROCKET
+  2:59 PlayerScore: 1 22: De Noob now has 22 points
+  2:59 Challenge: 1 205 1: Client 1 got award 205
+  2:59 Challenge: 1 1 1: Client 1 got award 1
+  2:59 Challenge: 13 2 1: Client 13 got award 2
+  2:59 Item: 1 weapon_grenadelauncher
+  2:59 Kill: 2 4 3: Ficxesto killed kaapo by MOD_MACHINEGUN
+  2:59 PlayerScore: 2 25: Ficxesto now has 25 points
+  2:59 Challenge: 2 202 1: Client 2 got award 202
+  2:59 Challenge: 2 1 1: Client 2 got award 1
+  2:59 Challenge: 4 2 1: Client 4 got award 2
+  3:00 Item: 17 weapon_rocketlauncher
+  3:00 Item: 5 ammo_shells
+  3:01 Item: 7 weapon_plasmagun
+  3:01 Kill: 2 6 3: Ficxesto killed boomer by MOD_MACHINEGUN
+  3:01 PlayerScore: 2 26: Ficxesto now has 26 points
+  3:01 Challenge: 2 202 1: Client 2 got award 202
+  3:01 Challenge: 2 1 1: Client 2 got award 1
+  3:01 Challenge: 6 2 1: Client 6 got award 2
+  3:01 Award: 2 1: Ficxesto gained the EXCELLENT award!
+  3:01 Challenge: 2 302 1: Client 2 got award 302
+  3:01 Item: 9 weapon_plasmagun
+  3:03 Item: 8 ammo_rockets
+  3:03 Item: 1 weapon_plasmagun
+  3:03 Kill: 3 11 3: bomb killed pro by MOD_MACHINEGUN
+  3:03 PlayerScore: 3 11: bomb now has 11 points
+  3:03 Challenge: 3 202 1: Client 3 got award 202
+  3:03 Challenge: 3 1 1: Client 3 got award 1
+  3:03 Challenge: 11 2 1: Client 11 got award 2
+  3:03 Item: 9 weapon_plasmagun
+  3:03 Item: 10 weapon_rocketlauncher
+  3:03 Item: 5 weapon_plasmagun
+  3:04 Item: 12 ammo_shells
+  3:04 Item: 5 item_health
+  3:05 Item: 9 weapon_shotgun
+  3:05 Kill: 5 2 8: PRO GAMER 69 killed Ficxesto by MOD_PLASMA
+  3:05 PlayerScore: 5 18: PRO GAMER 69 now has 18 points
+  3:05 Challenge: 5 207 1: Client 5 got award 207
+  3:05 Challenge: 5 1 1: Client 5 got award 1
+  3:05 Challenge: 2 2 1: Client 2 got award 2
+  3:05 Item: 17 weapon_rocketlauncher
+  3:06 Item: 1 weapon_plasmagun
+  3:06 Item: 11 weapon_plasmagun
+  3:06 Kill: 1 5 8: De Noob killed PRO GAMER 69 by MOD_PLASMA
+  3:06 PlayerScore: 1 23: De Noob now has 23 points
+  3:06 Challenge: 1 207 1: Client 1 got award 207
+  3:06 Challenge: 1 1 1: Client 1 got award 1
+  3:06 Challenge: 5 2 1: Client 5 got award 2
+  3:06 Kill: 6 13 3: boomer killed UnnamedPlayer by MOD_MACHINEGUN
+  3:06 PlayerScore: 6 26: boomer now has 26 points
+  3:06 Challenge: 6 202 1: Client 6 got award 202
+  3:06 Challenge: 6 1 1: Client 6 got award 1
+  3:06 Challenge: 13 2 1: Client 13 got award 2
+  3:07 Kill: 7 8 3: xdlol killed sksksksk by MOD_MACHINEGUN
+  3:07 PlayerScore: 7 13: xdlol now has 13 points
+  3:07 Challenge: 7 202 1: Client 7 got award 202
+  3:07 Challenge: 7 1 1: Client 7 got award 1
+  3:07 Challenge: 8 2 1: Client 8 got award 2
+  3:07 Item: 2 weapon_grenadelauncher
+  3:07 Item: 16 item_armor_combat
+  3:08 Kill: 3 1 3: bomb killed De Noob by MOD_MACHINEGUN
+  3:08 PlayerScore: 3 12: bomb now has 12 points
+  3:08 Challenge: 3 202 1: Client 3 got award 202
+  3:08 Challenge: 3 1 1: Client 3 got award 1
+  3:08 Challenge: 1 2 1: Client 1 got award 2
+  3:08 Item: 9 weapon_plasmagun
+  3:08 Item: 13 weapon_rocketlauncher
+  3:09 Item: 3 weapon_shotgun
+  3:09 Item: 7 weapon_rocketlauncher
+  3:09 Item: 3 weapon_plasmagun
+  3:10 Item: 8 weapon_rocketlauncher
+  3:11 Kill: 4 16 3: kaapo killed UnnamedPlayer by MOD_MACHINEGUN
+  3:11 PlayerScore: 4 21: kaapo now has 21 points
+  3:11 Challenge: 4 202 1: Client 4 got award 202
+  3:11 Challenge: 4 1 1: Client 4 got award 1
+  3:11 Challenge: 16 2 1: Client 16 got award 2
+  3:11 Kill: 5 11 3: PRO GAMER 69 killed pro by MOD_MACHINEGUN
+  3:11 PlayerScore: 5 19: PRO GAMER 69 now has 19 points
+  3:11 Challenge: 5 202 1: Client 5 got award 202
+  3:11 Challenge: 5 1 1: Client 5 got award 1
+  3:11 Challenge: 11 2 1: Client 11 got award 2
+  3:11 Item: 3 weapon_plasmagun
+  3:11 Kill: 13 14 3: UnnamedPlayer killed UnnamedPlayer by MOD_MACHINEGUN
+  3:11 PlayerScore: 13 19: UnnamedPlayer now has 19 points
+  3:11 Challenge: 13 202 1: Client 13 got award 202
+  3:11 Challenge: 13 1 1: Client 13 got award 1
+  3:11 Challenge: 14 2 1: Client 14 got award 2
+  3:12 Item: 5 weapon_plasmagun
+  3:12 Kill: 6 4 3: boomer killed kaapo by MOD_MACHINEGUN
+  3:12 PlayerScore: 6 27: boomer now has 27 points
+  3:12 Challenge: 6 202 1: Client 6 got award 202
+  3:12 Challenge: 6 1 1: Client 6 got award 1
+  3:12 Challenge: 4 2 1: Client 4 got award 2
+  3:12 Kill: 2 5 3: Ficxesto killed PRO GAMER 69 by MOD_MACHINEGUN
+  3:12 PlayerScore: 2 27: Ficxesto now has 27 points
+  3:12 Challenge: 2 202 1: Client 2 got award 202
+  3:12 Challenge: 2 1 1: Client 2 got award 1
+  3:12 Challenge: 5 2 1: Client 5 got award 2
+  3:12 Item: 1 weapon_plasmagun
+  3:13 Item: 16 weapon_plasmagun
+  3:13 Item: 11 weapon_rocketlauncher
+  3:14 Item: 14 weapon_grenadelauncher
+  3:14 Kill: 4 11 18: kaapo killed pro by MOD_TELEFRAG
+  3:14 PlayerScore: 4 22: kaapo now has 22 points
+  3:14 Challenge: 4 216 1: Client 4 got award 216
+  3:14 Challenge: 4 1 1: Client 4 got award 1
+  3:14 Challenge: 11 2 1: Client 11 got award 2
+  3:14 Item: 4 weapon_rocketlauncher
+  3:14 Kill: 1 2 8: De Noob killed Ficxesto by MOD_PLASMA
+  3:14 PlayerScore: 1 24: De Noob now has 24 points
+  3:14 Challenge: 1 207 1: Client 1 got award 207
+  3:14 Challenge: 1 1 1: Client 1 got award 1
+  3:14 Challenge: 2 2 1: Client 2 got award 2
+  3:14 Kill: 9 7 8: moi killed xdlol by MOD_PLASMA
+  3:14 PlayerScore: 9 17: moi now has 17 points
+  3:14 Challenge: 9 207 1: Client 9 got award 207
+  3:14 Challenge: 9 1 1: Client 9 got award 1
+  3:14 Challenge: 7 2 1: Client 7 got award 2
+  3:14 Item: 10 ammo_bullets
+  3:14 Item: 9 weapon_rocketlauncher
+  3:15 Kill: 3 9 8: bomb killed moi by MOD_PLASMA
+  3:15 PlayerScore: 3 13: bomb now has 13 points
+  3:15 Challenge: 3 207 1: Client 3 got award 207
+  3:15 Challenge: 3 1 1: Client 3 got award 1
+  3:15 Challenge: 9 2 1: Client 9 got award 2
+  3:15 Item: 4 item_health
+  3:15 Item: 11 weapon_rocketlauncher
+  3:16 Kill: 4 13 3: kaapo killed UnnamedPlayer by MOD_MACHINEGUN
+  3:16 PlayerScore: 4 23: kaapo now has 23 points
+  3:16 Challenge: 4 202 1: Client 4 got award 202
+  3:16 Challenge: 4 1 1: Client 4 got award 1
+  3:16 Challenge: 13 2 1: Client 13 got award 2
+  3:16 Award: 4 1: kaapo gained the EXCELLENT award!
+  3:16 Challenge: 4 302 1: Client 4 got award 302
+  3:16 Item: 17 weapon_plasmagun
+  3:17 Kill: 6 4 3: boomer killed kaapo by MOD_MACHINEGUN
+  3:17 PlayerScore: 6 28: boomer now has 28 points
+  3:17 Challenge: 6 202 1: Client 6 got award 202
+  3:17 Challenge: 6 1 1: Client 6 got award 1
+  3:17 Challenge: 4 2 1: Client 4 got award 2
+  3:17 Item: 3 weapon_plasmagun
+  3:18 Item: 7 weapon_plasmagun
+  3:18 Kill: 1022 3 14: <world> killed bomb by MOD_WATER
+  3:18 PlayerScore: 3 12: bomb now has 12 points
+  3:19 Kill: 2 1 3: Ficxesto killed De Noob by MOD_MACHINEGUN
+  3:19 PlayerScore: 2 28: Ficxesto now has 28 points
+  3:19 Challenge: 2 202 1: Client 2 got award 202
+  3:19 Challenge: 2 1 1: Client 2 got award 1
+  3:19 Challenge: 1 2 1: Client 1 got award 2
+  3:19 Item: 10 ammo_rockets
+  3:19 Item: 17 item_health
+  3:19 Item: 16 ammo_cells
+  3:20 Item: 3 weapon_rocketlauncher
+  3:21 Item: 2 weapon_grenadelauncher
+  3:21 Kill: 4 7 3: kaapo killed xdlol by MOD_MACHINEGUN
+  3:21 PlayerScore: 4 24: kaapo now has 24 points
+  3:21 Challenge: 4 202 1: Client 4 got award 202
+  3:21 Challenge: 4 1 1: Client 4 got award 1
+  3:21 Challenge: 7 2 1: Client 7 got award 2
+  3:21 Item: 9 ammo_cells
+  3:22 Kill: 4 2 3: kaapo killed Ficxesto by MOD_MACHINEGUN
+  3:22 PlayerScore: 4 25: kaapo now has 25 points
+  3:22 Challenge: 4 202 1: Client 4 got award 202
+  3:22 Challenge: 4 1 1: Client 4 got award 1
+  3:22 Challenge: 2 2 1: Client 2 got award 2
+  3:22 Award: 4 1: kaapo gained the EXCELLENT award!
+  3:22 Challenge: 4 302 1: Client 4 got award 302
+  3:22 Item: 4 weapon_grenadelauncher
+  3:22 Kill: 6 9 2: boomer killed moi by MOD_GAUNTLET
+  3:22 PlayerScore: 6 29: boomer now has 29 points
+  3:22 Challenge: 6 201 1: Client 6 got award 201
+  3:22 Award: 6 0: boomer gained the GAUNTLET award!
+  3:22 Challenge: 6 201 1: Client 6 got award 201
+  3:22 Challenge: 6 1 1: Client 6 got award 1
+  3:22 Challenge: 9 2 1: Client 9 got award 2
+  3:23 Item: 7 weapon_plasmagun
+  3:23 Kill: 5 16 3: PRO GAMER 69 killed UnnamedPlayer by MOD_MACHINEGUN
+  3:23 PlayerScore: 5 20: PRO GAMER 69 now has 20 points
+  3:23 Challenge: 5 202 1: Client 5 got award 202
+  3:23 Challenge: 5 1 1: Client 5 got award 1
+  3:23 Challenge: 16 2 1: Client 16 got award 2
+  3:24 Item: 2 weapon_rocketlauncher
+  3:24 Item: 17 weapon_plasmagun
+  3:24 Kill: 8 3 7: sksksksk killed bomb by MOD_ROCKET_SPLASH
+  3:24 PlayerScore: 8 11: sksksksk now has 11 points
+  3:24 Challenge: 8 205 1: Client 8 got award 205
+  3:24 Challenge: 8 1 1: Client 8 got award 1
+  3:24 Challenge: 3 2 1: Client 3 got award 2
+  3:25 Kill: 6 5 2: boomer killed PRO GAMER 69 by MOD_GAUNTLET
+  3:25 PlayerScore: 6 30: boomer now has 30 points
+  3:25 Challenge: 6 201 1: Client 6 got award 201
+  3:25 Award: 6 0: boomer gained the GAUNTLET award!
+  3:25 Challenge: 6 201 1: Client 6 got award 201
+  3:25 Challenge: 6 1 1: Client 6 got award 1
+  3:25 Challenge: 5 2 1: Client 5 got award 2
+  3:25 Award: 6 1: boomer gained the EXCELLENT award!
+  3:25 Challenge: 6 302 1: Client 6 got award 302
+  3:26 Kill: 8 6 7: sksksksk killed boomer by MOD_ROCKET_SPLASH
+  3:26 PlayerScore: 8 12: sksksksk now has 12 points
+  3:26 Challenge: 8 205 1: Client 8 got award 205
+  3:26 Challenge: 8 1 1: Client 8 got award 1
+  3:26 Challenge: 6 2 1: Client 6 got award 2
+  3:26 Award: 8 1: sksksksk gained the EXCELLENT award!
+  3:26 Challenge: 8 302 1: Client 8 got award 302
+  3:26 Item: 16 weapon_rocketlauncher
+  3:26 Kill: 17 17 9: UnnamedPlayer killed UnnamedPlayer by MOD_PLASMA_SPLASH
+  3:26 PlayerScore: 17 17: UnnamedPlayer now has 17 points
+  3:26 Item: 3 weapon_grenadelauncher
+  3:27 Item: 7 weapon_plasmagun
+  3:27 Kill: 2 11 3: Ficxesto killed pro by MOD_MACHINEGUN
+  3:27 PlayerScore: 2 29: Ficxesto now has 29 points
+  3:27 Challenge: 2 202 1: Client 2 got award 202
+  3:27 Challenge: 2 1 1: Client 2 got award 1
+  3:27 Challenge: 11 2 1: Client 11 got award 2
+  3:27 Kill: 8 1 7: sksksksk killed De Noob by MOD_ROCKET_SPLASH
+  3:27 PlayerScore: 8 13: sksksksk now has 13 points
+  3:27 Challenge: 8 205 1: Client 8 got award 205
+  3:27 Challenge: 8 1 1: Client 8 got award 1
+  3:27 Challenge: 1 2 1: Client 1 got award 2
+  3:27 Award: 8 1: sksksksk gained the EXCELLENT award!
+  3:27 Challenge: 8 302 1: Client 8 got award 302
+  3:28 Item: 9 weapon_plasmagun
+  3:28 Item: 13 ammo_grenades
+  3:29 Item: 17 weapon_rocketlauncher
+  3:29 Item: 12 ammo_bullets
+  3:30 Kill: 6 16 3: boomer killed UnnamedPlayer by MOD_MACHINEGUN
+  3:30 PlayerScore: 6 31: boomer now has 31 points
+  3:30 Challenge: 6 202 1: Client 6 got award 202
+  3:30 Challenge: 6 1 1: Client 6 got award 1
+  3:30 Challenge: 16 2 1: Client 16 got award 2
+  3:31 Kill: 3 7 3: bomb killed xdlol by MOD_MACHINEGUN
+  3:31 PlayerScore: 3 13: bomb now has 13 points
+  3:31 Challenge: 3 202 1: Client 3 got award 202
+  3:31 Challenge: 3 1 1: Client 3 got award 1
+  3:31 Challenge: 7 2 1: Client 7 got award 2
+  3:31 Item: 6 weapon_shotgun
+  3:31 Item: 13 ammo_rockets
+  3:31 Item: 10 weapon_plasmagun
+  3:32 Item: 13 ammo_cells
+  3:33 Kill: 4 8 3: kaapo killed sksksksk by MOD_MACHINEGUN
+  3:33 PlayerScore: 4 26: kaapo now has 26 points
+  3:33 Challenge: 4 202 1: Client 4 got award 202
+  3:33 Challenge: 4 1 1: Client 4 got award 1
+  3:33 Challenge: 8 2 1: Client 8 got award 2
+  3:33 Item: 7 weapon_plasmagun
+  3:33 Item: 6 item_health
+  3:33 Item: 16 weapon_rocketlauncher
+  3:33 Item: 5 item_health
+  3:34 Kill: 6 9 1: boomer killed moi by MOD_SHOTGUN
+  3:34 PlayerScore: 6 32: boomer now has 32 points
+  3:34 Challenge: 6 203 1: Client 6 got award 203
+  3:34 Challenge: 6 1 1: Client 6 got award 1
+  3:34 Challenge: 9 2 1: Client 9 got award 2
+  3:34 Item: 1 weapon_grenadelauncher
+  3:34 Kill: 13 11 3: UnnamedPlayer killed pro by MOD_MACHINEGUN
+  3:34 PlayerScore: 13 20: UnnamedPlayer now has 20 points
+  3:34 Challenge: 13 202 1: Client 13 got award 202
+  3:34 Challenge: 13 1 1: Client 13 got award 1
+  3:34 Challenge: 11 2 1: Client 11 got award 2
+  3:34 Kill: 17 2 19: UnnamedPlayer killed Ficxesto by MOD_FALLING
+  3:34 PlayerScore: 17 18: UnnamedPlayer now has 18 points
+  3:34 Challenge: 17 214 1: Client 17 got award 214
+  3:34 Challenge: 17 1 1: Client 17 got award 1
+  3:34 Challenge: 2 2 1: Client 2 got award 2
+  3:34 Item: 17 weapon_rocketlauncher
+  3:34 Item: 6 weapon_plasmagun
+  3:35 Kill: 5 10 3: PRO GAMER 69 killed ploo by MOD_MACHINEGUN
+  3:35 PlayerScore: 5 21: PRO GAMER 69 now has 21 points
+  3:35 Challenge: 5 202 1: Client 5 got award 202
+  3:35 Challenge: 5 1 1: Client 5 got award 1
+  3:35 Challenge: 10 2 1: Client 10 got award 2
+  3:35 Item: 12 item_armor_body
+  3:35 Item: 12 ammo_cells
+  3:36 Kill: 13 15 3: UnnamedPlayer killed auts by MOD_MACHINEGUN
+  3:36 PlayerScore: 13 21: UnnamedPlayer now has 21 points
+  3:36 Challenge: 13 202 1: Client 13 got award 202
+  3:36 Challenge: 13 1 1: Client 13 got award 1
+  3:36 Challenge: 15 2 1: Client 15 got award 2
+  3:36 Award: 13 1: UnnamedPlayer gained the EXCELLENT award!
+  3:36 Challenge: 13 302 1: Client 13 got award 302
+  3:37 Item: 6 weapon_plasmagun
+  3:38 Item: 11 weapon_plasmagun
+  3:38 Kill: 6 5 8: boomer killed PRO GAMER 69 by MOD_PLASMA
+  3:38 PlayerScore: 6 33: boomer now has 33 points
+  3:38 Challenge: 6 207 1: Client 6 got award 207
+  3:38 Challenge: 6 1 1: Client 6 got award 1
+  3:38 Challenge: 5 2 1: Client 5 got award 2
+  3:39 Item: 7 weapon_plasmagun
+  3:39 Item: 15 weapon_rocketlauncher
+  3:40 Item: 6 item_health
+  3:40 Kill: 6 3 8: boomer killed bomb by MOD_PLASMA
+  3:40 PlayerScore: 6 34: boomer now has 34 points
+  3:40 Challenge: 6 207 1: Client 6 got award 207
+  3:40 Challenge: 6 1 1: Client 6 got award 1
+  3:40 Challenge: 3 2 1: Client 3 got award 2
+  3:40 Award: 6 1: boomer gained the EXCELLENT award!
+  3:40 Challenge: 6 302 1: Client 6 got award 302
+  3:40 Item: 5 weapon_rocketlauncher
+  3:40 Item: 6 weapon_shotgun
+  3:41 Kill: 15 8 6: auts killed sksksksk by MOD_ROCKET
+  3:41 PlayerScore: 15 12: auts now has 12 points
+  3:41 Challenge: 15 205 1: Client 15 got award 205
+  3:41 Challenge: 15 1 1: Client 15 got award 1
+  3:41 Challenge: 8 2 1: Client 8 got award 2
+  3:41 Item: 16 ammo_bullets
+  3:41 Kill: 7 17 3: xdlol killed UnnamedPlayer by MOD_MACHINEGUN
+  3:41 PlayerScore: 7 14: xdlol now has 14 points
+  3:41 Challenge: 7 202 1: Client 7 got award 202
+  3:41 Challenge: 7 1 1: Client 7 got award 1
+  3:41 Challenge: 17 2 1: Client 17 got award 2
+  3:42 Kill: 13 16 3: UnnamedPlayer killed UnnamedPlayer by MOD_MACHINEGUN
+  3:42 PlayerScore: 13 22: UnnamedPlayer now has 22 points
+  3:42 Challenge: 13 202 1: Client 13 got award 202
+  3:42 Challenge: 13 1 1: Client 13 got award 1
+  3:42 Challenge: 16 2 1: Client 16 got award 2
+  3:42 Kill: 14 2 5: UnnamedPlayer killed Ficxesto by MOD_GRENADE_SPLASH
+  3:42 PlayerScore: 14 12: UnnamedPlayer now has 12 points
+  3:42 Challenge: 14 204 1: Client 14 got award 204
+  3:42 Challenge: 14 1 1: Client 14 got award 1
+  3:42 Challenge: 2 2 1: Client 2 got award 2
+  3:42 Item: 3 weapon_grenadelauncher
+  3:42 Kill: 1 13 5: De Noob killed UnnamedPlayer by MOD_GRENADE_SPLASH
+  3:42 PlayerScore: 1 25: De Noob now has 25 points
+  3:42 Challenge: 1 204 1: Client 1 got award 204
+  3:42 Challenge: 1 1 1: Client 1 got award 1
+  3:42 Challenge: 13 2 1: Client 13 got award 2
+  3:42 Kill: 9 7 3: moi killed xdlol by MOD_MACHINEGUN
+  3:42 PlayerScore: 9 18: moi now has 18 points
+  3:42 Challenge: 9 202 1: Client 9 got award 202
+  3:42 Challenge: 9 1 1: Client 9 got award 1
+  3:42 Challenge: 7 2 1: Client 7 got award 2
+  3:43 Item: 4 weapon_plasmagun
+  3:43 Item: 17 weapon_plasmagun
+  3:43 Item: 12 item_health_small
+  3:43 Item: 12 item_health_small
+  3:44 Item: 12 item_health_small
+  3:44 Kill: 4 6 4: kaapo killed boomer by MOD_GRENADE
+  3:44 PlayerScore: 4 27: kaapo now has 27 points
+  3:44 Challenge: 4 204 1: Client 4 got award 204
+  3:44 Challenge: 4 1 1: Client 4 got award 1
+  3:44 Challenge: 6 2 1: Client 6 got award 2
+  3:44 Item: 12 item_health_small
+  3:44 Item: 15 weapon_rocketlauncher
+  3:44 Item: 9 ammo_bullets
+  3:44 Item: 12 item_health_small
+  3:45 Kill: 16 13 18: UnnamedPlayer killed UnnamedPlayer by MOD_TELEFRAG
+  3:45 PlayerScore: 16 4: UnnamedPlayer now has 4 points
+  3:45 Challenge: 16 216 1: Client 16 got award 216
+  3:45 Challenge: 16 1 1: Client 16 got award 1
+  3:45 Challenge: 13 2 1: Client 13 got award 2
+  3:45 Item: 3 ammo_rockets
+  3:45 Item: 16 weapon_rocketlauncher
+  3:46 Kill: 2 8 3: Ficxesto killed sksksksk by MOD_MACHINEGUN
+  3:46 PlayerScore: 2 30: Ficxesto now has 30 points
+  3:46 Challenge: 2 202 1: Client 2 got award 202
+  3:46 Challenge: 2 1 1: Client 2 got award 1
+  3:46 Challenge: 8 2 1: Client 8 got award 2
+  3:46 Item: 1 ammo_rockets
+  3:46 Kill: 16 3 6: UnnamedPlayer killed bomb by MOD_ROCKET
+  3:46 PlayerScore: 16 5: UnnamedPlayer now has 5 points
+  3:46 Challenge: 16 205 1: Client 16 got award 205
+  3:46 Challenge: 16 1 1: Client 16 got award 1
+  3:46 Challenge: 3 2 1: Client 3 got award 2
+  3:46 Award: 16 1: UnnamedPlayer gained the EXCELLENT award!
+  3:46 Challenge: 16 302 1: Client 16 got award 302
+  3:47 Item: 13 weapon_grenadelauncher
+  3:47 Kill: 10 14 3: ploo killed UnnamedPlayer by MOD_MACHINEGUN
+  3:47 PlayerScore: 10 8: ploo now has 8 points
+  3:47 Challenge: 10 202 1: Client 10 got award 202
+  3:47 Challenge: 10 1 1: Client 10 got award 1
+  3:47 Challenge: 14 2 1: Client 14 got award 2
+  3:47 Item: 1 ammo_bullets
+  3:48 Kill: 14 10 5: UnnamedPlayer killed ploo by MOD_GRENADE_SPLASH
+  3:48 PlayerScore: 14 13: UnnamedPlayer now has 13 points
+  3:48 Challenge: 14 204 1: Client 14 got award 204
+  3:48 Challenge: 14 1 1: Client 14 got award 1
+  3:48 Challenge: 10 2 1: Client 10 got award 2
+  3:48 Item: 17 weapon_plasmagun
+  3:49 Item: 1 ammo_shells
+  3:49 Kill: 5 16 3: PRO GAMER 69 killed UnnamedPlayer by MOD_MACHINEGUN
+  3:49 PlayerScore: 5 22: PRO GAMER 69 now has 22 points
+  3:49 Challenge: 5 202 1: Client 5 got award 202
+  3:49 Challenge: 5 1 1: Client 5 got award 1
+  3:49 Challenge: 16 2 1: Client 16 got award 2
+  3:49 Item: 4 ammo_rockets
+  3:49 Kill: 6 5 3: boomer killed PRO GAMER 69 by MOD_MACHINEGUN
+  3:49 PlayerScore: 6 35: boomer now has 35 points
+  3:49 Exit: Fraglimit hit.
+  3:49 score: 35  ping: 7  client: 6 boomer
+  3:49 score: 30  ping: 30  client: 2 Ficxesto
+  3:49 score: 27  ping: 32  client: 4 kaapo
+  3:49 score: 25  ping: 1  client: 1 De Noob
+  3:49 score: 22  ping: 2  client: 13 UnnamedPlayer
+  3:49 score: 22  ping: 26  client: 5 PRO GAMER 69
+  3:49 score: 18  ping: 2  client: 17 UnnamedPlayer
+  3:49 score: 18  ping: 0  client: 9 moi
+  3:49 score: 14  ping: 32  client: 7 xdlol
+  3:49 score: 13  ping: 1  client: 3 bomb
+  3:49 score: 13  ping: 2  client: 8 sksksksk
+  3:49 score: 13  ping: 1  client: 14 UnnamedPlayer
+  3:49 score: 12  ping: 1  client: 15 auts
+  3:49 score: 12  ping: 2  client: 11 pro
+  3:49 score: 8  ping: 0  client: 10 ploo
+  3:49 score: 6  ping: 0  client: 12 jeespoks
+  3:49 score: 5  ping: 3  client: 16 UnnamedPlayer
+  3:49 Challenge: 6 202 1: Client 6 got award 202
+  3:49 Challenge: 6 1 1: Client 6 got award 1
+  3:49 Challenge: 5 2 1: Client 5 got award 2
+  3:50 Item: 1 ammo_grenades
+  4:04 ShutdownGame:
+  4:04 ------------------------------------------------------------

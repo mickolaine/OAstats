@@ -1,0 +1,2991 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \g_lms_mode\0\elimination_roundtime\120\g_delagHitscan\1\g_voteMinFraglimit\0\g_voteMaxFraglimit\0\g_voteMinTimelimit\0\g_voteMaxTimelimit\1000\g_voteGametypes\/0/1/3/4/5/6/7/8/9/10/11/12/\g_allowVote\1\capturelimit\8\videoflags\7\g_maxGameClients\0\g_doWarmup\0\g_blueTeam\Pagans\g_redTeam\Stroggs\sv_fps\25\sv_floodProtect\1\sv_maxPing\400\sv_minPing\0\sv_maxRate\25000\sv_minRate\0\sv_maxclients\22\sv_hostname\Opekone\timelimit\15\fraglimit\35\dmflags\0\g_gametype\4\bot_minplayers\0\version\ioq3+oa 1.36_SVN1910M win_mingw-x86 Dec 25 2011\protocol\71\mapname\cbctf1\sv_privateClients\0\sv_allowDownload\1\g_instantgib\0\g_rockets\0\gamename\baseoa\elimflags\0\voteflags\767\g_needpass\0\g_obeliskRespawnDelay\10\g_enableDust\0\g_enableBreath\0\g_altExcellent\0\g_timestamp\2020-03-02 11:56:08
+  0:00 Info: ServerInfo length: 797 of 1024
+  0:00 ClientUserinfoChanged: 0 n\Ope\t\2\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\AD6ADE5966C291F885B781481CE9B4B5
+  0:00 ClientConnect: 0
+  0:00 ClientUserinfoChanged: 1 n\Toni_Mona\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\85D097CF1186E935A69A639769891332
+  0:00 ClientConnect: 1
+  0:00 ClientUserinfoChanged: 2 n\GANG RAP\t\3\model\tony/blue\hmodel\tony/blue\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\876029DC3BF91A5FB26219541D7A5A08
+  0:00 ClientConnect: 2
+  0:00 ClientUserinfoChanged: 3 n\Nigga Lamp\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\6\hc\100\w\0\l\0\tt\0\tl\0\id\7CA5C2A97E57D851708366B7951C30BE
+  0:00 ClientConnect: 3
+  0:00 ClientUserinfoChanged: 4 n\siemenneste12\t\3\model\tony/blue\hmodel\tony/blue\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:00 ClientConnect: 4
+  0:00 ClientUserinfoChanged: 5 n\finnish Rocker\t\3\model\skelebot/default\hmodel\skelebot/default\g_redteam\\g_blueteam\\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\F8EE0140DDB0ABE007F9579C94ABA8A9
+  0:00 ClientConnect: 5
+  0:00 ClientUserinfoChanged: 0 n\Ope\t\2\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\AD6ADE5966C291F885B781481CE9B4B5
+  0:00 ClientUserinfoChanged: 0 n\Ope\t\2\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\AD6ADE5966C291F885B781481CE9B4B5
+  0:00 Playerstore: Nothing to restore. Guid: AD6ADE5966C291F885B781481CE9B4B5
+  0:00 ClientBegin: 0
+  0:00 ClientUserinfoChanged: 1 n\Toni_Mona\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\85D097CF1186E935A69A639769891332
+  0:00 Playerstore: Nothing to restore. Guid: 85D097CF1186E935A69A639769891332
+  0:00 ClientBegin: 1
+  0:00 ClientUserinfoChanged: 3 n\Nigga Lamp\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\6\hc\100\w\0\l\0\tt\0\tl\0\id\7CA5C2A97E57D851708366B7951C30BE
+  0:00 ClientBegin: 3
+  0:01 ClientUserinfoChanged: 4 n\siemenneste12\t\3\model\tony/blue\hmodel\tony/blue\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:01 ClientBegin: 4
+  0:01 ClientUserinfoChanged: 2 n\GANG RAP\t\3\model\tony/blue\hmodel\tony/blue\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\876029DC3BF91A5FB26219541D7A5A08
+  0:01 ClientBegin: 2
+  0:01 ClientUserinfoChanged: 5 n\finnish Rocker\t\3\model\skelebot/default\hmodel\skelebot/default\g_redteam\\g_blueteam\\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\F8EE0140DDB0ABE007F9579C94ABA8A9
+  0:01 ClientBegin: 5
+  0:04 ClientUserinfoChanged: 6 n\Kalamies\t\3\model\merman/blue\hmodel\merman/blue\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\66471D5B93B192E83FF0510D25BADEC5
+  0:04 ClientConnect: 6
+  0:05 Kill: 0 0 20: Ope killed Ope by MOD_SUICIDE
+  0:05 PlayerScore: 0 -1: Ope now has -1 points
+  0:05 Playerstore: Stored player with guid: AD6ADE5966C291F885B781481CE9B4B5 in 0
+  0:05 ClientUserinfoChanged: 0 n\Ope\t\3\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AD6ADE5966C291F885B781481CE9B4B5
+  0:05 ClientBegin: 0
+  0:05 ClientUserinfoChanged: 4 n\siemenneste12\t\1\model\tony/blue\hmodel\tony/blue\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:05 ClientUserinfoChanged: 4 n\siemenneste12\t\1\model\tony/blue\hmodel\tony/blue\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\1\id\7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:05 Playerstore: Nothing to restore. Guid: 7E63EABACEB5CB37B44EBAD88AB4E2EB
+  0:05 ClientBegin: 4
+  0:06 Item: 1 weapon_rocketlauncher
+  0:06 Item: 1 ammo_rockets
+  0:06 ClientUserinfoChanged: 6 n\Kalamies\t\3\model\merman/blue\hmodel\merman/blue\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\66471D5B93B192E83FF0510D25BADEC5
+  0:06 ClientBegin: 6
+  0:08 Item: 4 ammo_shells
+  0:10 ClientUserinfoChanged: 7 n\Progamer69\t\3\model\tony/default\hmodel\tony/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7FBEAFBA152BDE82783AC02F9A72C3C6
+  0:10 ClientConnect: 7
+  0:11 ClientUserinfoChanged: 6 n\Kalamies\t\2\model\merman/blue\hmodel\merman/blue\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\66471D5B93B192E83FF0510D25BADEC5
+  0:11 Playerstore: Nothing to restore. Guid: 66471D5B93B192E83FF0510D25BADEC5
+  0:11 ClientBegin: 6
+  0:11 ClientUserinfoChanged: 8 n\Matutao\t\3\model\tony/red\hmodel\tony/red\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\59C591E9EDB17ACAD577C06F7EDEB7E4
+  0:11 ClientConnect: 8
+  0:12 ClientUserinfoChanged: 7 n\Progamer69\t\3\model\tony/default\hmodel\tony/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7FBEAFBA152BDE82783AC02F9A72C3C6
+  0:12 ClientBegin: 7
+  0:13 Item: 1 weapon_rocketlauncher
+  0:13 ClientUserinfoChanged: 2 n\GANG RAP\t\2\model\tony/blue\hmodel\tony/blue\g_redteam\\g_blueteam\\c1\4\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\876029DC3BF91A5FB26219541D7A5A08
+  0:13 Playerstore: Nothing to restore. Guid: 876029DC3BF91A5FB26219541D7A5A08
+  0:13 ClientBegin: 2
+  0:13 ClientUserinfoChanged: 8 n\Matutao\t\3\model\tony/red\hmodel\tony/red\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\59C591E9EDB17ACAD577C06F7EDEB7E4
+  0:13 ClientBegin: 8
+  0:13 ClientUserinfoChanged: 3 n\Nigga Lamp\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\6\hc\100\w\0\l\0\tt\0\tl\0\id\7CA5C2A97E57D851708366B7951C30BE
+  0:13 Playerstore: Nothing to restore. Guid: 7CA5C2A97E57D851708366B7951C30BE
+  0:13 ClientBegin: 3
+  0:14 ClientUserinfoChanged: 9 n\Jeesus\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\1\hc\100\w\0\l\0\tt\0\tl\0\id\BD83C7EC8F43D6E04539299A92D6FE8A
+  0:14 ClientConnect: 9
+  0:14 Item: 4 ammo_cells
+  0:14 ClientUserinfoChanged: 10 n\Olavi\t\3\model\angelyss/retro\hmodel\angelyss/retro\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\78C85AD505F760F80FF7E470067535CB
+  0:14 ClientConnect: 10
+  0:15 Item: 2 ammo_cells
+  0:15 ClientUserinfoChanged: 11 n\Vladimir Ivan\t\3\model\beret/default\hmodel\beret/default\g_redteam\\g_blueteam\\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\0A341F11E44CDDF0F5E60CDB20EF5E0D
+  0:15 ClientConnect: 11
+  0:16 ClientUserinfoChanged: 9 n\Jeesus\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\1\hc\100\w\0\l\0\tt\0\tl\0\id\BD83C7EC8F43D6E04539299A92D6FE8A
+  0:16 ClientBegin: 9
+  0:16 ClientUserinfoChanged: 10 n\Olavi\t\3\model\angelyss/retro\hmodel\angelyss/retro\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\78C85AD505F760F80FF7E470067535CB
+  0:16 ClientBegin: 10
+  0:17 ClientUserinfoChanged: 11 n\Vladimir Ivan\t\3\model\beret/default\hmodel\beret/default\g_redteam\\g_blueteam\\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\0A341F11E44CDDF0F5E60CDB20EF5E0D
+  0:17 ClientBegin: 11
+  0:17 ClientUserinfoChanged: 7 n\Progamer69\t\1\model\tony/default\hmodel\tony/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\7FBEAFBA152BDE82783AC02F9A72C3C6
+  0:17 Playerstore: Nothing to restore. Guid: 7FBEAFBA152BDE82783AC02F9A72C3C6
+  0:17 ClientBegin: 7
+  0:18 ClientUserinfoChanged: 5 n\finnish Rocker\t\1\model\skelebot/default\hmodel\skelebot/default\g_redteam\\g_blueteam\\c1\2\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\F8EE0140DDB0ABE007F9579C94ABA8A9
+  0:18 Playerstore: Nothing to restore. Guid: F8EE0140DDB0ABE007F9579C94ABA8A9
+  0:18 ClientBegin: 5
+  0:18 Item: 3 weapon_rocketlauncher
+  0:19 Item: 2 ammo_slugs
+  0:20 Item: 3 ammo_rockets
+  0:20 ClientUserinfoChanged: 10 n\Olavi\t\1\model\angelyss/retro\hmodel\angelyss/retro\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\78C85AD505F760F80FF7E470067535CB
+  0:20 Playerstore: Nothing to restore. Guid: 78C85AD505F760F80FF7E470067535CB
+  0:20 ClientBegin: 10
+  0:20 Kill: 1022 1 19: <world> killed Toni_Mona by MOD_FALLING
+  0:21 Item: 2 item_armor_combat
+  0:23 Item: 2 ammo_shells
+  0:23 Kill: 1022 6 22: <world> killed Kalamies by MOD_TRIGGER_HURT
+  0:24 ClientUserinfoChanged: 8 n\Matutao\t\1\model\tony/red\hmodel\tony/red\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\59C591E9EDB17ACAD577C06F7EDEB7E4
+  0:24 Playerstore: Nothing to restore. Guid: 59C591E9EDB17ACAD577C06F7EDEB7E4
+  0:24 ClientBegin: 8
+  0:25 Item: 5 weapon_rocketlauncher
+  0:25 Item: 2 weapon_shotgun
+  0:28 Item: 4 item_health_mega
+  0:29 Item: 7 ammo_shells
+  0:30 Kill: 5 7 6: finnish Rocker killed Progamer69 by MOD_ROCKET
+  0:31 Item: 3 weapon_railgun
+  0:31 sayteam: Kalamies: Everyone get the enemy flag
+  0:33 Item: 4 weapon_railgun
+  0:34 Playerstore: Stored player with guid: 66471D5B93B192E83FF0510D25BADEC5 in 1
+  0:34 ClientUserinfoChanged: 6 n\Kalamies\t\1\model\merman/blue\hmodel\merman/blue\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\66471D5B93B192E83FF0510D25BADEC5
+  0:34 Restored player with guid: 66471D5B93B192E83FF0510D25BADEC5
+  0:34 ClientBegin: 6
+  0:34 Item: 10 weapon_rocketlauncher
+  0:36 Item: 7 ammo_slugs
+  0:38 Item: 4 team_CTF_blueflag
+  0:38 CTF: 4 2 0: siemenneste12 got the BLUE flag!
+  0:38 PlayerScore: 4 0: siemenneste12 now has 0 points
+  0:38 Item: 7 item_armor_combat
+  0:42 Item: 2 item_health
+  0:43 Kill: 1022 7 22: <world> killed Progamer69 by MOD_TRIGGER_HURT
+  0:43 Kill: 10 4 6: Olavi killed siemenneste12 by MOD_ROCKET
+  0:44 Item: 5 weapon_rocketlauncher
+  0:44 Item: 10 team_CTF_blueflag
+  0:44 CTF: 10 2 0: Olavi got the BLUE flag!
+  0:44 PlayerScore: 10 0: Olavi now has 0 points
+  0:44 Item: 10 weapon_railgun
+  0:44 Item: 6 weapon_rocketlauncher
+  0:44 ClientUserinfoChanged: 12 n\f02\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AB8780F3C8761D58AF14FB7AB5F30ED5
+  0:44 ClientConnect: 12
+  0:45 ClientUserinfoChanged: 13 n\Irwin Goodman\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\id\0EDB725D06F4E1B10A6403B660EEE59F
+  0:45 ClientConnect: 13
+  0:47 ClientUserinfoChanged: 12 n\f02\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AB8780F3C8761D58AF14FB7AB5F30ED5
+  0:47 ClientBegin: 12
+  0:47 Kill: 8 2 3: Matutao killed GANG RAP by MOD_MACHINEGUN
+  0:47 PlayerScore: 8 1: Matutao now has 1 points
+  0:47 Challenge: 8 202 1: Client 8 got award 202
+  0:47 Challenge: 8 1 1: Client 8 got award 1
+  0:47 Challenge: 2 2 1: Client 2 got award 2
+  0:47 PlayerScore: 8 2: Matutao now has 2 points
+  0:47 Challenge: 8 305 1: Client 8 got award 305
+  0:47 Award: 8 3: Matutao gained the DEFENCE award!
+  0:48 Item: 8 weapon_shotgun
+  0:48 ClientUserinfoChanged: 14 n\Topias\t\3\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\7\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\9FA75019708DA8F89B17882B75E5EA4A
+  0:48 ClientConnect: 14
+  0:50 Kill: 8 1 1: Matutao killed Toni_Mona by MOD_SHOTGUN
+  0:50 PlayerScore: 8 3: Matutao now has 3 points
+  0:50 Challenge: 8 203 1: Client 8 got award 203
+  0:50 Challenge: 8 1 1: Client 8 got award 1
+  0:50 Challenge: 1 2 1: Client 1 got award 2
+  0:50 Award: 8 1: Matutao gained the EXCELLENT award!
+  0:50 Challenge: 8 302 1: Client 8 got award 302
+  0:50 PlayerScore: 8 4: Matutao now has 4 points
+  0:50 Challenge: 8 305 1: Client 8 got award 305
+  0:50 Award: 8 3: Matutao gained the DEFENCE award!
+  0:51 ClientUserinfoChanged: 14 n\Topias\t\3\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\7\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\9FA75019708DA8F89B17882B75E5EA4A
+  0:51 ClientBegin: 14
+  0:51 ClientUserinfoChanged: 12 n\f02\t\1\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\6\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\AB8780F3C8761D58AF14FB7AB5F30ED5
+  0:51 Playerstore: Nothing to restore. Guid: AB8780F3C8761D58AF14FB7AB5F30ED5
+  0:51 ClientBegin: 12
+  0:51 Item: 3 ammo_shells
+  0:52 ClientUserinfoChanged: 13 n\Irwin Goodman\t\3\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\id\0EDB725D06F4E1B10A6403B660EEE59F
+  0:52 ClientBegin: 13
+  0:53 Item: 8 ammo_shells
+  0:54 Item: 10 team_CTF_redflag
+  0:54 CTF: 10 2 1: Olavi captured the BLUE flag!
+  0:54 Award: 10 4: Olavi gained the CAPTURE award!
+  0:54 Challenge: 10 303 1: Client 10 got award 303
+  0:54 PlayerScore: 10 5: Olavi now has 5 points
+  0:54 PlayerScore: 3 0: Nigga Lamp now has 0 points
+  0:54 PlayerScore: 4 0: siemenneste12 now has 0 points
+  0:54 PlayerScore: 5 0: finnish Rocker now has 0 points
+  0:54 PlayerScore: 6 0: Kalamies now has 0 points
+  0:54 PlayerScore: 7 0: Progamer69 now has 0 points
+  0:54 PlayerScore: 8 4: Matutao now has 4 points
+  0:54 PlayerScore: 12 0: f02 now has 0 points
+  0:56 ClientUserinfoChanged: 15 n\Xkylkky\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\159B7CA2D489DB5A7D78BE79E5A4C09E
+  0:56 ClientConnect: 15
+  0:57 ClientUserinfoChanged: 14 n\Topias\t\1\model\penguin/default\hmodel\penguin/default\g_redteam\\g_blueteam\\c1\7\c2\4\hc\100\w\0\l\0\tt\0\tl\0\id\9FA75019708DA8F89B17882B75E5EA4A
+  0:57 Playerstore: Nothing to restore. Guid: 9FA75019708DA8F89B17882B75E5EA4A
+  0:57 ClientBegin: 14
+  0:58 ClientUserinfoChanged: 16 n\dani\t\3\model\tony/red\hmodel\tony/red\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\B84AF7A5A73B0FCC06FBF7183DD20152
+  0:58 ClientConnect: 16
+  0:59 ClientUserinfoChanged: 15 n\Xkylkky\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\159B7CA2D489DB5A7D78BE79E5A4C09E
+  0:59 ClientBegin: 15
+  0:59 ClientUserinfoChanged: 13 n\Irwin Goodman\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\id\0EDB725D06F4E1B10A6403B660EEE59F
+  0:59 Playerstore: Nothing to restore. Guid: 0EDB725D06F4E1B10A6403B660EEE59F
+  0:59 ClientBegin: 13
+  1:00 Item: 14 ammo_cells
+  1:00 ClientUserinfoChanged: 16 n\dani\t\3\model\tony/red\hmodel\tony/red\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\B84AF7A5A73B0FCC06FBF7183DD20152
+  1:00 ClientBegin: 16
+  1:00 Item: 7 weapon_railgun
+  1:00 Kill: 6 10 7: Kalamies killed Olavi by MOD_ROCKET_SPLASH
+  1:01 Item: 6 weapon_railgun
+  1:01 Item: 1 weapon_rocketlauncher
+  1:02 Kill: 7 4 10: Progamer69 killed siemenneste12 by MOD_RAILGUN
+  1:02 Kill: 1 3 3: Toni_Mona killed Nigga Lamp by MOD_MACHINEGUN
+  1:02 PlayerScore: 1 1: Toni_Mona now has 1 points
+  1:02 Challenge: 1 202 1: Client 1 got award 202
+  1:02 Challenge: 1 1 1: Client 1 got award 1
+  1:02 Challenge: 3 2 1: Client 3 got award 2
+  1:03 Item: 5 weapon_rocketlauncher
+  1:03 Item: 13 ammo_rockets
+  1:04 ClientUserinfoChanged: 15 n\Xkylkky\t\2\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\159B7CA2D489DB5A7D78BE79E5A4C09E
+  1:04 Playerstore: Nothing to restore. Guid: 159B7CA2D489DB5A7D78BE79E5A4C09E
+  1:04 ClientBegin: 15
+  1:04 ClientUserinfoChanged: 11 n\Vladimir Ivan\t\1\model\beret/default\hmodel\beret/default\g_redteam\\g_blueteam\\c1\4\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\0A341F11E44CDDF0F5E60CDB20EF5E0D
+  1:04 Playerstore: Nothing to restore. Guid: 0A341F11E44CDDF0F5E60CDB20EF5E0D
+  1:04 ClientBegin: 11
+  1:04 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+  1:04 PlayerScore: 1 0: Toni_Mona now has 0 points
+  1:05 Item: 8 weapon_railgun
+  1:06 Item: 10 weapon_shotgun
+  1:06 ClientUserinfoChanged: 9 n\Jeesus\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\2\c2\1\hc\100\w\0\l\0\tt\0\tl\0\id\BD83C7EC8F43D6E04539299A92D6FE8A
+  1:06 Playerstore: Nothing to restore. Guid: BD83C7EC8F43D6E04539299A92D6FE8A
+  1:06 ClientBegin: 9
+  1:06 Kill: 1022 4 22: <world> killed siemenneste12 by MOD_TRIGGER_HURT
+  1:08 Kill: 5 12 6: finnish Rocker killed f02 by MOD_ROCKET
+  1:09 Kill: 1022 14 22: <world> killed Topias by MOD_TRIGGER_HURT
+  1:10 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  1:11 Kill: 1022 11 22: <world> killed Vladimir Ivan by MOD_TRIGGER_HURT
+  1:12 Kill: 1022 6 22: <world> killed Kalamies by MOD_TRIGGER_HURT
+  1:12 Item: 8 item_armor_combat
+  1:12 ClientUserinfoChanged: 16 n\dani\t\1\model\tony/red\hmodel\tony/red\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\B84AF7A5A73B0FCC06FBF7183DD20152
+  1:12 Playerstore: Nothing to restore. Guid: B84AF7A5A73B0FCC06FBF7183DD20152
+  1:12 ClientBegin: 16
+  1:13 Item: 8 item_health
+  1:13 Kill: 5 5 7: finnish Rocker killed finnish Rocker by MOD_ROCKET_SPLASH
+  1:13 Item: 10 item_health_mega
+  1:13 Item: 2 team_CTF_redflag
+  1:13 CTF: 2 1 0: GANG RAP got the RED flag!
+  1:13 PlayerScore: 2 0: GANG RAP now has 0 points
+  1:13 Kill: 9 3 3: Jeesus killed Nigga Lamp by MOD_MACHINEGUN
+  1:14 Kill: 8 1 10: Matutao killed Toni_Mona by MOD_RAILGUN
+  1:14 PlayerScore: 8 5: Matutao now has 5 points
+  1:14 Challenge: 8 208 1: Client 8 got award 208
+  1:14 Challenge: 8 1 1: Client 8 got award 1
+  1:14 Challenge: 1 2 1: Client 1 got award 2
+  1:15 ClientUserinfoChanged: 17 n\vilperi\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\0D381E59047A1B60B5C727BF8BA0CFFF
+  1:15 ClientConnect: 17
+  1:16 Item: 8 team_CTF_blueflag
+  1:16 CTF: 8 2 0: Matutao got the BLUE flag!
+  1:16 PlayerScore: 8 5: Matutao now has 5 points
+  1:16 Kill: 13 13 20: Irwin Goodman killed Irwin Goodman by MOD_SUICIDE
+  1:16 Playerstore: Stored player with guid: 0EDB725D06F4E1B10A6403B660EEE59F in 1
+  1:16 ClientUserinfoChanged: 13 n\Irwin Goodman\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\id\0EDB725D06F4E1B10A6403B660EEE59F
+  1:16 Restored player with guid: 0EDB725D06F4E1B10A6403B660EEE59F
+  1:16 ClientBegin: 13
+  1:16 Item: 14 weapon_rocketlauncher
+  1:17 ClientUserinfoChanged: 17 n\vilperi\t\3\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\0D381E59047A1B60B5C727BF8BA0CFFF
+  1:17 ClientBegin: 17
+  1:19 Kill: 1022 10 22: <world> killed Olavi by MOD_TRIGGER_HURT
+  1:19 PlayerScore: 10 4: Olavi now has 4 points
+  1:22 Kill: 1 8 3: Toni_Mona killed Matutao by MOD_MACHINEGUN
+  1:22 PlayerScore: 1 1: Toni_Mona now has 1 points
+  1:22 Challenge: 1 202 1: Client 1 got award 202
+  1:22 Challenge: 1 1 1: Client 1 got award 1
+  1:22 Challenge: 8 2 1: Client 8 got award 2
+  1:22 PlayerScore: 1 3: Toni_Mona now has 3 points
+  1:22 CTF: 1 1 3: Toni_Mona fragged RED's flag carrier!
+  1:22 Item: 11 weapon_rocketlauncher
+  1:23 ClientUserinfoChanged: 17 n\vilperi\t\1\model\sarge/red\hmodel\sarge/red\g_redteam\\g_blueteam\\c1\1\c2\7\hc\100\w\0\l\0\tt\0\tl\0\id\0D381E59047A1B60B5C727BF8BA0CFFF
+  1:23 Playerstore: Nothing to restore. Guid: 0D381E59047A1B60B5C727BF8BA0CFFF
+  1:23 ClientBegin: 17
+  1:23 Item: 1 weapon_railgun
+  1:23 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+  1:23 Item: 1 team_CTF_blueflag
+  1:23 PlayerScore: 1 4: Toni_Mona now has 4 points
+  1:23 CTF: 1 2 2: Toni_Mona returned the BLUE flag!
+  1:25 Item: 14 weapon_railgun
+  1:26 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  1:27 Item: 4 weapon_railgun
+  1:27 Kill: 1 16 10: Toni_Mona killed dani by MOD_RAILGUN
+  1:27 PlayerScore: 1 5: Toni_Mona now has 5 points
+  1:27 Challenge: 1 208 1: Client 1 got award 208
+  1:27 Challenge: 1 1 1: Client 1 got award 1
+  1:27 Challenge: 16 2 1: Client 16 got award 2
+  1:27 Item: 7 item_health
+  1:28 Item: 15 ammo_shells
+  1:29 Kill: 1022 1 19: <world> killed Toni_Mona by MOD_FALLING
+  1:29 PlayerScore: 1 4: Toni_Mona now has 4 points
+  1:29 Item: 15 weapon_railgun
+  1:29 Kill: 4 11 10: siemenneste12 killed Vladimir Ivan by MOD_RAILGUN
+  1:30 Item: 9 weapon_rocketlauncher
+  1:31 Kill: 5 2 3: finnish Rocker killed GANG RAP by MOD_MACHINEGUN
+  1:31 PlayerScore: 5 1: finnish Rocker now has 1 points
+  1:31 Challenge: 5 202 1: Client 5 got award 202
+  1:31 Challenge: 5 1 1: Client 5 got award 1
+  1:31 Challenge: 2 2 1: Client 2 got award 2
+  1:31 PlayerScore: 5 3: finnish Rocker now has 3 points
+  1:31 CTF: 5 2 3: finnish Rocker fragged BLUE's flag carrier!
+  1:31 Kill: 15 9 10: Xkylkky killed Jeesus by MOD_RAILGUN
+  1:31 PlayerScore: 15 1: Xkylkky now has 1 points
+  1:31 Challenge: 15 208 1: Client 15 got award 208
+  1:31 Challenge: 15 1 1: Client 15 got award 1
+  1:31 Challenge: 9 2 1: Client 9 got award 2
+  1:32 Item: 7 team_CTF_redflag
+  1:32 PlayerScore: 7 1: Progamer69 now has 1 points
+  1:32 CTF: 7 1 2: Progamer69 returned the RED flag!
+  1:33 Kill: 1022 17 19: <world> killed vilperi by MOD_FALLING
+  1:33 Item: 2 ammo_slugs
+  1:33 Playerstore: Stored player with guid: 0EDB725D06F4E1B10A6403B660EEE59F in 1
+  1:33 ClientUserinfoChanged: 13 n\Irwin Goodman\t\1\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\1\c2\2\hc\100\w\0\l\0\tt\0\tl\0\id\0EDB725D06F4E1B10A6403B660EEE59F
+  1:33 Restored player with guid: 0EDB725D06F4E1B10A6403B660EEE59F
+  1:33 ClientBegin: 13
+  1:33 Item: 8 weapon_rocketlauncher
+  1:37 Kill: 1022 16 22: <world> killed dani by MOD_TRIGGER_HURT
+  1:38 Kill: 1 3 3: Toni_Mona killed Nigga Lamp by MOD_MACHINEGUN
+  1:38 PlayerScore: 1 5: Toni_Mona now has 5 points
+  1:38 Challenge: 1 202 1: Client 1 got award 202
+  1:38 Challenge: 1 1 1: Client 1 got award 1
+  1:38 Challenge: 3 2 1: Client 3 got award 2
+  1:38 PlayerScore: 1 6: Toni_Mona now has 6 points
+  1:38 Challenge: 1 305 1: Client 1 got award 305
+  1:38 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  1:38 Item: 11 weapon_rocketlauncher
+  1:38 Item: 6 team_CTF_blueflag
+  1:38 CTF: 6 2 0: Kalamies got the BLUE flag!
+  1:38 PlayerScore: 6 0: Kalamies now has 0 points
+  1:38 Kill: 1022 4 22: <world> killed siemenneste12 by MOD_TRIGGER_HURT
+  1:39 Kill: 1 5 3: Toni_Mona killed finnish Rocker by MOD_MACHINEGUN
+  1:39 PlayerScore: 1 7: Toni_Mona now has 7 points
+  1:39 Challenge: 1 202 1: Client 1 got award 202
+  1:39 Challenge: 1 1 1: Client 1 got award 1
+  1:39 Challenge: 5 2 1: Client 5 got award 2
+  1:39 Award: 1 1: Toni_Mona gained the EXCELLENT award!
+  1:39 Challenge: 1 302 1: Client 1 got award 302
+  1:39 PlayerScore: 1 8: Toni_Mona now has 8 points
+  1:39 Challenge: 1 305 1: Client 1 got award 305
+  1:39 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  1:39 Kill: 1022 15 22: <world> killed Xkylkky by MOD_TRIGGER_HURT
+  1:39 PlayerScore: 15 0: Xkylkky now has 0 points
+  1:41 Playerstore: Stored player with guid: 7CA5C2A97E57D851708366B7951C30BE in 1
+  1:41 ClientUserinfoChanged: 3 n\Nigga Lamp\t\2\model\sarge/indigo\hmodel\sarge/indigo\g_redteam\\g_blueteam\\c1\4\c2\6\hc\100\w\0\l\0\tt\0\tl\0\id\7CA5C2A97E57D851708366B7951C30BE
+  1:41 Restored player with guid: 7CA5C2A97E57D851708366B7951C30BE
+  1:41 ClientBegin: 3
+  1:42 Item: 16 ammo_cells
+  1:43 Kill: 1 7 3: Toni_Mona killed Progamer69 by MOD_MACHINEGUN
+  1:43 PlayerScore: 1 9: Toni_Mona now has 9 points
+  1:43 Challenge: 1 202 1: Client 1 got award 202
+  1:43 Challenge: 1 1 1: Client 1 got award 1
+  1:43 Challenge: 7 2 1: Client 7 got award 2
+  1:43 PlayerScore: 1 10: Toni_Mona now has 10 points
+  1:43 Challenge: 1 305 1: Client 1 got award 305
+  1:43 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  1:46 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  1:47 Kill: 1022 16 22: <world> killed dani by MOD_TRIGGER_HURT
+  1:47 Item: 12 weapon_railgun
+  1:48 Kill: 14 3 10: Topias killed Nigga Lamp by MOD_RAILGUN
+  1:48 PlayerScore: 14 1: Topias now has 1 points
+  1:48 Challenge: 14 208 1: Client 14 got award 208
+  1:48 Challenge: 14 1 1: Client 14 got award 1
+  1:48 Challenge: 3 2 1: Client 3 got award 2
+  1:48 Item: 5 item_health_mega
+  1:48 Kill: 4 10 3: siemenneste12 killed Olavi by MOD_MACHINEGUN
+  1:51 Item: 13 weapon_rocketlauncher
+  1:51 Kill: 14 1 10: Topias killed Toni_Mona by MOD_RAILGUN
+  1:51 PlayerScore: 14 2: Topias now has 2 points
+  1:51 Challenge: 14 208 1: Client 14 got award 208
+  1:51 Challenge: 14 1 1: Client 14 got award 1
+  1:51 Challenge: 1 2 1: Client 1 got award 2
+  1:51 Item: 4 ammo_rockets
+  1:53 Kill: 10 12 3: Olavi killed f02 by MOD_MACHINEGUN
+  1:53 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+  1:53 PlayerScore: 8 4: Matutao now has 4 points
+  1:53 Item: 6 weapon_railgun
+  1:55 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  1:56 Kill: 10 6 3: Olavi killed Kalamies by MOD_MACHINEGUN
+  1:56 Kill: 1 14 3: Toni_Mona killed Topias by MOD_MACHINEGUN
+  1:56 PlayerScore: 1 11: Toni_Mona now has 11 points
+  1:56 Challenge: 1 202 1: Client 1 got award 202
+  1:56 Challenge: 1 1 1: Client 1 got award 1
+  1:56 Challenge: 14 2 1: Client 14 got award 2
+  1:56 PlayerScore: 1 12: Toni_Mona now has 12 points
+  1:56 Challenge: 1 305 1: Client 1 got award 305
+  1:56 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  1:56 Item: 7 weapon_rocketlauncher
+  1:56 Item: 5 weapon_shotgun
+  1:57 Item: 10 team_CTF_blueflag
+  1:57 CTF: 10 2 0: Olavi got the BLUE flag!
+  1:57 PlayerScore: 10 4: Olavi now has 4 points
+  1:57 Item: 10 weapon_railgun
+  1:58 Item: 1 weapon_railgun
+  1:59 Item: 9 item_health
+  1:59 Item: 1 ammo_cells
+  1:59 Item: 9 weapon_plasmagun
+  2:00 Kill: 3 17 3: Nigga Lamp killed vilperi by MOD_MACHINEGUN
+  2:00 PlayerScore: 3 1: Nigga Lamp now has 1 points
+  2:00 Challenge: 3 202 1: Client 3 got award 202
+  2:00 Challenge: 3 1 1: Client 3 got award 1
+  2:00 Challenge: 17 2 1: Client 17 got award 2
+  2:00 PlayerScore: 3 2: Nigga Lamp now has 2 points
+  2:00 Challenge: 3 305 1: Client 3 got award 305
+  2:00 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+  2:00 Item: 5 item_armor_combat
+  2:01 Item: 6 weapon_shotgun
+  2:01 Item: 13 ammo_shells
+  2:02 Item: 10 team_CTF_redflag
+  2:02 CTF: 10 2 1: Olavi captured the BLUE flag!
+  2:02 Award: 10 4: Olavi gained the CAPTURE award!
+  2:02 Challenge: 10 303 1: Client 10 got award 303
+  2:02 PlayerScore: 10 9: Olavi now has 9 points
+  2:02 PlayerScore: 4 0: siemenneste12 now has 0 points
+  2:02 PlayerScore: 5 3: finnish Rocker now has 3 points
+  2:02 PlayerScore: 6 0: Kalamies now has 0 points
+  2:02 PlayerScore: 7 1: Progamer69 now has 1 points
+  2:02 PlayerScore: 8 4: Matutao now has 4 points
+  2:02 PlayerScore: 9 0: Jeesus now has 0 points
+  2:02 PlayerScore: 11 0: Vladimir Ivan now has 0 points
+  2:02 PlayerScore: 12 0: f02 now has 0 points
+  2:02 PlayerScore: 13 0: Irwin Goodman now has 0 points
+  2:02 PlayerScore: 14 2: Topias now has 2 points
+  2:02 PlayerScore: 16 0: dani now has 0 points
+  2:02 PlayerScore: 17 0: vilperi now has 0 points
+  2:02 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+  2:02 PlayerScore: 1 11: Toni_Mona now has 11 points
+  2:02 Item: 14 ammo_slugs
+  2:03 Kill: 1022 6 22: <world> killed Kalamies by MOD_TRIGGER_HURT
+  2:03 Item: 4 weapon_railgun
+  2:03 Item: 5 team_CTF_blueflag
+  2:03 CTF: 5 2 0: finnish Rocker got the BLUE flag!
+  2:03 PlayerScore: 5 3: finnish Rocker now has 3 points
+  2:04 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+  2:04 Item: 14 item_armor_combat
+  2:06 Kill: 10 9 10: Olavi killed Jeesus by MOD_RAILGUN
+  2:06 Playerstore: Stored player with guid: 66471D5B93B192E83FF0510D25BADEC5 in 1
+  2:06 ClientUserinfoChanged: 6 n\Kalamies\t\2\model\merman/blue\hmodel\merman/blue\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\66471D5B93B192E83FF0510D25BADEC5
+  2:06 Restored player with guid: 66471D5B93B192E83FF0510D25BADEC5
+  2:06 ClientBegin: 6
+  2:07 Item: 4 weapon_plasmagun
+  2:08 Item: 3 weapon_rocketlauncher
+  2:10 Item: 16 item_health
+  2:10 Item: 17 weapon_rocketlauncher
+  2:11 Kill: 4 2 8: siemenneste12 killed GANG RAP by MOD_PLASMA
+  2:11 PlayerScore: 4 1: siemenneste12 now has 1 points
+  2:11 Challenge: 4 207 1: Client 4 got award 207
+  2:11 Challenge: 4 1 1: Client 4 got award 1
+  2:11 Challenge: 2 2 1: Client 2 got award 2
+  2:11 PlayerScore: 4 2: siemenneste12 now has 2 points
+  2:11 Challenge: 4 305 1: Client 4 got award 305
+  2:11 Award: 4 3: siemenneste12 gained the DEFENCE award!
+  2:12 Kill: 8 4 2: Matutao killed siemenneste12 by MOD_GAUNTLET
+  2:12 Item: 8 weapon_plasmagun
+  2:12 Kill: 16 10 3: dani killed Olavi by MOD_MACHINEGUN
+  2:12 Kill: 1022 3 22: <world> killed Nigga Lamp by MOD_TRIGGER_HURT
+  2:12 PlayerScore: 3 1: Nigga Lamp now has 1 points
+  2:13 Kill: 1022 5 22: <world> killed finnish Rocker by MOD_TRIGGER_HURT
+  2:13 PlayerScore: 5 2: finnish Rocker now has 2 points
+  2:13 Kill: 1022 12 19: <world> killed f02 by MOD_FALLING
+  2:14 Kill: 15 11 3: Xkylkky killed Vladimir Ivan by MOD_MACHINEGUN
+  2:14 PlayerScore: 15 1: Xkylkky now has 1 points
+  2:14 Challenge: 15 202 1: Client 15 got award 202
+  2:14 Challenge: 15 1 1: Client 15 got award 1
+  2:14 Challenge: 11 2 1: Client 11 got award 2
+  2:14 Item: 1 weapon_rocketlauncher
+  2:14 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  2:15 Item: 1 ammo_rockets
+  2:15 Item: 15 weapon_rocketlauncher
+  2:17 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+  2:17 PlayerScore: 1 10: Toni_Mona now has 10 points
+  2:18 ClientUserinfoChanged: 18 n\tiikeri\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\54CABE290A159BE25269270BB1D5AAAA
+  2:18 ClientConnect: 18
+  2:19 Item: 4 weapon_railgun
+  2:19 Item: 5 weapon_rocketlauncher
+  2:19 Item: 3 weapon_rocketlauncher
+  2:20 Kill: 15 15 7: Xkylkky killed Xkylkky by MOD_ROCKET_SPLASH
+  2:20 Item: 9 weapon_rocketlauncher
+  2:20 ClientUserinfoChanged: 18 n\tiikeri\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\54CABE290A159BE25269270BB1D5AAAA
+  2:20 ClientBegin: 18
+  2:20 Item: 7 ammo_shells
+  2:22 ClientUserinfoChanged: 19 n\jookkaaa\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\3EB23380DC93175F6A843264C00CC260
+  2:22 ClientConnect: 19
+  2:23 Item: 16 ammo_cells
+  2:23 Item: 12 item_health_mega
+  2:24 ClientUserinfoChanged: 19 n\jookkaaa\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\1\c2\3\hc\100\w\0\l\0\tt\0\tl\0\id\3EB23380DC93175F6A843264C00CC260
+  2:24 ClientBegin: 19
+  2:24 Item: 6 ammo_shells
+  2:25 Kill: 1022 8 19: <world> killed Matutao by MOD_FALLING
+  2:25 PlayerScore: 8 3: Matutao now has 3 points
+  2:25 Kill: 9 9 7: Jeesus killed Jeesus by MOD_ROCKET_SPLASH
+  2:25 Item: 7 weapon_railgun
+  2:27 Kill: 12 1 3: f02 killed Toni_Mona by MOD_MACHINEGUN
+  2:27 PlayerScore: 12 1: f02 now has 1 points
+  2:27 Challenge: 12 202 1: Client 12 got award 202
+  2:27 Challenge: 12 1 1: Client 12 got award 1
+  2:27 Challenge: 1 2 1: Client 1 got award 2
+  2:27 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  2:28 Item: 5 weapon_rocketlauncher
+  2:28 Item: 1 ammo_slugs
+  2:29 Kill: 4 5 10: siemenneste12 killed finnish Rocker by MOD_RAILGUN
+  2:30 Item: 7 item_health
+  2:30 Kill: 3 10 6: Nigga Lamp killed Olavi by MOD_ROCKET
+  2:30 PlayerScore: 3 2: Nigga Lamp now has 2 points
+  2:30 Challenge: 3 205 1: Client 3 got award 205
+  2:30 Challenge: 3 1 1: Client 3 got award 1
+  2:30 Challenge: 10 2 1: Client 10 got award 2
+  2:30 Item: 4 weapon_rocketlauncher
+  2:32 Kill: 12 3 3: f02 killed Nigga Lamp by MOD_MACHINEGUN
+  2:32 PlayerScore: 12 2: f02 now has 2 points
+  2:32 Challenge: 12 202 1: Client 12 got award 202
+  2:32 Challenge: 12 1 1: Client 12 got award 1
+  2:32 Challenge: 3 2 1: Client 3 got award 2
+  2:32 Kill: 1 14 3: Toni_Mona killed Topias by MOD_MACHINEGUN
+  2:32 PlayerScore: 1 11: Toni_Mona now has 11 points
+  2:32 Challenge: 1 202 1: Client 1 got award 202
+  2:32 Challenge: 1 1 1: Client 1 got award 1
+  2:32 Challenge: 14 2 1: Client 14 got award 2
+  2:32 PlayerScore: 1 12: Toni_Mona now has 12 points
+  2:32 Challenge: 1 305 1: Client 1 got award 305
+  2:32 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  2:33 Item: 12 weapon_rocketlauncher
+  2:33 Item: 13 weapon_rocketlauncher
+  2:35 Item: 2 team_CTF_redflag
+  2:35 CTF: 2 1 0: GANG RAP got the RED flag!
+  2:35 PlayerScore: 2 0: GANG RAP now has 0 points
+  2:36 Kill: 15 7 3: Xkylkky killed Progamer69 by MOD_MACHINEGUN
+  2:36 PlayerScore: 15 2: Xkylkky now has 2 points
+  2:36 Challenge: 15 202 1: Client 15 got award 202
+  2:36 Challenge: 15 1 1: Client 15 got award 1
+  2:36 Challenge: 7 2 1: Client 7 got award 2
+  2:36 PlayerScore: 15 3: Xkylkky now has 3 points
+  2:36 Challenge: 15 305 1: Client 15 got award 305
+  2:36 Award: 15 3: Xkylkky gained the DEFENCE award!
+  2:36 Item: 10 ammo_rockets
+  2:36 Kill: 4 6 7: siemenneste12 killed Kalamies by MOD_ROCKET_SPLASH
+  2:36 PlayerScore: 4 3: siemenneste12 now has 3 points
+  2:36 Challenge: 4 205 1: Client 4 got award 205
+  2:36 Challenge: 4 1 1: Client 4 got award 1
+  2:36 Challenge: 6 2 1: Client 6 got award 2
+  2:37 Item: 5 weapon_shotgun
+  2:38 Kill: 4 1 7: siemenneste12 killed Toni_Mona by MOD_ROCKET_SPLASH
+  2:38 PlayerScore: 4 4: siemenneste12 now has 4 points
+  2:38 Challenge: 4 205 1: Client 4 got award 205
+  2:38 Challenge: 4 1 1: Client 4 got award 1
+  2:38 Challenge: 1 2 1: Client 1 got award 2
+  2:38 Award: 4 1: siemenneste12 gained the EXCELLENT award!
+  2:38 Challenge: 4 302 1: Client 4 got award 302
+  2:38 Item: 14 ammo_cells
+  2:38 Kill: 11 2 3: Vladimir Ivan killed GANG RAP by MOD_MACHINEGUN
+  2:38 PlayerScore: 11 1: Vladimir Ivan now has 1 points
+  2:38 Challenge: 11 202 1: Client 11 got award 202
+  2:38 Challenge: 11 1 1: Client 11 got award 1
+  2:38 Challenge: 2 2 1: Client 2 got award 2
+  2:38 PlayerScore: 11 3: Vladimir Ivan now has 3 points
+  2:38 CTF: 11 2 3: Vladimir Ivan fragged BLUE's flag carrier!
+  2:38 ClientDisconnect: 18
+  2:39 Item: 7 team_CTF_redflag
+  2:39 PlayerScore: 7 2: Progamer69 now has 2 points
+  2:39 CTF: 7 1 2: Progamer69 returned the RED flag!
+  2:41 Kill: 5 11 1: finnish Rocker killed Vladimir Ivan by MOD_SHOTGUN
+  2:41 Item: 4 team_CTF_blueflag
+  2:41 CTF: 4 2 0: siemenneste12 got the BLUE flag!
+  2:41 PlayerScore: 4 4: siemenneste12 now has 4 points
+  2:42 Item: 14 weapon_rocketlauncher
+  2:42 Item: 3 weapon_rocketlauncher
+  2:43 ClientUserinfoChanged: 18 n\tiikeri\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\54CABE290A159BE25269270BB1D5AAAA
+  2:43 ClientConnect: 18
+  2:44 Kill: 2 4 3: GANG RAP killed siemenneste12 by MOD_MACHINEGUN
+  2:44 PlayerScore: 2 1: GANG RAP now has 1 points
+  2:44 Challenge: 2 202 1: Client 2 got award 202
+  2:44 Challenge: 2 1 1: Client 2 got award 1
+  2:44 Challenge: 4 2 1: Client 4 got award 2
+  2:44 PlayerScore: 2 3: GANG RAP now has 3 points
+  2:44 CTF: 2 1 3: GANG RAP fragged RED's flag carrier!
+  2:45 ClientUserinfoChanged: 18 n\tiikeri\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\54CABE290A159BE25269270BB1D5AAAA
+  2:45 ClientBegin: 18
+  2:45 Kill: 8 15 2: Matutao killed Xkylkky by MOD_GAUNTLET
+  2:45 PlayerScore: 8 4: Matutao now has 4 points
+  2:45 Challenge: 8 201 1: Client 8 got award 201
+  2:45 Award: 8 0: Matutao gained the GAUNTLET award!
+  2:45 Challenge: 8 201 1: Client 8 got award 201
+  2:45 Challenge: 8 1 1: Client 8 got award 1
+  2:45 Challenge: 15 2 1: Client 15 got award 2
+  2:46 Kill: 1022 3 22: <world> killed Nigga Lamp by MOD_TRIGGER_HURT
+  2:46 PlayerScore: 3 1: Nigga Lamp now has 1 points
+  2:46 Item: 12 ammo_shells
+  2:47 Item: 2 team_CTF_blueflag
+  2:47 PlayerScore: 2 4: GANG RAP now has 4 points
+  2:47 CTF: 2 2 2: GANG RAP returned the BLUE flag!
+  2:47 Kill: 1022 6 19: <world> killed Kalamies by MOD_FALLING
+  2:49 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+  2:49 PlayerScore: 12 1: f02 now has 1 points
+  2:50 Kill: 14 2 6: Topias killed GANG RAP by MOD_ROCKET
+  2:50 PlayerScore: 14 3: Topias now has 3 points
+  2:50 Challenge: 14 205 1: Client 14 got award 205
+  2:50 Challenge: 14 1 1: Client 14 got award 1
+  2:50 Challenge: 2 2 1: Client 2 got award 2
+  2:50 Item: 4 weapon_rocketlauncher
+  2:51 Item: 10 item_health
+  2:51 Item: 13 team_CTF_blueflag
+  2:51 CTF: 13 2 0: Irwin Goodman got the BLUE flag!
+  2:51 PlayerScore: 13 0: Irwin Goodman now has 0 points
+  2:53 Kill: 2 13 3: GANG RAP killed Irwin Goodman by MOD_MACHINEGUN
+  2:53 PlayerScore: 2 5: GANG RAP now has 5 points
+  2:53 Challenge: 2 202 1: Client 2 got award 202
+  2:53 Challenge: 2 1 1: Client 2 got award 1
+  2:53 Challenge: 13 2 1: Client 13 got award 2
+  2:53 PlayerScore: 2 7: GANG RAP now has 7 points
+  2:53 CTF: 2 1 3: GANG RAP fragged RED's flag carrier!
+  2:53 Kill: 10 1 3: Olavi killed Toni_Mona by MOD_MACHINEGUN
+  2:53 PlayerScore: 10 10: Olavi now has 10 points
+  2:53 Challenge: 10 202 1: Client 10 got award 202
+  2:53 Challenge: 10 1 1: Client 10 got award 1
+  2:53 Challenge: 1 2 1: Client 1 got award 2
+  2:53 Item: 11 weapon_shotgun
+  2:54 Item: 4 weapon_plasmagun
+  2:54 Kill: 15 8 3: Xkylkky killed Matutao by MOD_MACHINEGUN
+  2:54 PlayerScore: 15 4: Xkylkky now has 4 points
+  2:54 Challenge: 15 202 1: Client 15 got award 202
+  2:54 Challenge: 15 1 1: Client 15 got award 1
+  2:54 Challenge: 8 2 1: Client 8 got award 2
+  2:54 PlayerScore: 15 5: Xkylkky now has 5 points
+  2:54 Challenge: 15 305 1: Client 15 got award 305
+  2:54 Award: 15 3: Xkylkky gained the DEFENCE award!
+  2:55 Kill: 14 10 7: Topias killed Olavi by MOD_ROCKET_SPLASH
+  2:55 Item: 6 team_CTF_blueflag
+  2:55 PlayerScore: 6 1: Kalamies now has 1 points
+  2:55 CTF: 6 2 2: Kalamies returned the BLUE flag!
+  2:55 Item: 15 weapon_railgun
+  2:56 Kill: 5 17 1: finnish Rocker killed vilperi by MOD_SHOTGUN
+  2:56 Kill: 6 9 3: Kalamies killed Jeesus by MOD_MACHINEGUN
+  2:56 PlayerScore: 6 2: Kalamies now has 2 points
+  2:56 Challenge: 6 202 1: Client 6 got award 202
+  2:56 Challenge: 6 1 1: Client 6 got award 1
+  2:56 Challenge: 9 2 1: Client 9 got award 2
+  2:56 PlayerScore: 6 3: Kalamies now has 3 points
+  2:56 Challenge: 6 305 1: Client 6 got award 305
+  2:56 Award: 6 3: Kalamies gained the DEFENCE award!
+  2:57 Item: 7 item_armor_combat
+  2:58 Item: 15 item_health
+  2:58 Kill: 2 16 3: GANG RAP killed dani by MOD_MACHINEGUN
+  2:58 PlayerScore: 2 8: GANG RAP now has 8 points
+  2:58 Challenge: 2 202 1: Client 2 got award 202
+  2:58 Challenge: 2 1 1: Client 2 got award 1
+  2:58 Challenge: 16 2 1: Client 16 got award 2
+  2:58 PlayerScore: 2 9: GANG RAP now has 9 points
+  2:58 Challenge: 2 305 1: Client 2 got award 305
+  2:58 Award: 2 3: GANG RAP gained the DEFENCE award!
+  3:00 Item: 12 item_health
+  3:00 Item: 13 weapon_rocketlauncher
+  3:00 Kill: 4 12 6: siemenneste12 killed f02 by MOD_ROCKET
+  3:00 Kill: 14 15 7: Topias killed Xkylkky by MOD_ROCKET_SPLASH
+  3:00 PlayerScore: 14 4: Topias now has 4 points
+  3:00 Challenge: 14 205 1: Client 14 got award 205
+  3:00 Challenge: 14 1 1: Client 14 got award 1
+  3:00 Challenge: 15 2 1: Client 15 got award 2
+  3:00 Kill: 1 14 3: Toni_Mona killed Topias by MOD_MACHINEGUN
+  3:00 PlayerScore: 1 13: Toni_Mona now has 13 points
+  3:00 Challenge: 1 202 1: Client 1 got award 202
+  3:00 Challenge: 1 1 1: Client 1 got award 1
+  3:00 Challenge: 14 2 1: Client 14 got award 2
+  3:00 PlayerScore: 1 14: Toni_Mona now has 14 points
+  3:00 Challenge: 1 305 1: Client 1 got award 305
+  3:00 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  3:02 Item: 5 weapon_railgun
+  3:02 Item: 5 weapon_rocketlauncher
+  3:02 Kill: 1 5 3: Toni_Mona killed finnish Rocker by MOD_MACHINEGUN
+  3:02 PlayerScore: 1 15: Toni_Mona now has 15 points
+  3:02 Challenge: 1 202 1: Client 1 got award 202
+  3:02 Challenge: 1 1 1: Client 1 got award 1
+  3:02 Challenge: 5 2 1: Client 5 got award 2
+  3:02 Award: 1 1: Toni_Mona gained the EXCELLENT award!
+  3:02 Challenge: 1 302 1: Client 1 got award 302
+  3:02 PlayerScore: 1 16: Toni_Mona now has 16 points
+  3:02 Challenge: 1 305 1: Client 1 got award 305
+  3:02 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  3:03 Item: 1 weapon_rocketlauncher
+  3:04 Kill: 3 2 3: Nigga Lamp killed GANG RAP by MOD_MACHINEGUN
+  3:07 Kill: 5 12 3: finnish Rocker killed f02 by MOD_MACHINEGUN
+  3:08 Kill: 4 9 7: siemenneste12 killed Jeesus by MOD_ROCKET_SPLASH
+  3:08 Kill: 10 16 3: Olavi killed dani by MOD_MACHINEGUN
+  3:08 Item: 1 ammo_cells
+  3:09 Item: 8 team_CTF_blueflag
+  3:09 CTF: 8 2 0: Matutao got the BLUE flag!
+  3:09 PlayerScore: 8 4: Matutao now has 4 points
+  3:10 Item: 14 item_health_mega
+  3:10 Item: 10 weapon_rocketlauncher
+  3:11 Item: 8 weapon_rocketlauncher
+  3:12 Item: 11 ammo_slugs
+  3:12 Item: 5 ammo_shells
+  3:12 Kill: 6 8 19: Kalamies killed Matutao by MOD_FALLING
+  3:12 PlayerScore: 6 4: Kalamies now has 4 points
+  3:12 Challenge: 6 214 1: Client 6 got award 214
+  3:12 Challenge: 6 1 1: Client 6 got award 1
+  3:12 Challenge: 8 2 1: Client 8 got award 2
+  3:12 PlayerScore: 6 6: Kalamies now has 6 points
+  3:12 CTF: 6 1 3: Kalamies fragged RED's flag carrier!
+  3:14 Item: 6 weapon_rocketlauncher
+  3:14 Item: 6 team_CTF_blueflag
+  3:14 PlayerScore: 6 7: Kalamies now has 7 points
+  3:14 CTF: 6 2 2: Kalamies returned the BLUE flag!
+  3:16 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  3:17 Item: 12 item_health
+  3:18 Item: 12 weapon_plasmagun
+  3:19 Kill: 1022 4 19: <world> killed siemenneste12 by MOD_FALLING
+  3:19 PlayerScore: 4 3: siemenneste12 now has 3 points
+  3:20 Item: 10 weapon_rocketlauncher
+  3:20 Kill: 3 14 2: Nigga Lamp killed Topias by MOD_GAUNTLET
+  3:20 PlayerScore: 3 2: Nigga Lamp now has 2 points
+  3:20 Challenge: 3 201 1: Client 3 got award 201
+  3:20 Award: 3 0: Nigga Lamp gained the GAUNTLET award!
+  3:20 Challenge: 3 201 1: Client 3 got award 201
+  3:20 Challenge: 3 1 1: Client 3 got award 1
+  3:20 Challenge: 14 2 1: Client 14 got award 2
+  3:21 Item: 12 ammo_cells
+  3:21 Item: 10 ammo_rockets
+  3:21 Kill: 5 6 3: finnish Rocker killed Kalamies by MOD_MACHINEGUN
+  3:21 PlayerScore: 5 3: finnish Rocker now has 3 points
+  3:21 Challenge: 5 202 1: Client 5 got award 202
+  3:21 Challenge: 5 1 1: Client 5 got award 1
+  3:21 Challenge: 6 2 1: Client 6 got award 2
+  3:21 Kill: 9 12 3: Jeesus killed f02 by MOD_MACHINEGUN
+  3:22 Kill: 9 3 3: Jeesus killed Nigga Lamp by MOD_MACHINEGUN
+  3:22 PlayerScore: 9 1: Jeesus now has 1 points
+  3:22 Challenge: 9 202 1: Client 9 got award 202
+  3:22 Challenge: 9 1 1: Client 9 got award 1
+  3:22 Challenge: 3 2 1: Client 3 got award 2
+  3:22 PlayerScore: 9 2: Jeesus now has 2 points
+  3:22 Challenge: 9 305 1: Client 9 got award 305
+  3:22 Award: 9 3: Jeesus gained the DEFENCE award!
+  3:23 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  3:26 Item: 5 team_CTF_blueflag
+  3:26 CTF: 5 2 0: finnish Rocker got the BLUE flag!
+  3:26 PlayerScore: 5 3: finnish Rocker now has 3 points
+  3:26 Item: 6 weapon_rocketlauncher
+  3:26 Item: 8 weapon_railgun
+  3:27 Item: 6 ammo_rockets
+  3:28 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+  3:28 PlayerScore: 1 15: Toni_Mona now has 15 points
+  3:30 Kill: 4 2 22: siemenneste12 killed GANG RAP by MOD_TRIGGER_HURT
+  3:30 PlayerScore: 4 4: siemenneste12 now has 4 points
+  3:30 Challenge: 4 214 1: Client 4 got award 214
+  3:30 Challenge: 4 1 1: Client 4 got award 1
+  3:30 Challenge: 2 2 1: Client 2 got award 2
+  3:30 Item: 11 weapon_plasmagun
+  3:30 Kill: 15 5 19: Xkylkky killed finnish Rocker by MOD_FALLING
+  3:30 PlayerScore: 15 6: Xkylkky now has 6 points
+  3:30 Challenge: 15 214 1: Client 15 got award 214
+  3:30 Challenge: 15 1 1: Client 15 got award 1
+  3:30 Challenge: 5 2 1: Client 5 got award 2
+  3:30 PlayerScore: 15 8: Xkylkky now has 8 points
+  3:30 CTF: 15 1 3: Xkylkky fragged RED's flag carrier!
+  3:31 Kill: 4 12 3: siemenneste12 killed f02 by MOD_MACHINEGUN
+  3:34 Kill: 1 11 3: Toni_Mona killed Vladimir Ivan by MOD_MACHINEGUN
+  3:34 PlayerScore: 1 16: Toni_Mona now has 16 points
+  3:34 Challenge: 1 202 1: Client 1 got award 202
+  3:34 Challenge: 1 1 1: Client 1 got award 1
+  3:34 Challenge: 11 2 1: Client 11 got award 2
+  3:34 Item: 1 weapon_plasmagun
+  3:34 Kill: 1022 7 22: <world> killed Progamer69 by MOD_TRIGGER_HURT
+  3:34 PlayerScore: 7 1: Progamer69 now has 1 points
+  3:34 Kill: 2 16 3: GANG RAP killed dani by MOD_MACHINEGUN
+  3:34 PlayerScore: 2 10: GANG RAP now has 10 points
+  3:34 Challenge: 2 202 1: Client 2 got award 202
+  3:34 Challenge: 2 1 1: Client 2 got award 1
+  3:34 Challenge: 16 2 1: Client 16 got award 2
+  3:34 PlayerScore: 2 11: GANG RAP now has 11 points
+  3:34 Challenge: 2 305 1: Client 2 got award 305
+  3:34 Award: 2 3: GANG RAP gained the DEFENCE award!
+  3:35 Item: 3 weapon_railgun
+  3:35 Kill: 6 1 7: Kalamies killed Toni_Mona by MOD_ROCKET_SPLASH
+  3:37 Item: 5 weapon_plasmagun
+  3:37 Kill: 6 10 7: Kalamies killed Olavi by MOD_ROCKET_SPLASH
+  3:37 PlayerScore: 6 8: Kalamies now has 8 points
+  3:37 Challenge: 6 205 1: Client 6 got award 205
+  3:37 Challenge: 6 1 1: Client 6 got award 1
+  3:37 Challenge: 10 2 1: Client 10 got award 2
+  3:38 Item: 2 weapon_rocketlauncher
+  3:38 Kill: 2 6 6: GANG RAP killed Kalamies by MOD_ROCKET
+  3:38 Item: 2 weapon_rocketlauncher
+  3:39 Playerstore: Stored player with guid: 78C85AD505F760F80FF7E470067535CB in 1
+  3:39 ClientUserinfoChanged: 10 n\Olavi\t\2\model\angelyss/retro\hmodel\angelyss/retro\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\78C85AD505F760F80FF7E470067535CB
+  3:39 Restored player with guid: 78C85AD505F760F80FF7E470067535CB
+  3:39 ClientBegin: 10
+  3:39 Kill: 2 4 6: GANG RAP killed siemenneste12 by MOD_ROCKET
+  3:39 PlayerScore: 2 12: GANG RAP now has 12 points
+  3:39 Challenge: 2 205 1: Client 2 got award 205
+  3:39 Challenge: 2 1 1: Client 2 got award 1
+  3:39 Challenge: 4 2 1: Client 4 got award 2
+  3:40 Item: 9 ammo_shells
+  3:41 Item: 15 ammo_shells
+  3:41 Item: 7 weapon_rocketlauncher
+  3:42 Kill: 4 2 22: siemenneste12 killed GANG RAP by MOD_TRIGGER_HURT
+  3:42 PlayerScore: 4 5: siemenneste12 now has 5 points
+  3:42 Challenge: 4 214 1: Client 4 got award 214
+  3:42 Challenge: 4 1 1: Client 4 got award 1
+  3:42 Challenge: 2 2 1: Client 2 got award 2
+  3:42 PlayerScore: 4 6: siemenneste12 now has 6 points
+  3:42 Challenge: 4 305 1: Client 4 got award 305
+  3:42 Award: 4 3: siemenneste12 gained the DEFENCE award!
+  3:42 Item: 17 weapon_rocketlauncher
+  3:43 Kill: 3 14 10: Nigga Lamp killed Topias by MOD_RAILGUN
+  3:43 PlayerScore: 3 3: Nigga Lamp now has 3 points
+  3:43 Challenge: 3 208 1: Client 3 got award 208
+  3:43 Challenge: 3 1 1: Client 3 got award 1
+  3:43 Challenge: 14 2 1: Client 14 got award 2
+  3:43 PlayerScore: 3 4: Nigga Lamp now has 4 points
+  3:43 Challenge: 3 305 1: Client 3 got award 305
+  3:43 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+  3:44 Kill: 7 15 7: Progamer69 killed Xkylkky by MOD_ROCKET_SPLASH
+  3:44 PlayerScore: 7 2: Progamer69 now has 2 points
+  3:44 Challenge: 7 205 1: Client 7 got award 205
+  3:44 Challenge: 7 1 1: Client 7 got award 1
+  3:44 Challenge: 15 2 1: Client 15 got award 2
+  3:45 Item: 5 ammo_cells
+  3:46 Kill: 1 17 3: Toni_Mona killed vilperi by MOD_MACHINEGUN
+  3:46 PlayerScore: 1 17: Toni_Mona now has 17 points
+  3:46 Challenge: 1 202 1: Client 1 got award 202
+  3:46 Challenge: 1 1 1: Client 1 got award 1
+  3:46 Challenge: 17 2 1: Client 17 got award 2
+  3:46 PlayerScore: 1 18: Toni_Mona now has 18 points
+  3:46 Challenge: 1 305 1: Client 1 got award 305
+  3:46 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  3:48 Kill: 10 1 3: Olavi killed Toni_Mona by MOD_MACHINEGUN
+  3:49 Item: 10 weapon_rocketlauncher
+  3:49 Kill: 9 16 2: Jeesus killed dani by MOD_GAUNTLET
+  3:49 Item: 11 weapon_rocketlauncher
+  3:50 Item: 13 team_CTF_blueflag
+  3:50 CTF: 13 2 0: Irwin Goodman got the BLUE flag!
+  3:50 PlayerScore: 13 0: Irwin Goodman now has 0 points
+  3:50 Kill: 1022 3 22: <world> killed Nigga Lamp by MOD_TRIGGER_HURT
+  3:50 PlayerScore: 3 3: Nigga Lamp now has 3 points
+  3:51 Item: 6 item_health
+  3:52 Item: 12 item_health_mega
+  3:53 Kill: 1022 11 22: <world> killed Vladimir Ivan by MOD_TRIGGER_HURT
+  3:53 PlayerScore: 11 2: Vladimir Ivan now has 2 points
+  3:53 Kill: 1022 8 19: <world> killed Matutao by MOD_FALLING
+  3:53 PlayerScore: 8 3: Matutao now has 3 points
+  3:54 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  3:55 Kill: 1022 6 22: <world> killed Kalamies by MOD_TRIGGER_HURT
+  3:55 PlayerScore: 6 7: Kalamies now has 7 points
+  3:56 Item: 14 weapon_rocketlauncher
+  3:58 Item: 1 weapon_shotgun
+  3:59 Item: 5 team_CTF_blueflag
+  3:59 CTF: 5 2 0: finnish Rocker got the BLUE flag!
+  3:59 PlayerScore: 5 3: finnish Rocker now has 3 points
+  4:02 Item: 10 ammo_shells
+  4:02 Item: 4 weapon_railgun
+  4:02 Item: 11 weapon_railgun
+  4:03 Kill: 6 7 3: Kalamies killed Progamer69 by MOD_MACHINEGUN
+  4:03 PlayerScore: 6 8: Kalamies now has 8 points
+  4:03 Challenge: 6 202 1: Client 6 got award 202
+  4:03 Challenge: 6 1 1: Client 6 got award 1
+  4:03 Challenge: 7 2 1: Client 7 got award 2
+  4:03 PlayerScore: 6 9: Kalamies now has 9 points
+  4:03 Challenge: 6 305 1: Client 6 got award 305
+  4:03 Award: 6 3: Kalamies gained the DEFENCE award!
+  4:03 Item: 11 item_health
+  4:03 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+  4:03 PlayerScore: 12 0: f02 now has 0 points
+  4:04 Kill: 1 17 1: Toni_Mona killed vilperi by MOD_SHOTGUN
+  4:04 PlayerScore: 1 19: Toni_Mona now has 19 points
+  4:04 Challenge: 1 203 1: Client 1 got award 203
+  4:04 Challenge: 1 1 1: Client 1 got award 1
+  4:04 Challenge: 17 2 1: Client 17 got award 2
+  4:04 Kill: 14 1 7: Topias killed Toni_Mona by MOD_ROCKET_SPLASH
+  4:04 PlayerScore: 14 5: Topias now has 5 points
+  4:04 Challenge: 14 205 1: Client 14 got award 205
+  4:04 Challenge: 14 1 1: Client 14 got award 1
+  4:04 Challenge: 1 2 1: Client 1 got award 2
+  4:04 Item: 5 weapon_rocketlauncher
+  4:06 Item: 14 weapon_shotgun
+  4:06 Kill: 4 9 10: siemenneste12 killed Jeesus by MOD_RAILGUN
+  4:07 Kill: 10 15 7: Olavi killed Xkylkky by MOD_ROCKET_SPLASH
+  4:07 Item: 13 weapon_rocketlauncher
+  4:07 Kill: 2 4 3: GANG RAP killed siemenneste12 by MOD_MACHINEGUN
+  4:07 PlayerScore: 2 13: GANG RAP now has 13 points
+  4:07 Challenge: 2 202 1: Client 2 got award 202
+  4:07 Challenge: 2 1 1: Client 2 got award 1
+  4:07 Challenge: 4 2 1: Client 4 got award 2
+  4:08 Item: 2 weapon_railgun
+  4:08 Item: 2 team_CTF_redflag
+  4:08 CTF: 2 1 0: GANG RAP got the RED flag!
+  4:08 PlayerScore: 2 13: GANG RAP now has 13 points
+  4:08 Kill: 1022 7 22: <world> killed Progamer69 by MOD_TRIGGER_HURT
+  4:08 PlayerScore: 7 1: Progamer69 now has 1 points
+  4:09 Kill: 11 2 10: Vladimir Ivan killed GANG RAP by MOD_RAILGUN
+  4:09 PlayerScore: 11 3: Vladimir Ivan now has 3 points
+  4:09 Challenge: 11 208 1: Client 11 got award 208
+  4:09 Challenge: 11 1 1: Client 11 got award 1
+  4:09 Challenge: 2 2 1: Client 2 got award 2
+  4:09 PlayerScore: 11 5: Vladimir Ivan now has 5 points
+  4:09 CTF: 11 2 3: Vladimir Ivan fragged BLUE's flag carrier!
+  4:10 Kill: 1022 3 19: <world> killed Nigga Lamp by MOD_FALLING
+  4:10 PlayerScore: 3 2: Nigga Lamp now has 2 points
+  4:10 Kill: 1022 10 22: <world> killed Olavi by MOD_TRIGGER_HURT
+  4:10 PlayerScore: 10 9: Olavi now has 9 points
+  4:11 Item: 12 ammo_slugs
+  4:11 Kill: 1 14 22: Toni_Mona killed Topias by MOD_TRIGGER_HURT
+  4:11 PlayerScore: 1 20: Toni_Mona now has 20 points
+  4:11 Challenge: 1 214 1: Client 1 got award 214
+  4:11 Challenge: 1 1 1: Client 1 got award 1
+  4:11 Challenge: 14 2 1: Client 14 got award 2
+  4:11 PlayerScore: 1 21: Toni_Mona now has 21 points
+  4:11 Challenge: 1 305 1: Client 1 got award 305
+  4:11 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  4:12 Item: 11 team_CTF_redflag
+  4:12 PlayerScore: 11 6: Vladimir Ivan now has 6 points
+  4:12 CTF: 11 1 2: Vladimir Ivan returned the RED flag!
+  4:13 Kill: 8 1 3: Matutao killed Toni_Mona by MOD_MACHINEGUN
+  4:13 PlayerScore: 8 4: Matutao now has 4 points
+  4:13 Challenge: 8 202 1: Client 8 got award 202
+  4:13 Challenge: 8 1 1: Client 8 got award 1
+  4:13 Challenge: 1 2 1: Client 1 got award 2
+  4:13 Item: 12 item_armor_combat
+  4:15 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+  4:15 PlayerScore: 8 3: Matutao now has 3 points
+  4:15 Item: 11 ammo_cells
+  4:16 Item: 7 weapon_railgun
+  4:17 Item: 4 weapon_rocketlauncher
+  4:19 Item: 4 ammo_rockets
+  4:19 Item: 1 weapon_shotgun
+  4:21 Item: 5 team_CTF_redflag
+  4:21 CTF: 5 2 1: finnish Rocker captured the BLUE flag!
+  4:21 Award: 5 4: finnish Rocker gained the CAPTURE award!
+  4:21 Challenge: 5 303 1: Client 5 got award 303
+  4:21 PlayerScore: 5 8: finnish Rocker now has 8 points
+  4:21 PlayerScore: 4 6: siemenneste12 now has 6 points
+  4:21 PlayerScore: 7 1: Progamer69 now has 1 points
+  4:21 PlayerScore: 8 3: Matutao now has 3 points
+  4:21 PlayerScore: 9 2: Jeesus now has 2 points
+  4:21 PlayerScore: 11 6: Vladimir Ivan now has 6 points
+  4:21 PlayerScore: 11 7: Vladimir Ivan now has 7 points
+  4:21 Challenge: 11 304 1: Client 11 got award 304
+  4:21 Award: 11 5: Vladimir Ivan gained the ASSIST award!
+  4:21 PlayerScore: 12 0: f02 now has 0 points
+  4:21 PlayerScore: 13 0: Irwin Goodman now has 0 points
+  4:21 PlayerScore: 14 5: Topias now has 5 points
+  4:21 PlayerScore: 16 0: dani now has 0 points
+  4:21 PlayerScore: 17 0: vilperi now has 0 points
+  4:21 Kill: 9 13 3: Jeesus killed Irwin Goodman by MOD_MACHINEGUN
+  4:21 say: Olavi: HITSIT
+  4:21 Kill: 1022 16 22: <world> killed dani by MOD_TRIGGER_HURT
+  4:21 Kill: 1022 2 22: <world> killed GANG RAP by MOD_TRIGGER_HURT
+  4:21 PlayerScore: 2 12: GANG RAP now has 12 points
+  4:22 Item: 11 weapon_rocketlauncher
+  4:22 Kill: 4 11 6: siemenneste12 killed Vladimir Ivan by MOD_ROCKET
+  4:22 Item: 3 weapon_rocketlauncher
+  4:23 Item: 3 ammo_rockets
+  4:24 Kill: 4 9 7: siemenneste12 killed Jeesus by MOD_ROCKET_SPLASH
+  4:24 Kill: 1 10 1: Toni_Mona killed Olavi by MOD_SHOTGUN
+  4:25 Item: 7 ammo_shells
+  4:25 Item: 1 ammo_slugs
+  4:28 Item: 14 weapon_rocketlauncher
+  4:28 Kill: 8 6 3: Matutao killed Kalamies by MOD_MACHINEGUN
+  4:28 PlayerScore: 8 4: Matutao now has 4 points
+  4:28 Challenge: 8 202 1: Client 8 got award 202
+  4:28 Challenge: 8 1 1: Client 8 got award 1
+  4:28 Challenge: 6 2 1: Client 6 got award 2
+  4:28 PlayerScore: 8 5: Matutao now has 5 points
+  4:28 Challenge: 8 305 1: Client 8 got award 305
+  4:28 Award: 8 3: Matutao gained the DEFENCE award!
+  4:28 Item: 14 weapon_rocketlauncher
+  4:29 Item: 17 weapon_rocketlauncher
+  4:30 Item: 1 ammo_cells
+  4:31 Kill: 1022 14 22: <world> killed Topias by MOD_TRIGGER_HURT
+  4:31 PlayerScore: 14 4: Topias now has 4 points
+  4:31 Item: 2 item_health_mega
+  4:32 Kill: 4 5 7: siemenneste12 killed finnish Rocker by MOD_ROCKET_SPLASH
+  4:33 Kill: 5 2 6: finnish Rocker killed GANG RAP by MOD_ROCKET
+  4:33 PlayerScore: 5 9: finnish Rocker now has 9 points
+  4:33 Challenge: 5 205 1: Client 5 got award 205
+  4:33 Challenge: 5 1 1: Client 5 got award 1
+  4:33 Challenge: 2 2 1: Client 2 got award 2
+  4:33 PlayerScore: 5 10: finnish Rocker now has 10 points
+  4:33 Challenge: 5 305 1: Client 5 got award 305
+  4:33 Award: 5 3: finnish Rocker gained the DEFENCE award!
+  4:34 Kill: 11 15 3: Vladimir Ivan killed Xkylkky by MOD_MACHINEGUN
+  4:34 PlayerScore: 11 8: Vladimir Ivan now has 8 points
+  4:34 Challenge: 11 202 1: Client 11 got award 202
+  4:34 Challenge: 11 1 1: Client 11 got award 1
+  4:34 Challenge: 15 2 1: Client 15 got award 2
+  4:34 Kill: 10 1 2: Olavi killed Toni_Mona by MOD_GAUNTLET
+  4:34 Item: 3 weapon_shotgun
+  4:35 Item: 7 item_health
+  4:36 Kill: 1022 4 19: <world> killed siemenneste12 by MOD_FALLING
+  4:36 PlayerScore: 4 5: siemenneste12 now has 5 points
+  4:36 Item: 8 weapon_rocketlauncher
+  4:37 Item: 6 ammo_shells
+  4:37 Item: 10 weapon_plasmagun
+  4:41 Item: 5 weapon_rocketlauncher
+  4:41 Kill: 1022 9 22: <world> killed Jeesus by MOD_TRIGGER_HURT
+  4:41 PlayerScore: 9 1: Jeesus now has 1 points
+  4:42 Item: 17 item_health
+  4:42 Kill: 10 6 8: Olavi killed Kalamies by MOD_PLASMA
+  4:43 Kill: 2 12 3: GANG RAP killed f02 by MOD_MACHINEGUN
+  4:43 PlayerScore: 2 13: GANG RAP now has 13 points
+  4:43 Challenge: 2 202 1: Client 2 got award 202
+  4:43 Challenge: 2 1 1: Client 2 got award 1
+  4:43 Challenge: 12 2 1: Client 12 got award 2
+  4:44 Kill: 1 10 3: Toni_Mona killed Olavi by MOD_MACHINEGUN
+  4:45 Item: 1 weapon_plasmagun
+  4:46 Kill: 1022 2 22: <world> killed GANG RAP by MOD_TRIGGER_HURT
+  4:46 PlayerScore: 2 12: GANG RAP now has 12 points
+  4:47 Item: 16 weapon_rocketlauncher
+  4:47 Item: 1 item_health
+  4:47 Item: 1 item_armor_combat
+  4:49 Kill: 8 1 6: Matutao killed Toni_Mona by MOD_ROCKET
+  4:49 PlayerScore: 8 6: Matutao now has 6 points
+  4:49 Challenge: 8 205 1: Client 8 got award 205
+  4:49 Challenge: 8 1 1: Client 8 got award 1
+  4:49 Challenge: 1 2 1: Client 1 got award 2
+  4:49 Item: 9 weapon_plasmagun
+  4:49 Item: 12 ammo_shells
+  4:50 Kill: 10 8 3: Olavi killed Matutao by MOD_MACHINEGUN
+  4:50 PlayerScore: 10 10: Olavi now has 10 points
+  4:50 Challenge: 10 202 1: Client 10 got award 202
+  4:50 Challenge: 10 1 1: Client 10 got award 1
+  4:50 Challenge: 8 2 1: Client 8 got award 2
+  4:50 PlayerScore: 10 11: Olavi now has 11 points
+  4:50 Challenge: 10 305 1: Client 10 got award 305
+  4:50 Award: 10 3: Olavi gained the DEFENCE award!
+  4:51 Item: 16 weapon_rocketlauncher
+  4:51 Item: 3 weapon_plasmagun
+  4:52 Kill: 1022 11 22: <world> killed Vladimir Ivan by MOD_TRIGGER_HURT
+  4:52 PlayerScore: 11 7: Vladimir Ivan now has 7 points
+  4:52 Kill: 15 7 3: Xkylkky killed Progamer69 by MOD_MACHINEGUN
+  4:52 PlayerScore: 15 9: Xkylkky now has 9 points
+  4:52 Challenge: 15 202 1: Client 15 got award 202
+  4:52 Challenge: 15 1 1: Client 15 got award 1
+  4:52 Challenge: 7 2 1: Client 7 got award 2
+  4:53 Item: 2 weapon_rocketlauncher
+  4:56 Kill: 10 2 3: Olavi killed GANG RAP by MOD_MACHINEGUN
+  4:56 Item: 1 weapon_rocketlauncher
+  4:56 Kill: 1 5 3: Toni_Mona killed finnish Rocker by MOD_MACHINEGUN
+  4:56 PlayerScore: 1 22: Toni_Mona now has 22 points
+  4:56 Challenge: 1 202 1: Client 1 got award 202
+  4:56 Challenge: 1 1 1: Client 1 got award 1
+  4:56 Challenge: 5 2 1: Client 5 got award 2
+  4:56 PlayerScore: 1 23: Toni_Mona now has 23 points
+  4:56 Challenge: 1 305 1: Client 1 got award 305
+  4:56 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  4:57 Item: 1 weapon_rocketlauncher
+  4:58 Kill: 3 14 8: Nigga Lamp killed Topias by MOD_PLASMA
+  4:58 PlayerScore: 3 3: Nigga Lamp now has 3 points
+  4:58 Challenge: 3 207 1: Client 3 got award 207
+  4:58 Challenge: 3 1 1: Client 3 got award 1
+  4:58 Challenge: 14 2 1: Client 14 got award 2
+  4:58 PlayerScore: 3 4: Nigga Lamp now has 4 points
+  4:58 Challenge: 3 305 1: Client 3 got award 305
+  4:58 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+  4:59 Kill: 1022 15 19: <world> killed Xkylkky by MOD_FALLING
+  4:59 PlayerScore: 15 8: Xkylkky now has 8 points
+  5:00 Item: 8 weapon_rocketlauncher
+  5:01 Item: 1 weapon_plasmagun
+  5:01 Item: 4 team_CTF_blueflag
+  5:01 CTF: 4 2 0: siemenneste12 got the BLUE flag!
+  5:01 PlayerScore: 4 5: siemenneste12 now has 5 points
+  5:02 Kill: 1 10 7: Toni_Mona killed Olavi by MOD_ROCKET_SPLASH
+  5:03 Kill: 6 4 19: Kalamies killed siemenneste12 by MOD_FALLING
+  5:03 PlayerScore: 6 10: Kalamies now has 10 points
+  5:03 Challenge: 6 214 1: Client 6 got award 214
+  5:03 Challenge: 6 1 1: Client 6 got award 1
+  5:03 Challenge: 4 2 1: Client 4 got award 2
+  5:03 PlayerScore: 6 12: Kalamies now has 12 points
+  5:03 CTF: 6 1 3: Kalamies fragged RED's flag carrier!
+  5:04 Item: 6 team_CTF_blueflag
+  5:04 PlayerScore: 6 13: Kalamies now has 13 points
+  5:04 CTF: 6 2 2: Kalamies returned the BLUE flag!
+  5:05 Item: 5 weapon_rocketlauncher
+  5:06 Kill: 9 16 8: Jeesus killed dani by MOD_PLASMA
+  5:06 Kill: 3 3 9: Nigga Lamp killed Nigga Lamp by MOD_PLASMA_SPLASH
+  5:06 Item: 10 weapon_plasmagun
+  5:06 Kill: 1 10 6: Toni_Mona killed Olavi by MOD_ROCKET
+  5:06 Kill: 1 1 7: Toni_Mona killed Toni_Mona by MOD_ROCKET_SPLASH
+  5:06 Item: 14 ammo_rockets
+  5:07 Item: 12 item_health_mega
+  5:08 Kill: 1022 5 22: <world> killed finnish Rocker by MOD_TRIGGER_HURT
+  5:08 PlayerScore: 5 9: finnish Rocker now has 9 points
+  5:08 Item: 1 ammo_slugs
+  5:10 Kill: 9 17 8: Jeesus killed vilperi by MOD_PLASMA
+  5:10 Item: 6 weapon_rocketlauncher
+  5:10 Item: 6 weapon_plasmagun
+  5:11 Item: 11 ammo_cells
+  5:11 Item: 9 item_health
+  5:12 Kill: 8 10 6: Matutao killed Olavi by MOD_ROCKET
+  5:12 PlayerScore: 8 7: Matutao now has 7 points
+  5:12 Challenge: 8 205 1: Client 8 got award 205
+  5:12 Challenge: 8 1 1: Client 8 got award 1
+  5:12 Challenge: 10 2 1: Client 10 got award 2
+  5:12 Kill: 1022 2 22: <world> killed GANG RAP by MOD_TRIGGER_HURT
+  5:12 PlayerScore: 2 11: GANG RAP now has 11 points
+  5:13 Item: 5 weapon_shotgun
+  5:14 Item: 13 weapon_rocketlauncher
+  5:14 Kill: 7 9 3: Progamer69 killed Jeesus by MOD_MACHINEGUN
+  5:14 Item: 11 ammo_shells
+  5:15 Item: 3 weapon_rocketlauncher
+  5:15 Kill: 9 15 22: Jeesus killed Xkylkky by MOD_TRIGGER_HURT
+  5:15 PlayerScore: 9 2: Jeesus now has 2 points
+  5:15 Challenge: 9 214 1: Client 9 got award 214
+  5:15 Challenge: 9 1 1: Client 9 got award 1
+  5:15 Challenge: 15 2 1: Client 15 got award 2
+  5:15 Item: 3 ammo_rockets
+  5:15 Kill: 4 16 3: siemenneste12 killed dani by MOD_MACHINEGUN
+  5:16 Kill: 2 7 3: GANG RAP killed Progamer69 by MOD_MACHINEGUN
+  5:16 PlayerScore: 2 12: GANG RAP now has 12 points
+  5:16 Challenge: 2 202 1: Client 2 got award 202
+  5:16 Challenge: 2 1 1: Client 2 got award 1
+  5:16 Challenge: 7 2 1: Client 7 got award 2
+  5:16 PlayerScore: 2 13: GANG RAP now has 13 points
+  5:16 Challenge: 2 305 1: Client 2 got award 305
+  5:16 Award: 2 3: GANG RAP gained the DEFENCE award!
+  5:17 Item: 8 weapon_plasmagun
+  5:17 Item: 11 item_health
+  5:17 Item: 8 item_health
+  5:18 Kill: 8 1 22: Matutao killed Toni_Mona by MOD_TRIGGER_HURT
+  5:18 PlayerScore: 8 8: Matutao now has 8 points
+  5:18 Challenge: 8 214 1: Client 8 got award 214
+  5:18 Challenge: 8 1 1: Client 8 got award 1
+  5:18 Challenge: 1 2 1: Client 1 got award 2
+  5:19 Item: 11 ammo_cells
+  5:19 Item: 2 weapon_shotgun
+  5:19 Item: 10 ammo_cells
+  5:20 Item: 14 weapon_rocketlauncher
+  5:20 Kill: 8 6 8: Matutao killed Kalamies by MOD_PLASMA
+  5:20 PlayerScore: 8 9: Matutao now has 9 points
+  5:20 Challenge: 8 207 1: Client 8 got award 207
+  5:20 Challenge: 8 1 1: Client 8 got award 1
+  5:20 Challenge: 6 2 1: Client 6 got award 2
+  5:20 Award: 8 1: Matutao gained the EXCELLENT award!
+  5:20 Challenge: 8 302 1: Client 8 got award 302
+  5:21 Item: 13 weapon_rocketlauncher
+  5:22 Item: 16 ammo_cells
+  5:23 Item: 8 item_health
+  5:23 Item: 10 weapon_rocketlauncher
+  5:24 Item: 4 weapon_railgun
+  5:24 Item: 6 weapon_rocketlauncher
+  5:25 Item: 12 ammo_shells
+  5:26 Kill: 1 13 22: Toni_Mona killed Irwin Goodman by MOD_TRIGGER_HURT
+  5:26 PlayerScore: 1 24: Toni_Mona now has 24 points
+  5:26 Challenge: 1 214 1: Client 1 got award 214
+  5:26 Challenge: 1 1 1: Client 1 got award 1
+  5:26 Challenge: 13 2 1: Client 13 got award 2
+  5:26 PlayerScore: 1 25: Toni_Mona now has 25 points
+  5:26 Challenge: 1 305 1: Client 1 got award 305
+  5:26 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  5:27 Item: 4 weapon_rocketlauncher
+  5:28 Kill: 1022 2 22: <world> killed GANG RAP by MOD_TRIGGER_HURT
+  5:28 PlayerScore: 2 12: GANG RAP now has 12 points
+  5:29 Kill: 6 4 7: Kalamies killed siemenneste12 by MOD_ROCKET_SPLASH
+  5:29 PlayerScore: 6 14: Kalamies now has 14 points
+  5:29 Challenge: 6 205 1: Client 6 got award 205
+  5:29 Challenge: 6 1 1: Client 6 got award 1
+  5:29 Challenge: 4 2 1: Client 4 got award 2
+  5:29 PlayerScore: 6 15: Kalamies now has 15 points
+  5:29 Challenge: 6 305 1: Client 6 got award 305
+  5:29 Award: 6 3: Kalamies gained the DEFENCE award!
+  5:29 Item: 8 team_CTF_blueflag
+  5:29 CTF: 8 2 0: Matutao got the BLUE flag!
+  5:29 PlayerScore: 8 9: Matutao now has 9 points
+  5:29 Kill: 1 8 3: Toni_Mona killed Matutao by MOD_MACHINEGUN
+  5:29 PlayerScore: 1 26: Toni_Mona now has 26 points
+  5:29 Challenge: 1 202 1: Client 1 got award 202
+  5:29 Challenge: 1 1 1: Client 1 got award 1
+  5:29 Challenge: 8 2 1: Client 8 got award 2
+  5:29 Award: 1 1: Toni_Mona gained the EXCELLENT award!
+  5:29 Challenge: 1 302 1: Client 1 got award 302
+  5:29 PlayerScore: 1 28: Toni_Mona now has 28 points
+  5:29 CTF: 1 1 3: Toni_Mona fragged RED's flag carrier!
+  5:30 Kill: 11 15 3: Vladimir Ivan killed Xkylkky by MOD_MACHINEGUN
+  5:30 PlayerScore: 11 8: Vladimir Ivan now has 8 points
+  5:30 Challenge: 11 202 1: Client 11 got award 202
+  5:30 Challenge: 11 1 1: Client 11 got award 1
+  5:30 Challenge: 15 2 1: Client 15 got award 2
+  5:30 Item: 6 weapon_rocketlauncher
+  5:30 Item: 10 weapon_rocketlauncher
+  5:31 Item: 1 team_CTF_blueflag
+  5:31 PlayerScore: 1 29: Toni_Mona now has 29 points
+  5:31 CTF: 1 2 2: Toni_Mona returned the BLUE flag!
+  5:31 Item: 3 team_CTF_redflag
+  5:31 CTF: 3 1 0: Nigga Lamp got the RED flag!
+  5:31 PlayerScore: 3 4: Nigga Lamp now has 4 points
+  5:33 Kill: 14 6 6: Topias killed Kalamies by MOD_ROCKET
+  5:33 PlayerScore: 14 5: Topias now has 5 points
+  5:33 Challenge: 14 205 1: Client 14 got award 205
+  5:33 Challenge: 14 1 1: Client 14 got award 1
+  5:33 Challenge: 6 2 1: Client 6 got award 2
+  5:33 Item: 5 weapon_rocketlauncher
+  5:34 Item: 5 item_armor_combat
+  5:34 Kill: 4 3 3: siemenneste12 killed Nigga Lamp by MOD_MACHINEGUN
+  5:34 PlayerScore: 4 6: siemenneste12 now has 6 points
+  5:34 Challenge: 4 202 1: Client 4 got award 202
+  5:34 Challenge: 4 1 1: Client 4 got award 1
+  5:34 Challenge: 3 2 1: Client 3 got award 2
+  5:34 PlayerScore: 4 8: siemenneste12 now has 8 points
+  5:34 CTF: 4 2 3: siemenneste12 fragged BLUE's flag carrier!
+  5:34 Kill: 14 1 6: Topias killed Toni_Mona by MOD_ROCKET
+  5:34 PlayerScore: 14 6: Topias now has 6 points
+  5:34 Challenge: 14 205 1: Client 14 got award 205
+  5:34 Challenge: 14 1 1: Client 14 got award 1
+  5:34 Challenge: 1 2 1: Client 1 got award 2
+  5:34 Award: 14 1: Topias gained the EXCELLENT award!
+  5:34 Challenge: 14 302 1: Client 14 got award 302
+  5:35 Item: 4 weapon_rocketlauncher
+  5:35 Item: 14 team_CTF_blueflag
+  5:35 CTF: 14 2 0: Topias got the BLUE flag!
+  5:35 PlayerScore: 14 6: Topias now has 6 points
+  5:35 Item: 12 weapon_railgun
+  5:35 Kill: 5 14 6: finnish Rocker killed Topias by MOD_ROCKET
+  5:36 Item: 13 weapon_rocketlauncher
+  5:36 Kill: 8 4 3: Matutao killed siemenneste12 by MOD_MACHINEGUN
+  5:37 Kill: 1022 11 22: <world> killed Vladimir Ivan by MOD_TRIGGER_HURT
+  5:37 PlayerScore: 11 7: Vladimir Ivan now has 7 points
+  5:37 Item: 8 weapon_rocketlauncher
+  5:37 Item: 6 team_CTF_blueflag
+  5:37 PlayerScore: 6 16: Kalamies now has 16 points
+  5:37 CTF: 6 2 2: Kalamies returned the BLUE flag!
+  5:38 Item: 10 weapon_railgun
+  5:38 Kill: 5 9 7: finnish Rocker killed Jeesus by MOD_ROCKET_SPLASH
+  5:39 Kill: 3 5 3: Nigga Lamp killed finnish Rocker by MOD_MACHINEGUN
+  5:39 PlayerScore: 3 5: Nigga Lamp now has 5 points
+  5:39 Challenge: 3 202 1: Client 3 got award 202
+  5:39 Challenge: 3 1 1: Client 3 got award 1
+  5:39 Challenge: 5 2 1: Client 5 got award 2
+  5:39 PlayerScore: 3 6: Nigga Lamp now has 6 points
+  5:39 Challenge: 3 305 1: Client 3 got award 305
+  5:39 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+  5:39 Item: 1 weapon_rocketlauncher
+  5:42 Kill: 4 12 3: siemenneste12 killed f02 by MOD_MACHINEGUN
+  5:43 Kill: 1022 17 19: <world> killed vilperi by MOD_FALLING
+  5:43 Item: 11 weapon_railgun
+  5:43 Item: 3 weapon_rocketlauncher
+  5:44 Item: 1 weapon_rocketlauncher
+  5:44 Item: 7 item_health
+  5:46 Kill: 7 6 3: Progamer69 killed Kalamies by MOD_MACHINEGUN
+  5:46 PlayerScore: 7 2: Progamer69 now has 2 points
+  5:46 Challenge: 7 202 1: Client 7 got award 202
+  5:46 Challenge: 7 1 1: Client 7 got award 1
+  5:46 Challenge: 6 2 1: Client 6 got award 2
+  5:46 Kill: 1022 2 22: <world> killed GANG RAP by MOD_TRIGGER_HURT
+  5:46 PlayerScore: 2 11: GANG RAP now has 11 points
+  5:47 Item: 14 weapon_rocketlauncher
+  5:47 Item: 4 item_health_mega
+  5:48 Kill: 16 1 3: dani killed Toni_Mona by MOD_MACHINEGUN
+  5:48 PlayerScore: 16 1: dani now has 1 points
+  5:48 Challenge: 16 202 1: Client 16 got award 202
+  5:48 Challenge: 16 1 1: Client 16 got award 1
+  5:48 Challenge: 1 2 1: Client 1 got award 2
+  5:48 Item: 7 team_CTF_blueflag
+  5:48 CTF: 7 2 0: Progamer69 got the BLUE flag!
+  5:48 PlayerScore: 7 2: Progamer69 now has 2 points
+  5:49 Item: 7 weapon_rocketlauncher
+  5:49 Item: 16 weapon_rocketlauncher
+  5:49 Item: 17 ammo_rockets
+  5:50 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+  5:51 Kill: 10 7 10: Olavi killed Progamer69 by MOD_RAILGUN
+  5:51 PlayerScore: 10 12: Olavi now has 12 points
+  5:51 Challenge: 10 208 1: Client 10 got award 208
+  5:51 Challenge: 10 1 1: Client 10 got award 1
+  5:51 Challenge: 7 2 1: Client 7 got award 2
+  5:51 PlayerScore: 10 14: Olavi now has 14 points
+  5:51 CTF: 10 1 3: Olavi fragged RED's flag carrier!
+  5:51 Item: 1 team_CTF_blueflag
+  5:51 PlayerScore: 1 30: Toni_Mona now has 30 points
+  5:51 CTF: 1 2 2: Toni_Mona returned the BLUE flag!
+  5:52 Item: 4 weapon_railgun
+  5:52 Kill: 1022 15 22: <world> killed Xkylkky by MOD_TRIGGER_HURT
+  5:52 PlayerScore: 15 7: Xkylkky now has 7 points
+  5:52 Item: 3 weapon_rocketlauncher
+  5:52 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  5:54 Kill: 3 16 22: Nigga Lamp killed dani by MOD_TRIGGER_HURT
+  5:54 PlayerScore: 3 7: Nigga Lamp now has 7 points
+  5:54 Challenge: 3 214 1: Client 3 got award 214
+  5:54 Challenge: 3 1 1: Client 3 got award 1
+  5:54 Challenge: 16 2 1: Client 16 got award 2
+  5:55 Item: 8 team_CTF_blueflag
+  5:55 CTF: 8 2 0: Matutao got the BLUE flag!
+  5:55 PlayerScore: 8 9: Matutao now has 9 points
+  5:55 Item: 10 weapon_plasmagun
+  5:56 Kill: 1022 2 19: <world> killed GANG RAP by MOD_FALLING
+  5:56 PlayerScore: 2 10: GANG RAP now has 10 points
+  5:56 Item: 10 item_health
+  5:56 Kill: 5 14 3: finnish Rocker killed Topias by MOD_MACHINEGUN
+  5:57 Item: 11 item_health
+  5:59 Item: 17 ammo_slugs
+  5:59 Item: 5 weapon_rocketlauncher
+  6:00 Item: 7 item_health
+  6:01 Item: 7 weapon_plasmagun
+  6:01 Item: 9 item_health
+  6:01 Kill: 11 6 3: Vladimir Ivan killed Kalamies by MOD_MACHINEGUN
+  6:01 PlayerScore: 11 8: Vladimir Ivan now has 8 points
+  6:01 Challenge: 11 202 1: Client 11 got award 202
+  6:01 Challenge: 11 1 1: Client 11 got award 1
+  6:01 Challenge: 6 2 1: Client 6 got award 2
+  6:02 Kill: 9 11 3: Jeesus killed Vladimir Ivan by MOD_MACHINEGUN
+  6:02 Kill: 1 8 19: Toni_Mona killed Matutao by MOD_FALLING
+  6:02 PlayerScore: 1 31: Toni_Mona now has 31 points
+  6:02 Challenge: 1 214 1: Client 1 got award 214
+  6:02 Challenge: 1 1 1: Client 1 got award 1
+  6:02 Challenge: 8 2 1: Client 8 got award 2
+  6:02 PlayerScore: 1 33: Toni_Mona now has 33 points
+  6:02 CTF: 1 1 3: Toni_Mona fragged RED's flag carrier!
+  6:03 Item: 5 item_armor_combat
+  6:03 Item: 3 team_CTF_redflag
+  6:03 CTF: 3 1 0: Nigga Lamp got the RED flag!
+  6:03 PlayerScore: 3 7: Nigga Lamp now has 7 points
+  6:04 Item: 4 team_CTF_blueflag
+  6:04 CTF: 4 2 0: siemenneste12 got the BLUE flag!
+  6:04 PlayerScore: 4 8: siemenneste12 now has 8 points
+  6:05 Kill: 2 13 3: GANG RAP killed Irwin Goodman by MOD_MACHINEGUN
+  6:05 PlayerScore: 2 11: GANG RAP now has 11 points
+  6:05 Challenge: 2 202 1: Client 2 got award 202
+  6:05 Challenge: 2 1 1: Client 2 got award 1
+  6:05 Challenge: 13 2 1: Client 13 got award 2
+  6:05 Kill: 12 4 3: f02 killed siemenneste12 by MOD_MACHINEGUN
+  6:05 Item: 5 ammo_slugs
+  6:06 Item: 2 weapon_rocketlauncher
+  6:06 Item: 16 weapon_rocketlauncher
+  6:06 Item: 1 weapon_rocketlauncher
+  6:06 Item: 11 ammo_cells
+  6:06 Item: 8 weapon_shotgun
+  6:07 Kill: 17 3 3: vilperi killed Nigga Lamp by MOD_MACHINEGUN
+  6:07 PlayerScore: 17 1: vilperi now has 1 points
+  6:07 Challenge: 17 202 1: Client 17 got award 202
+  6:07 Challenge: 17 1 1: Client 17 got award 1
+  6:07 Challenge: 3 2 1: Client 3 got award 2
+  6:07 PlayerScore: 17 3: vilperi now has 3 points
+  6:07 CTF: 17 2 3: vilperi fragged BLUE's flag carrier!
+  6:07 Kill: 6 9 3: Kalamies killed Jeesus by MOD_MACHINEGUN
+  6:07 PlayerScore: 6 17: Kalamies now has 17 points
+  6:07 Challenge: 6 202 1: Client 6 got award 202
+  6:07 Challenge: 6 1 1: Client 6 got award 1
+  6:07 Challenge: 9 2 1: Client 9 got award 2
+  6:07 PlayerScore: 6 18: Kalamies now has 18 points
+  6:07 Challenge: 6 305 1: Client 6 got award 305
+  6:07 Award: 6 3: Kalamies gained the DEFENCE award!
+  6:08 Item: 5 weapon_plasmagun
+  6:08 Item: 1 ammo_cells
+  6:10 Kill: 5 10 8: finnish Rocker killed Olavi by MOD_PLASMA
+  6:10 PlayerScore: 5 10: finnish Rocker now has 10 points
+  6:10 Challenge: 5 207 1: Client 5 got award 207
+  6:10 Challenge: 5 1 1: Client 5 got award 1
+  6:10 Challenge: 10 2 1: Client 10 got award 2
+  6:10 Item: 1 item_health
+  6:11 Item: 15 weapon_railgun
+  6:12 Kill: 1 7 7: Toni_Mona killed Progamer69 by MOD_ROCKET_SPLASH
+  6:12 PlayerScore: 1 34: Toni_Mona now has 34 points
+  6:12 Challenge: 1 205 1: Client 1 got award 205
+  6:12 Challenge: 1 1 1: Client 1 got award 1
+  6:12 Challenge: 7 2 1: Client 7 got award 2
+  6:12 Item: 14 weapon_rocketlauncher
+  6:12 Item: 5 team_CTF_blueflag
+  6:12 CTF: 5 2 0: finnish Rocker got the BLUE flag!
+  6:12 PlayerScore: 5 10: finnish Rocker now has 10 points
+  6:12 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+  6:12 PlayerScore: 8 8: Matutao now has 8 points
+  6:13 Kill: 6 5 3: Kalamies killed finnish Rocker by MOD_MACHINEGUN
+  6:13 PlayerScore: 6 19: Kalamies now has 19 points
+  6:13 Challenge: 6 202 1: Client 6 got award 202
+  6:13 Challenge: 6 1 1: Client 6 got award 1
+  6:13 Challenge: 5 2 1: Client 5 got award 2
+  6:13 PlayerScore: 6 21: Kalamies now has 21 points
+  6:13 CTF: 6 1 3: Kalamies fragged RED's flag carrier!
+  6:14 Item: 17 weapon_plasmagun
+  6:14 Item: 3 weapon_plasmagun
+  6:15 Item: 3 team_CTF_blueflag
+  6:15 PlayerScore: 3 8: Nigga Lamp now has 8 points
+  6:15 CTF: 3 2 2: Nigga Lamp returned the BLUE flag!
+  6:15 Kill: 1022 12 19: <world> killed f02 by MOD_FALLING
+  6:15 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+  6:15 PlayerScore: 1 33: Toni_Mona now has 33 points
+  6:16 Item: 10 weapon_railgun
+  6:17 Kill: 1022 16 22: <world> killed dani by MOD_TRIGGER_HURT
+  6:17 PlayerScore: 16 0: dani now has 0 points
+  6:18 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  6:18 Kill: 1022 15 22: <world> killed Xkylkky by MOD_TRIGGER_HURT
+  6:18 PlayerScore: 15 6: Xkylkky now has 6 points
+  6:18 Item: 2 team_CTF_redflag
+  6:18 CTF: 2 1 0: GANG RAP got the RED flag!
+  6:18 PlayerScore: 2 11: GANG RAP now has 11 points
+  6:19 Item: 10 ammo_cells
+  6:20 Item: 3 weapon_rocketlauncher
+  6:20 Item: 3 ammo_rockets
+  6:20 Kill: 10 6 10: Olavi killed Kalamies by MOD_RAILGUN
+  6:22 Item: 5 weapon_rocketlauncher
+  6:22 Kill: 2 8 7: GANG RAP killed Matutao by MOD_ROCKET_SPLASH
+  6:22 PlayerScore: 2 12: GANG RAP now has 12 points
+  6:22 Challenge: 2 205 1: Client 2 got award 205
+  6:22 Challenge: 2 1 1: Client 2 got award 1
+  6:22 Challenge: 8 2 1: Client 8 got award 2
+  6:22 Kill: 1022 7 22: <world> killed Progamer69 by MOD_TRIGGER_HURT
+  6:22 PlayerScore: 7 1: Progamer69 now has 1 points
+  6:24 Kill: 9 2 3: Jeesus killed GANG RAP by MOD_MACHINEGUN
+  6:24 PlayerScore: 9 3: Jeesus now has 3 points
+  6:24 Challenge: 9 202 1: Client 9 got award 202
+  6:24 Challenge: 9 1 1: Client 9 got award 1
+  6:24 Challenge: 2 2 1: Client 2 got award 2
+  6:24 PlayerScore: 9 5: Jeesus now has 5 points
+  6:24 CTF: 9 2 3: Jeesus fragged BLUE's flag carrier!
+  6:26 Kill: 17 4 18: vilperi killed siemenneste12 by MOD_TELEFRAG
+  6:26 Kill: 1022 14 22: <world> killed Topias by MOD_TRIGGER_HURT
+  6:26 PlayerScore: 14 5: Topias now has 5 points
+  6:26 Item: 9 team_CTF_redflag
+  6:26 PlayerScore: 9 6: Jeesus now has 6 points
+  6:26 CTF: 9 1 2: Jeesus returned the RED flag!
+  6:27 Item: 17 weapon_rocketlauncher
+  6:28 Item: 7 weapon_rocketlauncher
+  6:29 Item: 10 item_armor_combat
+  6:29 Item: 9 item_health_mega
+  6:30 Item: 15 ammo_shells
+  6:30 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+  6:30 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  6:30 PlayerScore: 17 2: vilperi now has 2 points
+  6:30 Item: 9 ammo_shells
+  6:32 Kill: 1022 7 22: <world> killed Progamer69 by MOD_TRIGGER_HURT
+  6:32 PlayerScore: 7 0: Progamer69 now has 0 points
+  6:33 Item: 4 ammo_rockets
+  6:33 Kill: 1022 16 22: <world> killed dani by MOD_TRIGGER_HURT
+  6:34 Item: 6 item_health
+  6:35 Item: 3 weapon_rocketlauncher
+  6:35 Item: 6 weapon_plasmagun
+  6:35 Item: 2 weapon_shotgun
+  6:37 Kill: 5 10 6: finnish Rocker killed Olavi by MOD_ROCKET
+  6:37 PlayerScore: 5 11: finnish Rocker now has 11 points
+  6:37 Challenge: 5 205 1: Client 5 got award 205
+  6:37 Challenge: 5 1 1: Client 5 got award 1
+  6:37 Challenge: 10 2 1: Client 10 got award 2
+  6:37 Item: 4 weapon_rocketlauncher
+  6:37 Item: 6 weapon_railgun
+  6:38 Kill: 5 6 6: finnish Rocker killed Kalamies by MOD_ROCKET
+  6:38 PlayerScore: 5 12: finnish Rocker now has 12 points
+  6:38 Challenge: 5 205 1: Client 5 got award 205
+  6:38 Challenge: 5 1 1: Client 5 got award 1
+  6:38 Challenge: 6 2 1: Client 6 got award 2
+  6:38 Award: 5 1: finnish Rocker gained the EXCELLENT award!
+  6:38 Challenge: 5 302 1: Client 5 got award 302
+  6:38 Kill: 1022 16 22: <world> killed dani by MOD_TRIGGER_HURT
+  6:38 Item: 9 team_CTF_blueflag
+  6:38 CTF: 9 2 0: Jeesus got the BLUE flag!
+  6:38 PlayerScore: 9 6: Jeesus now has 6 points
+  6:39 Kill: 4 12 3: siemenneste12 killed f02 by MOD_MACHINEGUN
+  6:40 Item: 8 weapon_railgun
+  6:40 Item: 11 item_health
+  6:41 Kill: 10 5 3: Olavi killed finnish Rocker by MOD_MACHINEGUN
+  6:41 PlayerScore: 10 15: Olavi now has 15 points
+  6:41 Challenge: 10 202 1: Client 10 got award 202
+  6:41 Challenge: 10 1 1: Client 10 got award 1
+  6:41 Challenge: 5 2 1: Client 5 got award 2
+  6:41 PlayerScore: 10 16: Olavi now has 16 points
+  6:41 Challenge: 10 305 1: Client 10 got award 305
+  6:41 Award: 10 3: Olavi gained the DEFENCE award!
+  6:41 Item: 10 weapon_rocketlauncher
+  6:42 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  6:42 PlayerScore: 17 1: vilperi now has 1 points
+  6:45 Kill: 15 11 22: Xkylkky killed Vladimir Ivan by MOD_TRIGGER_HURT
+  6:45 PlayerScore: 15 7: Xkylkky now has 7 points
+  6:45 Challenge: 15 214 1: Client 15 got award 214
+  6:45 Challenge: 15 1 1: Client 15 got award 1
+  6:45 Challenge: 11 2 1: Client 11 got award 2
+  6:45 PlayerScore: 15 8: Xkylkky now has 8 points
+  6:45 Challenge: 15 305 1: Client 15 got award 305
+  6:45 Award: 15 3: Xkylkky gained the DEFENCE award!
+  6:45 Item: 10 weapon_railgun
+  6:45 Kill: 3 2 6: Nigga Lamp killed GANG RAP by MOD_ROCKET
+  6:46 Item: 7 weapon_railgun
+  6:47 Item: 14 weapon_rocketlauncher
+  6:48 Kill: 10 1 10: Olavi killed Toni_Mona by MOD_RAILGUN
+  6:49 Kill: 4 9 7: siemenneste12 killed Jeesus by MOD_ROCKET_SPLASH
+  6:50 Kill: 4 17 7: siemenneste12 killed vilperi by MOD_ROCKET_SPLASH
+  6:50 Kill: 10 15 10: Olavi killed Xkylkky by MOD_RAILGUN
+  6:51 Item: 3 weapon_railgun
+  6:51 Kill: 4 5 7: siemenneste12 killed finnish Rocker by MOD_ROCKET_SPLASH
+  6:51 Item: 7 ammo_slugs
+  6:51 Item: 16 team_CTF_blueflag
+  6:51 CTF: 16 2 0: dani got the BLUE flag!
+  6:51 PlayerScore: 16 0: dani now has 0 points
+  6:53 Kill: 10 7 10: Olavi killed Progamer69 by MOD_RAILGUN
+  6:53 PlayerScore: 10 17: Olavi now has 17 points
+  6:53 Challenge: 10 208 1: Client 10 got award 208
+  6:53 Challenge: 10 1 1: Client 10 got award 1
+  6:53 Challenge: 7 2 1: Client 7 got award 2
+  6:53 PlayerScore: 10 18: Olavi now has 18 points
+  6:53 Challenge: 10 305 1: Client 10 got award 305
+  6:53 Award: 10 3: Olavi gained the DEFENCE award!
+  6:54 Kill: 11 6 3: Vladimir Ivan killed Kalamies by MOD_MACHINEGUN
+  6:54 PlayerScore: 11 9: Vladimir Ivan now has 9 points
+  6:54 Challenge: 11 202 1: Client 11 got award 202
+  6:54 Challenge: 11 1 1: Client 11 got award 1
+  6:54 Challenge: 6 2 1: Client 6 got award 2
+  6:54 PlayerScore: 11 11: Vladimir Ivan now has 11 points
+  6:54 Award: 11 3: Vladimir Ivan gained the DEFENCE award!
+  6:54 Challenge: 11 305 1: Client 11 got award 305
+  6:54 Kill: 14 3 7: Topias killed Nigga Lamp by MOD_ROCKET_SPLASH
+  6:54 PlayerScore: 14 6: Topias now has 6 points
+  6:54 Challenge: 14 205 1: Client 14 got award 205
+  6:54 Challenge: 14 1 1: Client 14 got award 1
+  6:54 Challenge: 3 2 1: Client 3 got award 2
+  6:54 Item: 10 weapon_railgun
+  6:56 Kill: 11 8 3: Vladimir Ivan killed Matutao by MOD_MACHINEGUN
+  6:56 Item: 11 weapon_railgun
+  6:57 Item: 14 weapon_railgun
+  6:58 Item: 10 item_armor_combat
+  6:59 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  6:59 Item: 2 weapon_shotgun
+  7:01 Item: 1 item_health
+  7:01 Item: 16 team_CTF_redflag
+  7:01 CTF: 16 2 1: dani captured the BLUE flag!
+  7:01 Award: 16 4: dani gained the CAPTURE award!
+  7:01 Challenge: 16 303 1: Client 16 got award 303
+  7:01 PlayerScore: 16 5: dani now has 5 points
+  7:01 PlayerScore: 4 8: siemenneste12 now has 8 points
+  7:01 PlayerScore: 5 12: finnish Rocker now has 12 points
+  7:01 PlayerScore: 7 0: Progamer69 now has 0 points
+  7:01 PlayerScore: 8 8: Matutao now has 8 points
+  7:01 PlayerScore: 9 6: Jeesus now has 6 points
+  7:01 PlayerScore: 11 11: Vladimir Ivan now has 11 points
+  7:01 PlayerScore: 12 0: f02 now has 0 points
+  7:01 PlayerScore: 13 0: Irwin Goodman now has 0 points
+  7:01 PlayerScore: 14 6: Topias now has 6 points
+  7:01 PlayerScore: 17 1: vilperi now has 1 points
+  7:03 Item: 8 weapon_rocketlauncher
+  7:04 Item: 2 team_CTF_redflag
+  7:04 CTF: 2 1 0: GANG RAP got the RED flag!
+  7:04 PlayerScore: 2 12: GANG RAP now has 12 points
+  7:04 Item: 3 weapon_rocketlauncher
+  7:04 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  7:04 Item: 12 item_health_mega
+  7:05 Kill: 2 16 1: GANG RAP killed dani by MOD_SHOTGUN
+  7:05 PlayerScore: 2 13: GANG RAP now has 13 points
+  7:05 Challenge: 2 203 1: Client 2 got award 203
+  7:05 Challenge: 2 1 1: Client 2 got award 1
+  7:05 Challenge: 16 2 1: Client 16 got award 2
+  7:05 Item: 3 ammo_rockets
+  7:06 Kill: 10 15 10: Olavi killed Xkylkky by MOD_RAILGUN
+  7:07 Item: 12 ammo_shells
+  7:08 Item: 10 ammo_cells
+  7:09 Item: 13 ammo_cells
+  7:10 Kill: 9 2 3: Jeesus killed GANG RAP by MOD_MACHINEGUN
+  7:10 PlayerScore: 9 7: Jeesus now has 7 points
+  7:10 Challenge: 9 202 1: Client 9 got award 202
+  7:10 Challenge: 9 1 1: Client 9 got award 1
+  7:10 Challenge: 2 2 1: Client 2 got award 2
+  7:10 PlayerScore: 9 9: Jeesus now has 9 points
+  7:10 CTF: 9 2 3: Jeesus fragged BLUE's flag carrier!
+  7:10 Item: 11 item_health
+  7:11 Item: 9 weapon_shotgun
+  7:11 Item: 9 team_CTF_redflag
+  7:11 PlayerScore: 9 10: Jeesus now has 10 points
+  7:11 CTF: 9 1 2: Jeesus returned the RED flag!
+  7:11 Item: 7 weapon_rocketlauncher
+  7:11 Kill: 3 6 6: Nigga Lamp killed Kalamies by MOD_ROCKET
+  7:13 Kill: 5 10 3: finnish Rocker killed Olavi by MOD_MACHINEGUN
+  7:13 PlayerScore: 5 13: finnish Rocker now has 13 points
+  7:13 Challenge: 5 202 1: Client 5 got award 202
+  7:13 Challenge: 5 1 1: Client 5 got award 1
+  7:13 Challenge: 10 2 1: Client 10 got award 2
+  7:15 Item: 13 ammo_rockets
+  7:15 Item: 5 weapon_railgun
+  7:15 Kill: 4 12 3: siemenneste12 killed f02 by MOD_MACHINEGUN
+  7:16 Kill: 2 11 3: GANG RAP killed Vladimir Ivan by MOD_MACHINEGUN
+  7:16 PlayerScore: 2 14: GANG RAP now has 14 points
+  7:16 Challenge: 2 202 1: Client 2 got award 202
+  7:16 Challenge: 2 1 1: Client 2 got award 1
+  7:16 Challenge: 11 2 1: Client 11 got award 2
+  7:16 PlayerScore: 2 15: GANG RAP now has 15 points
+  7:16 Challenge: 2 305 1: Client 2 got award 305
+  7:16 Award: 2 3: GANG RAP gained the DEFENCE award!
+  7:16 Item: 16 weapon_rocketlauncher
+  7:17 Item: 2 weapon_plasmagun
+  7:17 Kill: 10 5 3: Olavi killed finnish Rocker by MOD_MACHINEGUN
+  7:17 PlayerScore: 10 19: Olavi now has 19 points
+  7:17 Challenge: 10 202 1: Client 10 got award 202
+  7:17 Challenge: 10 1 1: Client 10 got award 1
+  7:17 Challenge: 5 2 1: Client 5 got award 2
+  7:17 PlayerScore: 10 20: Olavi now has 20 points
+  7:17 Challenge: 10 305 1: Client 10 got award 305
+  7:17 Award: 10 3: Olavi gained the DEFENCE award!
+  7:18 Kill: 8 6 7: Matutao killed Kalamies by MOD_ROCKET_SPLASH
+  7:18 PlayerScore: 8 9: Matutao now has 9 points
+  7:18 Challenge: 8 205 1: Client 8 got award 205
+  7:18 Challenge: 8 1 1: Client 8 got award 1
+  7:18 Challenge: 6 2 1: Client 6 got award 2
+  7:19 Item: 8 team_CTF_blueflag
+  7:19 CTF: 8 2 0: Matutao got the BLUE flag!
+  7:19 PlayerScore: 8 9: Matutao now has 9 points
+  7:19 Item: 10 weapon_railgun
+  7:22 Kill: 7 1 7: Progamer69 killed Toni_Mona by MOD_ROCKET_SPLASH
+  7:22 PlayerScore: 7 1: Progamer69 now has 1 points
+  7:22 Challenge: 7 205 1: Client 7 got award 205
+  7:22 Challenge: 7 1 1: Client 7 got award 1
+  7:22 Challenge: 1 2 1: Client 1 got award 2
+  7:22 PlayerScore: 7 2: Progamer69 now has 2 points
+  7:22 Challenge: 7 305 1: Client 7 got award 305
+  7:22 Award: 7 3: Progamer69 gained the DEFENCE award!
+  7:23 Item: 4 weapon_rocketlauncher
+  7:24 Kill: 1022 9 19: <world> killed Jeesus by MOD_FALLING
+  7:24 PlayerScore: 9 9: Jeesus now has 9 points
+  7:25 Kill: 10 17 10: Olavi killed vilperi by MOD_RAILGUN
+  7:25 PlayerScore: 10 21: Olavi now has 21 points
+  7:25 Challenge: 10 208 1: Client 10 got award 208
+  7:25 Challenge: 10 1 1: Client 10 got award 1
+  7:25 Challenge: 17 2 1: Client 17 got award 2
+  7:25 PlayerScore: 10 22: Olavi now has 22 points
+  7:25 Challenge: 10 305 1: Client 10 got award 305
+  7:25 Award: 10 3: Olavi gained the DEFENCE award!
+  7:25 Kill: 16 15 7: dani killed Xkylkky by MOD_ROCKET_SPLASH
+  7:25 PlayerScore: 16 6: dani now has 6 points
+  7:25 Challenge: 16 205 1: Client 16 got award 205
+  7:25 Challenge: 16 1 1: Client 16 got award 1
+  7:25 Challenge: 15 2 1: Client 15 got award 2
+  7:25 PlayerScore: 16 8: dani now has 8 points
+  7:25 Award: 16 3: dani gained the DEFENCE award!
+  7:25 Challenge: 16 305 1: Client 16 got award 305
+  7:26 Item: 5 weapon_rocketlauncher
+  7:26 Item: 1 weapon_plasmagun
+  7:27 Kill: 2 8 19: GANG RAP killed Matutao by MOD_FALLING
+  7:27 PlayerScore: 2 16: GANG RAP now has 16 points
+  7:27 Challenge: 2 214 1: Client 2 got award 214
+  7:27 Challenge: 2 1 1: Client 2 got award 1
+  7:27 Challenge: 8 2 1: Client 8 got award 2
+  7:27 PlayerScore: 2 18: GANG RAP now has 18 points
+  7:27 CTF: 2 1 3: GANG RAP fragged RED's flag carrier!
+  7:27 Kill: 4 3 7: siemenneste12 killed Nigga Lamp by MOD_ROCKET_SPLASH
+  7:27 PlayerScore: 4 9: siemenneste12 now has 9 points
+  7:27 Challenge: 4 205 1: Client 4 got award 205
+  7:27 Challenge: 4 1 1: Client 4 got award 1
+  7:27 Challenge: 3 2 1: Client 3 got award 2
+  7:28 Item: 4 weapon_rocketlauncher
+  7:28 Item: 12 weapon_shotgun
+  7:29 Item: 2 team_CTF_blueflag
+  7:29 PlayerScore: 2 19: GANG RAP now has 19 points
+  7:29 CTF: 2 2 2: GANG RAP returned the BLUE flag!
+  7:29 Item: 2 weapon_rocketlauncher
+  7:29 Kill: 1022 5 22: <world> killed finnish Rocker by MOD_TRIGGER_HURT
+  7:29 PlayerScore: 5 12: finnish Rocker now has 12 points
+  7:29 Item: 7 ammo_shells
+  7:30 Kill: 1 7 8: Toni_Mona killed Progamer69 by MOD_PLASMA
+  7:30 PlayerScore: 1 34: Toni_Mona now has 34 points
+  7:30 Challenge: 1 207 1: Client 1 got award 207
+  7:30 Challenge: 1 1 1: Client 1 got award 1
+  7:30 Challenge: 7 2 1: Client 7 got award 2
+  7:30 PlayerScore: 1 35: Toni_Mona now has 35 points
+  7:30 Challenge: 1 305 1: Client 1 got award 305
+  7:30 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  7:31 Kill: 10 1 10: Olavi killed Toni_Mona by MOD_RAILGUN
+  7:32 Item: 3 weapon_rocketlauncher
+  7:32 Item: 10 weapon_plasmagun
+  7:33 Kill: 4 4 7: siemenneste12 killed siemenneste12 by MOD_ROCKET_SPLASH
+  7:34 Item: 2 weapon_railgun
+  7:35 Item: 3 weapon_rocketlauncher
+  7:35 Kill: 8 13 3: Matutao killed Irwin Goodman by MOD_MACHINEGUN
+  7:37 Item: 5 weapon_rocketlauncher
+  7:37 Kill: 12 2 19: f02 killed GANG RAP by MOD_FALLING
+  7:37 PlayerScore: 12 1: f02 now has 1 points
+  7:37 Challenge: 12 214 1: Client 12 got award 214
+  7:37 Challenge: 12 1 1: Client 12 got award 1
+  7:37 Challenge: 2 2 1: Client 2 got award 2
+  7:37 PlayerScore: 12 2: f02 now has 2 points
+  7:37 Challenge: 12 305 1: Client 12 got award 305
+  7:37 Award: 12 3: f02 gained the DEFENCE award!
+  7:38 Item: 12 weapon_railgun
+  7:39 Item: 16 team_CTF_blueflag
+  7:39 CTF: 16 2 0: dani got the BLUE flag!
+  7:39 PlayerScore: 16 8: dani now has 8 points
+  7:39 Kill: 1022 15 22: <world> killed Xkylkky by MOD_TRIGGER_HURT
+  7:39 PlayerScore: 15 7: Xkylkky now has 7 points
+  7:40 Item: 14 item_health_mega
+  7:41 ClientDisconnect: 18
+  7:42 Kill: 1022 7 19: <world> killed Progamer69 by MOD_FALLING
+  7:42 PlayerScore: 7 1: Progamer69 now has 1 points
+  7:42 Kill: 11 10 3: Vladimir Ivan killed Olavi by MOD_MACHINEGUN
+  7:42 PlayerScore: 11 12: Vladimir Ivan now has 12 points
+  7:42 Challenge: 11 202 1: Client 11 got award 202
+  7:42 Challenge: 11 1 1: Client 11 got award 1
+  7:42 Challenge: 10 2 1: Client 10 got award 2
+  7:43 Item: 11 weapon_railgun
+  7:44 Item: 16 weapon_rocketlauncher
+  7:45 Item: 14 weapon_railgun
+  7:45 ClientUserinfoChanged: 18 n\tiikeri\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\54CABE290A159BE25269270BB1D5AAAA
+  7:45 ClientConnect: 18
+  7:46 Item: 8 weapon_rocketlauncher
+  7:46 say: siemenneste12: yes
+  7:46 Item: 6 ammo_rockets
+  7:47 Kill: 15 11 3: Xkylkky killed Vladimir Ivan by MOD_MACHINEGUN
+  7:47 PlayerScore: 15 8: Xkylkky now has 8 points
+  7:47 Challenge: 15 202 1: Client 15 got award 202
+  7:47 Challenge: 15 1 1: Client 15 got award 1
+  7:47 Challenge: 11 2 1: Client 11 got award 2
+  7:47 PlayerScore: 15 9: Xkylkky now has 9 points
+  7:47 Challenge: 15 305 1: Client 15 got award 305
+  7:47 Award: 15 3: Xkylkky gained the DEFENCE award!
+  7:47 Item: 15 weapon_plasmagun
+  7:47 ClientUserinfoChanged: 18 n\tiikeri\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0\id\54CABE290A159BE25269270BB1D5AAAA
+  7:47 ClientBegin: 18
+  7:48 Item: 7 weapon_rocketlauncher
+  7:49 Item: 15 weapon_railgun
+  7:49 Item: 15 ammo_slugs
+  7:49 Kill: 15 1 10: Xkylkky killed Toni_Mona by MOD_RAILGUN
+  7:49 Kill: 6 12 3: Kalamies killed f02 by MOD_MACHINEGUN
+  7:49 PlayerScore: 6 22: Kalamies now has 22 points
+  7:49 Challenge: 6 202 1: Client 6 got award 202
+  7:49 Challenge: 6 1 1: Client 6 got award 1
+  7:49 Challenge: 12 2 1: Client 12 got award 2
+  7:50 Item: 6 weapon_railgun
+  7:50 Item: 2 weapon_rocketlauncher
+  7:52 Kill: 8 15 7: Matutao killed Xkylkky by MOD_ROCKET_SPLASH
+  7:52 PlayerScore: 8 10: Matutao now has 10 points
+  7:52 Challenge: 8 205 1: Client 8 got award 205
+  7:52 Challenge: 8 1 1: Client 8 got award 1
+  7:52 Challenge: 15 2 1: Client 15 got award 2
+  7:54 Item: 10 weapon_railgun
+  7:55 Item: 10 item_armor_combat
+  7:55 Kill: 5 9 6: finnish Rocker killed Jeesus by MOD_ROCKET
+  7:56 Item: 5 item_health
+  7:56 Kill: 10 5 10: Olavi killed finnish Rocker by MOD_RAILGUN
+  7:56 PlayerScore: 10 23: Olavi now has 23 points
+  7:56 Challenge: 10 208 1: Client 10 got award 208
+  7:56 Challenge: 10 1 1: Client 10 got award 1
+  7:56 Challenge: 5 2 1: Client 5 got award 2
+  7:56 PlayerScore: 10 24: Olavi now has 24 points
+  7:56 Challenge: 10 305 1: Client 10 got award 305
+  7:56 Award: 10 3: Olavi gained the DEFENCE award!
+  7:58 Item: 15 weapon_rocketlauncher
+  7:58 Item: 1 item_health
+  7:58 Item: 16 team_CTF_redflag
+  7:58 CTF: 16 2 1: dani captured the BLUE flag!
+  7:58 Award: 16 4: dani gained the CAPTURE award!
+  7:58 Challenge: 16 303 1: Client 16 got award 303
+  7:58 PlayerScore: 16 13: dani now has 13 points
+  7:58 PlayerScore: 4 9: siemenneste12 now has 9 points
+  7:58 PlayerScore: 5 12: finnish Rocker now has 12 points
+  7:58 PlayerScore: 7 1: Progamer69 now has 1 points
+  7:58 PlayerScore: 8 10: Matutao now has 10 points
+  7:58 PlayerScore: 9 9: Jeesus now has 9 points
+  7:58 PlayerScore: 11 12: Vladimir Ivan now has 12 points
+  7:58 PlayerScore: 12 2: f02 now has 2 points
+  7:58 PlayerScore: 13 0: Irwin Goodman now has 0 points
+  7:58 PlayerScore: 14 6: Topias now has 6 points
+  7:58 PlayerScore: 17 1: vilperi now has 1 points
+  8:00 Kill: 6 4 10: Kalamies killed siemenneste12 by MOD_RAILGUN
+  8:00 PlayerScore: 6 23: Kalamies now has 23 points
+  8:00 Challenge: 6 208 1: Client 6 got award 208
+  8:00 Challenge: 6 1 1: Client 6 got award 1
+  8:00 Challenge: 4 2 1: Client 4 got award 2
+  8:02 say: finnish Rocker: RTQ
+  8:02 Item: 10 ammo_cells
+  8:02 Item: 3 item_health
+  8:02 Item: 7 item_health
+  8:02 Kill: 8 15 3: Matutao killed Xkylkky by MOD_MACHINEGUN
+  8:02 PlayerScore: 8 11: Matutao now has 11 points
+  8:02 Challenge: 8 202 1: Client 8 got award 202
+  8:02 Challenge: 8 1 1: Client 8 got award 1
+  8:02 Challenge: 15 2 1: Client 15 got award 2
+  8:02 Item: 16 ammo_cells
+  8:02 Item: 1 weapon_plasmagun
+  8:03 Item: 1 item_health
+  8:04 Item: 8 weapon_rocketlauncher
+  8:04 Kill: 10 1 10: Olavi killed Toni_Mona by MOD_RAILGUN
+  8:04 Kill: 1 8 8: Toni_Mona killed Matutao by MOD_PLASMA
+  8:04 PlayerScore: 1 36: Toni_Mona now has 36 points
+  8:04 Challenge: 1 207 1: Client 1 got award 207
+  8:04 Challenge: 1 1 1: Client 1 got award 1
+  8:04 Challenge: 8 2 1: Client 8 got award 2
+  8:04 PlayerScore: 1 37: Toni_Mona now has 37 points
+  8:04 Challenge: 1 305 1: Client 1 got award 305
+  8:04 Award: 1 3: Toni_Mona gained the DEFENCE award!
+  8:05 Item: 12 ammo_shells
+  8:06 Item: 10 weapon_plasmagun
+  8:06 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  8:06 PlayerScore: 17 0: vilperi now has 0 points
+  8:06 Item: 2 team_CTF_redflag
+  8:06 CTF: 2 1 0: GANG RAP got the RED flag!
+  8:06 PlayerScore: 2 19: GANG RAP now has 19 points
+  8:07 Item: 5 weapon_rocketlauncher
+  8:07 Kill: 7 10 6: Progamer69 killed Olavi by MOD_ROCKET
+  8:07 PlayerScore: 7 2: Progamer69 now has 2 points
+  8:07 Challenge: 7 205 1: Client 7 got award 205
+  8:07 Challenge: 7 1 1: Client 7 got award 1
+  8:07 Challenge: 10 2 1: Client 10 got award 2
+  8:07 Kill: 4 3 3: siemenneste12 killed Nigga Lamp by MOD_MACHINEGUN
+  8:07 PlayerScore: 4 10: siemenneste12 now has 10 points
+  8:07 Challenge: 4 202 1: Client 4 got award 202
+  8:07 Challenge: 4 1 1: Client 4 got award 1
+  8:07 Challenge: 3 2 1: Client 3 got award 2
+  8:07 PlayerScore: 4 11: siemenneste12 now has 11 points
+  8:07 Challenge: 4 305 1: Client 4 got award 305
+  8:07 Award: 4 3: siemenneste12 gained the DEFENCE award!
+  8:08 Item: 9 weapon_rocketlauncher
+  8:08 Item: 12 ammo_cells
+  8:08 Kill: 4 9 3: siemenneste12 killed Jeesus by MOD_MACHINEGUN
+  8:09 Kill: 13 1 3: Irwin Goodman killed Toni_Mona by MOD_MACHINEGUN
+  8:09 PlayerScore: 13 1: Irwin Goodman now has 1 points
+  8:09 Challenge: 13 202 1: Client 13 got award 202
+  8:09 Challenge: 13 1 1: Client 13 got award 1
+  8:09 Challenge: 1 2 1: Client 1 got award 2
+  8:09 Item: 14 weapon_railgun
+  8:09 Item: 11 weapon_rocketlauncher
+  8:09 Kill: 11 2 22: Vladimir Ivan killed GANG RAP by MOD_TRIGGER_HURT
+  8:09 PlayerScore: 11 13: Vladimir Ivan now has 13 points
+  8:09 Challenge: 11 214 1: Client 11 got award 214
+  8:09 Challenge: 11 1 1: Client 11 got award 1
+  8:09 Challenge: 2 2 1: Client 2 got award 2
+  8:09 PlayerScore: 11 15: Vladimir Ivan now has 15 points
+  8:09 CTF: 11 2 3: Vladimir Ivan fragged BLUE's flag carrier!
+  8:11 Kill: 8 6 3: Matutao killed Kalamies by MOD_MACHINEGUN
+  8:11 PlayerScore: 8 12: Matutao now has 12 points
+  8:11 Challenge: 8 202 1: Client 8 got award 202
+  8:11 Challenge: 8 1 1: Client 8 got award 1
+  8:11 Challenge: 6 2 1: Client 6 got award 2
+  8:11 Item: 10 weapon_plasmagun
+  8:13 Item: 13 team_CTF_blueflag
+  8:13 CTF: 13 2 0: Irwin Goodman got the BLUE flag!
+  8:13 PlayerScore: 13 1: Irwin Goodman now has 1 points
+  8:13 Item: 14 weapon_plasmagun
+  8:13 Kill: 2 7 3: GANG RAP killed Progamer69 by MOD_MACHINEGUN
+  8:13 PlayerScore: 2 20: GANG RAP now has 20 points
+  8:13 Challenge: 2 202 1: Client 2 got award 202
+  8:13 Challenge: 2 1 1: Client 2 got award 1
+  8:13 Challenge: 7 2 1: Client 7 got award 2
+  8:13 PlayerScore: 2 21: GANG RAP now has 21 points
+  8:13 Challenge: 2 305 1: Client 2 got award 305
+  8:13 Award: 2 3: GANG RAP gained the DEFENCE award!
+  8:13 Item: 4 weapon_rocketlauncher
+  8:14 Item: 1 weapon_rocketlauncher
+  8:14 Kill: 1022 16 19: <world> killed dani by MOD_FALLING
+  8:14 PlayerScore: 16 12: dani now has 12 points
+  8:14 Item: 4 ammo_rockets
+  8:15 Kill: 10 14 8: Olavi killed Topias by MOD_PLASMA
+  8:15 PlayerScore: 10 25: Olavi now has 25 points
+  8:15 Challenge: 10 207 1: Client 10 got award 207
+  8:15 Challenge: 10 1 1: Client 10 got award 1
+  8:15 Challenge: 14 2 1: Client 14 got award 2
+  8:15 PlayerScore: 10 26: Olavi now has 26 points
+  8:15 Challenge: 10 305 1: Client 10 got award 305
+  8:15 Award: 10 3: Olavi gained the DEFENCE award!
+  8:15 Item: 15 weapon_plasmagun
+  8:16 Kill: 15 13 19: Xkylkky killed Irwin Goodman by MOD_FALLING
+  8:16 PlayerScore: 15 10: Xkylkky now has 10 points
+  8:16 Challenge: 15 214 1: Client 15 got award 214
+  8:16 Challenge: 15 1 1: Client 15 got award 1
+  8:16 Challenge: 13 2 1: Client 13 got award 2
+  8:16 PlayerScore: 15 12: Xkylkky now has 12 points
+  8:16 CTF: 15 1 3: Xkylkky fragged RED's flag carrier!
+  8:16 Kill: 10 15 8: Olavi killed Xkylkky by MOD_PLASMA
+  8:16 Kill: 6 8 19: Kalamies killed Matutao by MOD_FALLING
+  8:16 PlayerScore: 6 24: Kalamies now has 24 points
+  8:16 Challenge: 6 214 1: Client 6 got award 214
+  8:16 Challenge: 6 1 1: Client 6 got award 1
+  8:16 Challenge: 8 2 1: Client 8 got award 2
+  8:16 PlayerScore: 6 25: Kalamies now has 25 points
+  8:16 Challenge: 6 305 1: Client 6 got award 305
+  8:16 Award: 6 3: Kalamies gained the DEFENCE award!
+  8:17 Item: 7 ammo_shells
+  8:17 Item: 10 weapon_plasmagun
+  8:17 Item: 11 item_health_mega
+  8:17 Item: 5 weapon_shotgun
+  8:18 Item: 12 weapon_railgun
+  8:19 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  8:20 Kill: 1022 6 22: <world> killed Kalamies by MOD_TRIGGER_HURT
+  8:20 PlayerScore: 6 24: Kalamies now has 24 points
+  8:20 Kill: 1022 3 22: <world> killed Nigga Lamp by MOD_TRIGGER_HURT
+  8:20 PlayerScore: 3 7: Nigga Lamp now has 7 points
+  8:22 Item: 10 weapon_plasmagun
+  8:23 Kill: 10 5 8: Olavi killed finnish Rocker by MOD_PLASMA
+  8:23 PlayerScore: 10 27: Olavi now has 27 points
+  8:23 Challenge: 10 207 1: Client 10 got award 207
+  8:23 Challenge: 10 1 1: Client 10 got award 1
+  8:23 Challenge: 5 2 1: Client 5 got award 2
+  8:23 PlayerScore: 10 28: Olavi now has 28 points
+  8:23 Challenge: 10 305 1: Client 10 got award 305
+  8:23 Award: 10 3: Olavi gained the DEFENCE award!
+  8:25 Item: 10 item_armor_combat
+  8:25 Kill: 1022 7 19: <world> killed Progamer69 by MOD_FALLING
+  8:25 PlayerScore: 7 1: Progamer69 now has 1 points
+  8:25 Item: 14 weapon_rocketlauncher
+  8:26 Item: 8 weapon_rocketlauncher
+  8:27 Item: 15 ammo_shells
+  8:27 Kill: 11 10 6: Vladimir Ivan killed Olavi by MOD_ROCKET
+  8:27 PlayerScore: 11 16: Vladimir Ivan now has 16 points
+  8:27 Challenge: 11 205 1: Client 11 got award 205
+  8:27 Challenge: 11 1 1: Client 11 got award 1
+  8:27 Challenge: 10 2 1: Client 10 got award 2
+  8:27 Kill: 16 4 3: dani killed siemenneste12 by MOD_MACHINEGUN
+  8:27 Item: 1 weapon_railgun
+  8:27 Item: 15 weapon_plasmagun
+  8:28 Kill: 9 16 3: Jeesus killed dani by MOD_MACHINEGUN
+  8:28 Item: 2 weapon_railgun
+  8:29 Item: 11 weapon_shotgun
+  8:30 Item: 11 ammo_slugs
+  8:31 Item: 7 item_armor_combat
+  8:31 Item: 5 weapon_railgun
+  8:31 Kill: 10 15 3: Olavi killed Xkylkky by MOD_MACHINEGUN
+  8:31 Item: 9 weapon_rocketlauncher
+  8:32 Item: 1 weapon_railgun
+  8:32 Item: 10 weapon_plasmagun
+  8:32 Kill: 8 6 6: Matutao killed Kalamies by MOD_ROCKET
+  8:32 PlayerScore: 8 13: Matutao now has 13 points
+  8:32 Challenge: 8 205 1: Client 8 got award 205
+  8:32 Challenge: 8 1 1: Client 8 got award 1
+  8:32 Challenge: 6 2 1: Client 6 got award 2
+  8:33 Kill: 8 13 7: Matutao killed Irwin Goodman by MOD_ROCKET_SPLASH
+  8:34 Item: 7 ammo_slugs
+  8:36 Item: 4 weapon_rocketlauncher
+  8:36 Kill: 10 11 8: Olavi killed Vladimir Ivan by MOD_PLASMA
+  8:36 PlayerScore: 10 29: Olavi now has 29 points
+  8:36 Challenge: 10 207 1: Client 10 got award 207
+  8:36 Challenge: 10 1 1: Client 10 got award 1
+  8:36 Challenge: 11 2 1: Client 11 got award 2
+  8:36 PlayerScore: 10 30: Olavi now has 30 points
+  8:36 Challenge: 10 305 1: Client 10 got award 305
+  8:36 Award: 10 3: Olavi gained the DEFENCE award!
+  8:37 Item: 10 item_health
+  8:37 Item: 1 weapon_railgun
+  8:37 Kill: 3 14 3: Nigga Lamp killed Topias by MOD_MACHINEGUN
+  8:37 PlayerScore: 3 8: Nigga Lamp now has 8 points
+  8:37 Challenge: 3 202 1: Client 3 got award 202
+  8:37 Challenge: 3 1 1: Client 3 got award 1
+  8:37 Challenge: 14 2 1: Client 14 got award 2
+  8:37 PlayerScore: 3 9: Nigga Lamp now has 9 points
+  8:37 Challenge: 3 305 1: Client 3 got award 305
+  8:37 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+  8:39 Kill: 4 9 6: siemenneste12 killed Jeesus by MOD_ROCKET
+  8:39 Kill: 5 6 10: finnish Rocker killed Kalamies by MOD_RAILGUN
+  8:39 PlayerScore: 5 13: finnish Rocker now has 13 points
+  8:39 Challenge: 5 208 1: Client 5 got award 208
+  8:39 Challenge: 5 1 1: Client 5 got award 1
+  8:39 Challenge: 6 2 1: Client 6 got award 2
+  8:40 Item: 13 weapon_rocketlauncher
+  8:41 Item: 4 weapon_rocketlauncher
+  8:42 Kill: 10 8 19: Olavi killed Matutao by MOD_FALLING
+  8:42 PlayerScore: 10 31: Olavi now has 31 points
+  8:42 Challenge: 10 214 1: Client 10 got award 214
+  8:42 Challenge: 10 1 1: Client 10 got award 1
+  8:42 Challenge: 8 2 1: Client 8 got award 2
+  8:42 PlayerScore: 10 32: Olavi now has 32 points
+  8:42 Challenge: 10 305 1: Client 10 got award 305
+  8:42 Award: 10 3: Olavi gained the DEFENCE award!
+  8:42 Item: 11 weapon_rocketlauncher
+  8:42 Item: 1 weapon_railgun
+  8:42 Kill: 4 16 7: siemenneste12 killed dani by MOD_ROCKET_SPLASH
+  8:43 Item: 3 weapon_rocketlauncher
+  8:43 Item: 5 weapon_rocketlauncher
+  8:43 Kill: 13 13 7: Irwin Goodman killed Irwin Goodman by MOD_ROCKET_SPLASH
+  8:43 Item: 3 ammo_rockets
+  8:45 Kill: 1022 11 22: <world> killed Vladimir Ivan by MOD_TRIGGER_HURT
+  8:45 PlayerScore: 11 15: Vladimir Ivan now has 15 points
+  8:45 Item: 4 weapon_rocketlauncher
+  8:45 Item: 12 ammo_shells
+  8:47 Item: 5 ammo_cells
+  8:47 Item: 1 weapon_railgun
+  8:47 Item: 16 ammo_cells
+  8:47 Kill: 1022 6 22: <world> killed Kalamies by MOD_TRIGGER_HURT
+  8:47 PlayerScore: 6 23: Kalamies now has 23 points
+  8:47 Item: 10 item_health
+  8:48 Item: 10 weapon_plasmagun
+  8:48 Kill: 5 17 6: finnish Rocker killed vilperi by MOD_ROCKET
+  8:49 Kill: 5 10 6: finnish Rocker killed Olavi by MOD_ROCKET
+  8:49 PlayerScore: 5 14: finnish Rocker now has 14 points
+  8:49 Challenge: 5 205 1: Client 5 got award 205
+  8:49 Challenge: 5 1 1: Client 5 got award 1
+  8:49 Challenge: 10 2 1: Client 10 got award 2
+  8:49 Kill: 5 5 7: finnish Rocker killed finnish Rocker by MOD_ROCKET_SPLASH
+  8:49 Item: 9 weapon_rocketlauncher
+  8:50 Item: 15 weapon_plasmagun
+  8:50 Item: 15 weapon_rocketlauncher
+  8:51 Kill: 1022 14 22: <world> killed Topias by MOD_TRIGGER_HURT
+  8:51 PlayerScore: 14 5: Topias now has 5 points
+  8:52 Kill: 2 16 10: GANG RAP killed dani by MOD_RAILGUN
+  8:52 PlayerScore: 2 22: GANG RAP now has 22 points
+  8:52 Challenge: 2 208 1: Client 2 got award 208
+  8:52 Challenge: 2 1 1: Client 2 got award 1
+  8:52 Challenge: 16 2 1: Client 16 got award 2
+  8:52 Item: 1 weapon_railgun
+  8:52 Item: 12 weapon_railgun
+  8:52 Kill: 9 4 7: Jeesus killed siemenneste12 by MOD_ROCKET_SPLASH
+  8:53 Item: 8 item_health_mega
+  8:54 Item: 9 ammo_rockets
+  8:54 Kill: 10 15 3: Olavi killed Xkylkky by MOD_MACHINEGUN
+  8:54 Item: 5 weapon_rocketlauncher
+  8:55 Item: 5 weapon_rocketlauncher
+  8:55 Item: 10 weapon_rocketlauncher
+  8:56 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+  8:56 PlayerScore: 13 0: Irwin Goodman now has 0 points
+  8:56 Item: 10 weapon_plasmagun
+  8:57 Item: 7 team_CTF_blueflag
+  8:57 CTF: 7 2 0: Progamer69 got the BLUE flag!
+  8:57 PlayerScore: 7 1: Progamer69 now has 1 points
+  8:57 Item: 1 weapon_railgun
+  8:57 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  8:57 Kill: 1 5 19: Toni_Mona killed finnish Rocker by MOD_FALLING
+  8:57 PlayerScore: 1 38: Toni_Mona now has 38 points
+  8:57 Challenge: 1 214 1: Client 1 got award 214
+  8:57 Challenge: 1 1 1: Client 1 got award 1
+  8:57 Challenge: 5 2 1: Client 5 got award 2
+  8:58 Kill: 1022 9 22: <world> killed Jeesus by MOD_TRIGGER_HURT
+  8:58 PlayerScore: 9 8: Jeesus now has 8 points
+  8:59 Kill: 8 1 3: Matutao killed Toni_Mona by MOD_MACHINEGUN
+  8:59 PlayerScore: 8 14: Matutao now has 14 points
+  8:59 Challenge: 8 202 1: Client 8 got award 202
+  8:59 Challenge: 8 1 1: Client 8 got award 1
+  8:59 Challenge: 1 2 1: Client 1 got award 2
+  9:00 Item: 8 weapon_railgun
+  9:00 Kill: 6 7 3: Kalamies killed Progamer69 by MOD_MACHINEGUN
+  9:00 PlayerScore: 6 24: Kalamies now has 24 points
+  9:00 Challenge: 6 202 1: Client 6 got award 202
+  9:00 Challenge: 6 1 1: Client 6 got award 1
+  9:00 Challenge: 7 2 1: Client 7 got award 2
+  9:00 PlayerScore: 6 26: Kalamies now has 26 points
+  9:00 CTF: 6 1 3: Kalamies fragged RED's flag carrier!
+  9:00 Item: 15 weapon_rocketlauncher
+  9:02 Item: 6 team_CTF_blueflag
+  9:02 PlayerScore: 6 27: Kalamies now has 27 points
+  9:02 CTF: 6 2 2: Kalamies returned the BLUE flag!
+  9:02 Item: 12 weapon_shotgun
+  9:03 Kill: 2 5 10: GANG RAP killed finnish Rocker by MOD_RAILGUN
+  9:03 PlayerScore: 2 23: GANG RAP now has 23 points
+  9:03 Challenge: 2 208 1: Client 2 got award 208
+  9:03 Challenge: 2 1 1: Client 2 got award 1
+  9:03 Challenge: 5 2 1: Client 5 got award 2
+  9:03 Item: 14 weapon_rocketlauncher
+  9:04 Kill: 8 10 10: Matutao killed Olavi by MOD_RAILGUN
+  9:04 PlayerScore: 8 15: Matutao now has 15 points
+  9:04 Challenge: 8 208 1: Client 8 got award 208
+  9:04 Challenge: 8 1 1: Client 8 got award 1
+  9:04 Challenge: 10 2 1: Client 10 got award 2
+  9:05 Item: 16 weapon_rocketlauncher
+  9:06 Kill: 7 3 3: Progamer69 killed Nigga Lamp by MOD_MACHINEGUN
+  9:06 PlayerScore: 7 2: Progamer69 now has 2 points
+  9:06 Challenge: 7 202 1: Client 7 got award 202
+  9:06 Challenge: 7 1 1: Client 7 got award 1
+  9:06 Challenge: 3 2 1: Client 3 got award 2
+  9:06 PlayerScore: 7 3: Progamer69 now has 3 points
+  9:06 Challenge: 7 305 1: Client 7 got award 305
+  9:06 Award: 7 3: Progamer69 gained the DEFENCE award!
+  9:07 Item: 10 weapon_plasmagun
+  9:07 Kill: 15 9 6: Xkylkky killed Jeesus by MOD_ROCKET
+  9:07 PlayerScore: 15 13: Xkylkky now has 13 points
+  9:07 Challenge: 15 205 1: Client 15 got award 205
+  9:07 Challenge: 15 1 1: Client 15 got award 1
+  9:07 Challenge: 9 2 1: Client 9 got award 2
+  9:07 Kill: 15 13 7: Xkylkky killed Irwin Goodman by MOD_ROCKET_SPLASH
+  9:07 PlayerScore: 15 14: Xkylkky now has 14 points
+  9:07 Challenge: 15 205 1: Client 15 got award 205
+  9:07 Challenge: 15 1 1: Client 15 got award 1
+  9:07 Challenge: 13 2 1: Client 13 got award 2
+  9:07 Award: 15 1: Xkylkky gained the EXCELLENT award!
+  9:07 Challenge: 15 302 1: Client 15 got award 302
+  9:07 Item: 12 weapon_shotgun
+  9:08 Item: 1 weapon_plasmagun
+  9:09 Item: 2 weapon_railgun
+  9:10 Kill: 3 11 3: Nigga Lamp killed Vladimir Ivan by MOD_MACHINEGUN
+  9:10 PlayerScore: 3 10: Nigga Lamp now has 10 points
+  9:10 Challenge: 3 202 1: Client 3 got award 202
+  9:10 Challenge: 3 1 1: Client 3 got award 1
+  9:10 Challenge: 11 2 1: Client 11 got award 2
+  9:10 PlayerScore: 3 11: Nigga Lamp now has 11 points
+  9:10 Challenge: 3 305 1: Client 3 got award 305
+  9:10 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+  9:10 Item: 9 weapon_plasmagun
+  9:10 Kill: 14 6 7: Topias killed Kalamies by MOD_ROCKET_SPLASH
+  9:10 PlayerScore: 14 6: Topias now has 6 points
+  9:10 Challenge: 14 205 1: Client 14 got award 205
+  9:10 Challenge: 14 1 1: Client 14 got award 1
+  9:10 Challenge: 6 2 1: Client 6 got award 2
+  9:10 Item: 4 weapon_rocketlauncher
+  9:13 Item: 12 weapon_rocketlauncher
+  9:15 Kill: 8 15 10: Matutao killed Xkylkky by MOD_RAILGUN
+  9:15 PlayerScore: 8 16: Matutao now has 16 points
+  9:15 Challenge: 8 208 1: Client 8 got award 208
+  9:15 Challenge: 8 1 1: Client 8 got award 1
+  9:15 Challenge: 15 2 1: Client 15 got award 2
+  9:15 Item: 11 ammo_shells
+  9:15 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+  9:16 Item: 8 weapon_rocketlauncher
+  9:16 Item: 13 weapon_rocketlauncher
+  9:16 Kill: 1022 12 19: <world> killed f02 by MOD_FALLING
+  9:16 PlayerScore: 12 1: f02 now has 1 points
+  9:17 Item: 6 weapon_rocketlauncher
+  9:18 Item: 7 weapon_railgun
+  9:18 Item: 11 weapon_shotgun
+  9:18 Kill: 10 1 8: Olavi killed Toni_Mona by MOD_PLASMA
+  9:19 Kill: 3 14 3: Nigga Lamp killed Topias by MOD_MACHINEGUN
+  9:19 PlayerScore: 3 12: Nigga Lamp now has 12 points
+  9:19 Challenge: 3 202 1: Client 3 got award 202
+  9:19 Challenge: 3 1 1: Client 3 got award 1
+  9:19 Challenge: 14 2 1: Client 14 got award 2
+  9:19 PlayerScore: 3 13: Nigga Lamp now has 13 points
+  9:19 Challenge: 3 305 1: Client 3 got award 305
+  9:19 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+  9:19 Item: 16 team_CTF_blueflag
+  9:19 CTF: 16 2 0: dani got the BLUE flag!
+  9:19 PlayerScore: 16 12: dani now has 12 points
+  9:20 Item: 1 ammo_slugs
+  9:20 Kill: 15 16 3: Xkylkky killed dani by MOD_MACHINEGUN
+  9:20 PlayerScore: 15 15: Xkylkky now has 15 points
+  9:20 Challenge: 15 202 1: Client 15 got award 202
+  9:20 Challenge: 15 1 1: Client 15 got award 1
+  9:20 Challenge: 16 2 1: Client 16 got award 2
+  9:20 PlayerScore: 15 17: Xkylkky now has 17 points
+  9:20 CTF: 15 1 3: Xkylkky fragged RED's flag carrier!
+  9:20 Item: 6 ammo_cells
+  9:21 Kill: 9 5 8: Jeesus killed finnish Rocker by MOD_PLASMA
+  9:22 Item: 15 team_CTF_blueflag
+  9:22 PlayerScore: 15 18: Xkylkky now has 18 points
+  9:22 CTF: 15 2 2: Xkylkky returned the BLUE flag!
+  9:22 Item: 3 item_health
+  9:23 Item: 2 team_CTF_redflag
+  9:23 CTF: 2 1 0: GANG RAP got the RED flag!
+  9:23 PlayerScore: 2 23: GANG RAP now has 23 points
+  9:24 Item: 7 weapon_rocketlauncher
+  9:24 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+  9:24 PlayerScore: 1 37: Toni_Mona now has 37 points
+  9:25 Kill: 4 9 3: siemenneste12 killed Jeesus by MOD_MACHINEGUN
+  9:26 Item: 17 weapon_rocketlauncher
+  9:27 Kill: 7 3 7: Progamer69 killed Nigga Lamp by MOD_ROCKET_SPLASH
+  9:27 PlayerScore: 7 4: Progamer69 now has 4 points
+  9:27 Challenge: 7 205 1: Client 7 got award 205
+  9:27 Challenge: 7 1 1: Client 7 got award 1
+  9:27 Challenge: 3 2 1: Client 3 got award 2
+  9:27 Kill: 16 2 3: dani killed GANG RAP by MOD_MACHINEGUN
+  9:27 PlayerScore: 16 13: dani now has 13 points
+  9:27 Challenge: 16 202 1: Client 16 got award 202
+  9:27 Challenge: 16 1 1: Client 16 got award 1
+  9:27 Challenge: 2 2 1: Client 2 got award 2
+  9:27 PlayerScore: 16 15: dani now has 15 points
+  9:27 CTF: 16 2 3: dani fragged BLUE's flag carrier!
+  9:27 Kill: 15 7 3: Xkylkky killed Progamer69 by MOD_MACHINEGUN
+  9:27 PlayerScore: 15 19: Xkylkky now has 19 points
+  9:27 Challenge: 15 202 1: Client 15 got award 202
+  9:27 Challenge: 15 1 1: Client 15 got award 1
+  9:27 Challenge: 7 2 1: Client 7 got award 2
+  9:27 PlayerScore: 15 20: Xkylkky now has 20 points
+  9:27 Challenge: 15 305 1: Client 15 got award 305
+  9:27 Award: 15 3: Xkylkky gained the DEFENCE award!
+  9:28 Item: 16 team_CTF_redflag
+  9:28 PlayerScore: 16 16: dani now has 16 points
+  9:28 CTF: 16 1 2: dani returned the RED flag!
+  9:28 Item: 12 item_health_mega
+  9:28 Kill: 14 6 3: Topias killed Kalamies by MOD_MACHINEGUN
+  9:28 PlayerScore: 14 7: Topias now has 7 points
+  9:28 Challenge: 14 202 1: Client 14 got award 202
+  9:28 Challenge: 14 1 1: Client 14 got award 1
+  9:28 Challenge: 6 2 1: Client 6 got award 2
+  9:30 Item: 5 weapon_rocketlauncher
+  9:30 Kill: 13 10 7: Irwin Goodman killed Olavi by MOD_ROCKET_SPLASH
+  9:30 PlayerScore: 13 1: Irwin Goodman now has 1 points
+  9:30 Challenge: 13 205 1: Client 13 got award 205
+  9:30 Challenge: 13 1 1: Client 13 got award 1
+  9:30 Challenge: 10 2 1: Client 10 got award 2
+  9:30 Item: 13 weapon_plasmagun
+  9:30 Item: 13 weapon_plasmagun
+  9:31 Item: 17 ammo_cells
+  9:32 Item: 8 weapon_railgun
+  9:33 Item: 7 ammo_slugs
+  9:33 Kill: 1022 11 22: <world> killed Vladimir Ivan by MOD_TRIGGER_HURT
+  9:33 PlayerScore: 11 14: Vladimir Ivan now has 14 points
+  9:33 Item: 13 team_CTF_blueflag
+  9:33 CTF: 13 2 0: Irwin Goodman got the BLUE flag!
+  9:33 PlayerScore: 13 1: Irwin Goodman now has 1 points
+  9:34 Kill: 1 13 3: Toni_Mona killed Irwin Goodman by MOD_MACHINEGUN
+  9:34 PlayerScore: 1 38: Toni_Mona now has 38 points
+  9:34 Challenge: 1 202 1: Client 1 got award 202
+  9:34 Challenge: 1 1 1: Client 1 got award 1
+  9:34 Challenge: 13 2 1: Client 13 got award 2
+  9:34 PlayerScore: 1 40: Toni_Mona now has 40 points
+  9:34 CTF: 1 1 3: Toni_Mona fragged RED's flag carrier!
+  9:34 Kill: 1022 15 22: <world> killed Xkylkky by MOD_TRIGGER_HURT
+  9:34 PlayerScore: 15 19: Xkylkky now has 19 points
+  9:35 Item: 9 weapon_rocketlauncher
+  9:35 Item: 3 weapon_rocketlauncher
+  9:35 Item: 1 team_CTF_blueflag
+  9:35 PlayerScore: 1 41: Toni_Mona now has 41 points
+  9:35 CTF: 1 2 2: Toni_Mona returned the BLUE flag!
+  9:35 Item: 1 weapon_plasmagun
+  9:36 Kill: 6 12 3: Kalamies killed f02 by MOD_MACHINEGUN
+  9:36 PlayerScore: 6 28: Kalamies now has 28 points
+  9:36 Challenge: 6 202 1: Client 6 got award 202
+  9:36 Challenge: 6 1 1: Client 6 got award 1
+  9:36 Challenge: 12 2 1: Client 12 got award 2
+  9:36 Kill: 6 4 3: Kalamies killed siemenneste12 by MOD_MACHINEGUN
+  9:36 PlayerScore: 6 29: Kalamies now has 29 points
+  9:36 Challenge: 6 202 1: Client 6 got award 202
+  9:36 Challenge: 6 1 1: Client 6 got award 1
+  9:36 Challenge: 4 2 1: Client 4 got award 2
+  9:36 Award: 6 1: Kalamies gained the EXCELLENT award!
+  9:36 Challenge: 6 302 1: Client 6 got award 302
+  9:36 Item: 16 weapon_railgun
+  9:37 Item: 17 weapon_railgun
+  9:38 Item: 10 weapon_plasmagun
+  9:38 Item: 14 weapon_railgun
+  9:39 Kill: 1022 11 22: <world> killed Vladimir Ivan by MOD_TRIGGER_HURT
+  9:39 PlayerScore: 11 13: Vladimir Ivan now has 13 points
+  9:39 Item: 9 ammo_shells
+  9:40 Item: 3 ammo_cells
+  9:40 Kill: 1022 16 19: <world> killed dani by MOD_FALLING
+  9:40 PlayerScore: 16 15: dani now has 15 points
+  9:41 Item: 2 weapon_railgun
+  9:41 Kill: 1 5 9: Toni_Mona killed finnish Rocker by MOD_PLASMA_SPLASH
+  9:41 PlayerScore: 1 42: Toni_Mona now has 42 points
+  9:41 Challenge: 1 207 1: Client 1 got award 207
+  9:41 Challenge: 1 1 1: Client 1 got award 1
+  9:41 Challenge: 5 2 1: Client 5 got award 2
+  9:41 Item: 1 weapon_rocketlauncher
+  9:42 Item: 4 weapon_plasmagun
+  9:42 Kill: 9 6 6: Jeesus killed Kalamies by MOD_ROCKET
+  9:42 PlayerScore: 9 9: Jeesus now has 9 points
+  9:42 Challenge: 9 205 1: Client 9 got award 205
+  9:42 Challenge: 9 1 1: Client 9 got award 1
+  9:42 Challenge: 6 2 1: Client 6 got award 2
+  9:42 Kill: 10 15 8: Olavi killed Xkylkky by MOD_PLASMA
+  9:44 Kill: 1022 3 19: <world> killed Nigga Lamp by MOD_FALLING
+  9:44 PlayerScore: 3 12: Nigga Lamp now has 12 points
+  9:44 Item: 4 ammo_cells
+  9:45 Item: 11 ammo_rockets
+  9:46 Kill: 10 14 8: Olavi killed Topias by MOD_PLASMA
+  9:46 PlayerScore: 10 33: Olavi now has 33 points
+  9:46 Challenge: 10 207 1: Client 10 got award 207
+  9:46 Challenge: 10 1 1: Client 10 got award 1
+  9:46 Challenge: 14 2 1: Client 14 got award 2
+  9:46 PlayerScore: 10 34: Olavi now has 34 points
+  9:46 Challenge: 10 305 1: Client 10 got award 305
+  9:46 Award: 10 3: Olavi gained the DEFENCE award!
+  9:46 Kill: 2 8 10: GANG RAP killed Matutao by MOD_RAILGUN
+  9:46 PlayerScore: 2 24: GANG RAP now has 24 points
+  9:46 Challenge: 2 208 1: Client 2 got award 208
+  9:46 Challenge: 2 1 1: Client 2 got award 1
+  9:46 Challenge: 8 2 1: Client 8 got award 2
+  9:47 Item: 2 weapon_railgun
+  9:48 Kill: 1022 1 19: <world> killed Toni_Mona by MOD_FALLING
+  9:48 PlayerScore: 1 41: Toni_Mona now has 41 points
+  9:48 Item: 2 weapon_railgun
+  9:48 Item: 4 weapon_rocketlauncher
+  9:50 Item: 10 weapon_plasmagun
+  9:50 say: jookkaaa: 1
+  9:50 Item: 9 weapon_railgun
+  9:51 Item: 15 item_armor_combat
+  9:53 Kill: 10 3 8: Olavi killed Nigga Lamp by MOD_PLASMA
+  9:53 Kill: 2 17 10: GANG RAP killed vilperi by MOD_RAILGUN
+  9:53 PlayerScore: 2 25: GANG RAP now has 25 points
+  9:53 Challenge: 2 208 1: Client 2 got award 208
+  9:53 Challenge: 2 1 1: Client 2 got award 1
+  9:53 Challenge: 17 2 1: Client 17 got award 2
+  9:54 Item: 5 weapon_plasmagun
+  9:55 Item: 14 weapon_rocketlauncher
+  9:57 Item: 1 ammo_shells
+  9:58 Item: 3 weapon_rocketlauncher
+  9:58 Item: 10 weapon_railgun
+  9:58 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+  9:58 PlayerScore: 1 40: Toni_Mona now has 40 points
+  9:59 Item: 5 weapon_railgun
+ 10:00 Kill: 15 7 3: Xkylkky killed Progamer69 by MOD_MACHINEGUN
+ 10:00 PlayerScore: 15 20: Xkylkky now has 20 points
+ 10:00 Challenge: 15 202 1: Client 15 got award 202
+ 10:00 Challenge: 15 1 1: Client 15 got award 1
+ 10:00 Challenge: 7 2 1: Client 7 got award 2
+ 10:00 PlayerScore: 15 21: Xkylkky now has 21 points
+ 10:00 Challenge: 15 305 1: Client 15 got award 305
+ 10:00 Award: 15 3: Xkylkky gained the DEFENCE award!
+ 10:00 Kill: 10 9 10: Olavi killed Jeesus by MOD_RAILGUN
+ 10:00 PlayerScore: 10 35: Olavi now has 35 points
+ 10:00 Challenge: 10 208 1: Client 10 got award 208
+ 10:00 Challenge: 10 1 1: Client 10 got award 1
+ 10:00 Challenge: 9 2 1: Client 9 got award 2
+ 10:00 PlayerScore: 10 36: Olavi now has 36 points
+ 10:00 Challenge: 10 305 1: Client 10 got award 305
+ 10:00 Award: 10 3: Olavi gained the DEFENCE award!
+ 10:01 Kill: 2 8 10: GANG RAP killed Matutao by MOD_RAILGUN
+ 10:01 PlayerScore: 2 26: GANG RAP now has 26 points
+ 10:01 Challenge: 2 208 1: Client 2 got award 208
+ 10:01 Challenge: 2 1 1: Client 2 got award 1
+ 10:01 Challenge: 8 2 1: Client 8 got award 2
+ 10:01 Award: 2 2: GANG RAP gained the IMPRESSIVE award!
+ 10:01 Challenge: 2 301 1: Client 2 got award 301
+ 10:01 Item: 11 item_health
+ 10:02 Item: 15 item_health
+ 10:02 Item: 13 weapon_rocketlauncher
+ 10:03 Kill: 1022 5 22: <world> killed finnish Rocker by MOD_TRIGGER_HURT
+ 10:03 PlayerScore: 5 13: finnish Rocker now has 13 points
+ 10:05 Kill: 1022 4 22: <world> killed siemenneste12 by MOD_TRIGGER_HURT
+ 10:05 PlayerScore: 4 10: siemenneste12 now has 10 points
+ 10:06 Item: 12 weapon_railgun
+ 10:07 Item: 8 weapon_shotgun
+ 10:07 Item: 11 weapon_plasmagun
+ 10:08 Item: 16 team_CTF_blueflag
+ 10:08 CTF: 16 2 0: dani got the BLUE flag!
+ 10:08 PlayerScore: 16 15: dani now has 15 points
+ 10:09 Kill: 1022 15 22: <world> killed Xkylkky by MOD_TRIGGER_HURT
+ 10:09 PlayerScore: 15 20: Xkylkky now has 20 points
+ 10:10 Item: 11 item_health
+ 10:10 Item: 9 weapon_rocketlauncher
+ 10:10 Kill: 17 6 3: vilperi killed Kalamies by MOD_MACHINEGUN
+ 10:10 PlayerScore: 17 1: vilperi now has 1 points
+ 10:10 Challenge: 17 202 1: Client 17 got award 202
+ 10:10 Challenge: 17 1 1: Client 17 got award 1
+ 10:10 Challenge: 6 2 1: Client 6 got award 2
+ 10:11 Kill: 1022 3 22: <world> killed Nigga Lamp by MOD_TRIGGER_HURT
+ 10:11 PlayerScore: 3 11: Nigga Lamp now has 11 points
+ 10:12 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+ 10:12 PlayerScore: 1 39: Toni_Mona now has 39 points
+ 10:12 Item: 7 item_health_mega
+ 10:13 Kill: 4 9 3: siemenneste12 killed Jeesus by MOD_MACHINEGUN
+ 10:14 Item: 16 weapon_rocketlauncher
+ 10:14 Item: 14 weapon_rocketlauncher
+ 10:15 Item: 4 weapon_rocketlauncher
+ 10:17 Kill: 1022 12 19: <world> killed f02 by MOD_FALLING
+ 10:17 PlayerScore: 12 0: f02 now has 0 points
+ 10:17 Item: 7 weapon_railgun
+ 10:17 Kill: 10 13 10: Olavi killed Irwin Goodman by MOD_RAILGUN
+ 10:17 PlayerScore: 10 37: Olavi now has 37 points
+ 10:17 Challenge: 10 208 1: Client 10 got award 208
+ 10:17 Challenge: 10 1 1: Client 10 got award 1
+ 10:17 Challenge: 13 2 1: Client 13 got award 2
+ 10:17 PlayerScore: 10 38: Olavi now has 38 points
+ 10:17 Challenge: 10 305 1: Client 10 got award 305
+ 10:17 Award: 10 3: Olavi gained the DEFENCE award!
+ 10:17 Item: 6 ammo_rockets
+ 10:19 Kill: 10 14 10: Olavi killed Topias by MOD_RAILGUN
+ 10:19 PlayerScore: 10 39: Olavi now has 39 points
+ 10:19 Challenge: 10 208 1: Client 10 got award 208
+ 10:19 Challenge: 10 1 1: Client 10 got award 1
+ 10:19 Challenge: 14 2 1: Client 14 got award 2
+ 10:19 Award: 10 1: Olavi gained the EXCELLENT award!
+ 10:19 Challenge: 10 302 1: Client 10 got award 302
+ 10:19 PlayerScore: 10 40: Olavi now has 40 points
+ 10:19 Challenge: 10 305 1: Client 10 got award 305
+ 10:19 Award: 10 3: Olavi gained the DEFENCE award!
+ 10:19 Award: 10 2: Olavi gained the IMPRESSIVE award!
+ 10:19 Challenge: 10 301 1: Client 10 got award 301
+ 10:19 Item: 10 weapon_rocketlauncher
+ 10:21 Kill: 1022 6 22: <world> killed Kalamies by MOD_TRIGGER_HURT
+ 10:21 PlayerScore: 6 28: Kalamies now has 28 points
+ 10:21 Item: 17 item_armor_combat
+ 10:22 Item: 10 item_health
+ 10:22 Item: 12 ammo_slugs
+ 10:22 Item: 10 weapon_plasmagun
+ 10:23 Item: 5 ammo_shells
+ 10:23 Item: 11 weapon_rocketlauncher
+ 10:23 Kill: 4 11 6: siemenneste12 killed Vladimir Ivan by MOD_ROCKET
+ 10:25 Item: 4 weapon_rocketlauncher
+ 10:25 Item: 2 weapon_railgun
+ 10:26 Kill: 5 10 3: finnish Rocker killed Olavi by MOD_MACHINEGUN
+ 10:26 PlayerScore: 5 14: finnish Rocker now has 14 points
+ 10:26 Challenge: 5 202 1: Client 5 got award 202
+ 10:26 Challenge: 5 1 1: Client 5 got award 1
+ 10:26 Challenge: 10 2 1: Client 10 got award 2
+ 10:26 Item: 6 weapon_railgun
+ 10:28 Kill: 1022 15 19: <world> killed Xkylkky by MOD_FALLING
+ 10:28 PlayerScore: 15 19: Xkylkky now has 19 points
+ 10:28 Kill: 5 6 3: finnish Rocker killed Kalamies by MOD_MACHINEGUN
+ 10:28 PlayerScore: 5 15: finnish Rocker now has 15 points
+ 10:28 Challenge: 5 202 1: Client 5 got award 202
+ 10:28 Challenge: 5 1 1: Client 5 got award 1
+ 10:28 Challenge: 6 2 1: Client 6 got award 2
+ 10:28 Award: 5 1: finnish Rocker gained the EXCELLENT award!
+ 10:28 Challenge: 5 302 1: Client 5 got award 302
+ 10:28 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+ 10:28 Kill: 1022 9 19: <world> killed Jeesus by MOD_FALLING
+ 10:28 PlayerScore: 9 8: Jeesus now has 8 points
+ 10:28 Item: 5 weapon_railgun
+ 10:29 Item: 5 weapon_rocketlauncher
+ 10:29 Item: 7 weapon_railgun
+ 10:29 Item: 16 team_CTF_redflag
+ 10:29 CTF: 16 2 1: dani captured the BLUE flag!
+ 10:29 Award: 16 4: dani gained the CAPTURE award!
+ 10:29 Challenge: 16 303 1: Client 16 got award 303
+ 10:29 PlayerScore: 16 20: dani now has 20 points
+ 10:29 PlayerScore: 4 10: siemenneste12 now has 10 points
+ 10:29 PlayerScore: 5 15: finnish Rocker now has 15 points
+ 10:29 PlayerScore: 7 4: Progamer69 now has 4 points
+ 10:29 PlayerScore: 8 16: Matutao now has 16 points
+ 10:29 PlayerScore: 9 8: Jeesus now has 8 points
+ 10:29 PlayerScore: 11 13: Vladimir Ivan now has 13 points
+ 10:29 PlayerScore: 12 0: f02 now has 0 points
+ 10:29 PlayerScore: 13 1: Irwin Goodman now has 1 points
+ 10:29 PlayerScore: 14 7: Topias now has 7 points
+ 10:29 PlayerScore: 17 1: vilperi now has 1 points
+ 10:30 Kill: 10 17 3: Olavi killed vilperi by MOD_MACHINEGUN
+ 10:30 PlayerScore: 10 41: Olavi now has 41 points
+ 10:30 Challenge: 10 202 1: Client 10 got award 202
+ 10:30 Challenge: 10 1 1: Client 10 got award 1
+ 10:30 Challenge: 17 2 1: Client 17 got award 2
+ 10:30 PlayerScore: 10 42: Olavi now has 42 points
+ 10:30 Challenge: 10 305 1: Client 10 got award 305
+ 10:30 Award: 10 3: Olavi gained the DEFENCE award!
+ 10:30 Item: 1 weapon_railgun
+ 10:31 Kill: 1022 13 22: <world> killed Irwin Goodman by MOD_TRIGGER_HURT
+ 10:31 PlayerScore: 13 0: Irwin Goodman now has 0 points
+ 10:32 Item: 10 weapon_plasmagun
+ 10:33 Item: 11 weapon_rocketlauncher
+ 10:34 Kill: 10 5 8: Olavi killed finnish Rocker by MOD_PLASMA
+ 10:34 PlayerScore: 10 43: Olavi now has 43 points
+ 10:34 Challenge: 10 207 1: Client 10 got award 207
+ 10:34 Challenge: 10 1 1: Client 10 got award 1
+ 10:34 Challenge: 5 2 1: Client 5 got award 2
+ 10:34 PlayerScore: 10 44: Olavi now has 44 points
+ 10:34 Challenge: 10 305 1: Client 10 got award 305
+ 10:34 Award: 10 3: Olavi gained the DEFENCE award!
+ 10:34 Item: 11 ammo_rockets
+ 10:35 Item: 13 ammo_shells
+ 10:35 Item: 15 weapon_rocketlauncher
+ 10:35 Kill: 2 11 10: GANG RAP killed Vladimir Ivan by MOD_RAILGUN
+ 10:35 PlayerScore: 2 27: GANG RAP now has 27 points
+ 10:35 Challenge: 2 208 1: Client 2 got award 208
+ 10:35 Challenge: 2 1 1: Client 2 got award 1
+ 10:35 Challenge: 11 2 1: Client 11 got award 2
+ 10:36 Kill: 3 4 3: Nigga Lamp killed siemenneste12 by MOD_MACHINEGUN
+ 10:36 PlayerScore: 3 12: Nigga Lamp now has 12 points
+ 10:36 Challenge: 3 202 1: Client 3 got award 202
+ 10:36 Challenge: 3 1 1: Client 3 got award 1
+ 10:36 Challenge: 4 2 1: Client 4 got award 2
+ 10:36 Kill: 9 12 3: Jeesus killed f02 by MOD_MACHINEGUN
+ 10:36 Item: 1 team_CTF_redflag
+ 10:36 CTF: 1 1 0: Toni_Mona got the RED flag!
+ 10:36 PlayerScore: 1 39: Toni_Mona now has 39 points
+ 10:36 Item: 3 weapon_rocketlauncher
+ 10:37 Kill: 8 3 1: Matutao killed Nigga Lamp by MOD_SHOTGUN
+ 10:37 PlayerScore: 8 17: Matutao now has 17 points
+ 10:37 Challenge: 8 203 1: Client 8 got award 203
+ 10:37 Challenge: 8 1 1: Client 8 got award 1
+ 10:37 Challenge: 3 2 1: Client 3 got award 2
+ 10:38 Kill: 14 6 22: Topias killed Kalamies by MOD_TRIGGER_HURT
+ 10:38 PlayerScore: 14 8: Topias now has 8 points
+ 10:38 Challenge: 14 214 1: Client 14 got award 214
+ 10:38 Challenge: 14 1 1: Client 14 got award 1
+ 10:38 Challenge: 6 2 1: Client 6 got award 2
+ 10:38 Item: 14 item_health
+ 10:38 Item: 13 weapon_shotgun
+ 10:38 Item: 5 ammo_cells
+ 10:40 Kill: 10 15 3: Olavi killed Xkylkky by MOD_MACHINEGUN
+ 10:41 Kill: 1022 16 19: <world> killed dani by MOD_FALLING
+ 10:41 PlayerScore: 16 19: dani now has 19 points
+ 10:41 Kill: 13 1 1: Irwin Goodman killed Toni_Mona by MOD_SHOTGUN
+ 10:41 PlayerScore: 13 1: Irwin Goodman now has 1 points
+ 10:41 Challenge: 13 203 1: Client 13 got award 203
+ 10:41 Challenge: 13 1 1: Client 13 got award 1
+ 10:41 Challenge: 1 2 1: Client 1 got award 2
+ 10:41 PlayerScore: 13 3: Irwin Goodman now has 3 points
+ 10:41 CTF: 13 2 3: Irwin Goodman fragged BLUE's flag carrier!
+ 10:41 Item: 7 weapon_rocketlauncher
+ 10:41 Item: 4 weapon_rocketlauncher
+ 10:42 Item: 10 weapon_rocketlauncher
+ 10:42 Item: 8 weapon_rocketlauncher
+ 10:42 Item: 10 item_health
+ 10:43 Item: 13 weapon_railgun
+ 10:43 Item: 5 weapon_rocketlauncher
+ 10:45 Kill: 1022 7 22: <world> killed Progamer69 by MOD_TRIGGER_HURT
+ 10:45 PlayerScore: 7 3: Progamer69 now has 3 points
+ 10:45 Kill: 10 14 6: Olavi killed Topias by MOD_ROCKET
+ 10:45 PlayerScore: 10 45: Olavi now has 45 points
+ 10:45 Challenge: 10 205 1: Client 10 got award 205
+ 10:45 Challenge: 10 1 1: Client 10 got award 1
+ 10:45 Challenge: 14 2 1: Client 14 got award 2
+ 10:45 PlayerScore: 10 46: Olavi now has 46 points
+ 10:45 Challenge: 10 305 1: Client 10 got award 305
+ 10:45 Award: 10 3: Olavi gained the DEFENCE award!
+ 10:46 Kill: 2 13 19: GANG RAP killed Irwin Goodman by MOD_FALLING
+ 10:46 PlayerScore: 2 28: GANG RAP now has 28 points
+ 10:46 Challenge: 2 214 1: Client 2 got award 214
+ 10:46 Challenge: 2 1 1: Client 2 got award 1
+ 10:46 Challenge: 13 2 1: Client 13 got award 2
+ 10:46 Kill: 8 2 7: Matutao killed GANG RAP by MOD_ROCKET_SPLASH
+ 10:46 PlayerScore: 8 18: Matutao now has 18 points
+ 10:46 Challenge: 8 205 1: Client 8 got award 205
+ 10:46 Challenge: 8 1 1: Client 8 got award 1
+ 10:46 Challenge: 2 2 1: Client 2 got award 2
+ 10:47 Item: 12 team_CTF_redflag
+ 10:47 PlayerScore: 12 1: f02 now has 1 points
+ 10:47 CTF: 12 1 2: f02 returned the RED flag!
+ 10:47 Kill: 6 5 3: Kalamies killed finnish Rocker by MOD_MACHINEGUN
+ 10:47 PlayerScore: 6 29: Kalamies now has 29 points
+ 10:47 Challenge: 6 202 1: Client 6 got award 202
+ 10:47 Challenge: 6 1 1: Client 6 got award 1
+ 10:47 Challenge: 5 2 1: Client 5 got award 2
+ 10:48 Item: 8 weapon_railgun
+ 10:48 Item: 10 weapon_plasmagun
+ 10:48 Item: 17 weapon_shotgun
+ 10:48 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+ 10:48 PlayerScore: 12 0: f02 now has 0 points
+ 10:50 Kill: 10 3 8: Olavi killed Nigga Lamp by MOD_PLASMA
+ 10:50 Item: 14 weapon_shotgun
+ 10:51 Item: 9 item_health_mega
+ 10:51 Item: 16 weapon_rocketlauncher
+ 10:54 Item: 9 ammo_cells
+ 10:54 Kill: 1022 1 22: <world> killed Toni_Mona by MOD_TRIGGER_HURT
+ 10:54 PlayerScore: 1 38: Toni_Mona now has 38 points
+ 10:55 Item: 10 ammo_cells
+ 10:55 Item: 3 weapon_rocketlauncher
+ 10:56 Kill: 9 4 2: Jeesus killed siemenneste12 by MOD_GAUNTLET
+ 10:57 Item: 10 weapon_plasmagun
+ 10:57 Item: 10 item_health
+ 10:58 Item: 15 ammo_shells
+ 10:59 Item: 10 ammo_slugs
+ 11:00 Item: 11 weapon_rocketlauncher
+ 11:00 Kill: 15 8 3: Xkylkky killed Matutao by MOD_MACHINEGUN
+ 11:00 PlayerScore: 15 20: Xkylkky now has 20 points
+ 11:00 Challenge: 15 202 1: Client 15 got award 202
+ 11:00 Challenge: 15 1 1: Client 15 got award 1
+ 11:00 Challenge: 8 2 1: Client 8 got award 2
+ 11:00 Kill: 1022 16 19: <world> killed dani by MOD_FALLING
+ 11:00 PlayerScore: 16 18: dani now has 18 points
+ 11:01 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+ 11:01 PlayerScore: 17 0: vilperi now has 0 points
+ 11:01 Item: 14 weapon_railgun
+ 11:02 Item: 10 item_armor_combat
+ 11:02 Kill: 3 9 7: Nigga Lamp killed Jeesus by MOD_ROCKET_SPLASH
+ 11:02 PlayerScore: 3 13: Nigga Lamp now has 13 points
+ 11:02 Challenge: 3 205 1: Client 3 got award 205
+ 11:02 Challenge: 3 1 1: Client 3 got award 1
+ 11:02 Challenge: 9 2 1: Client 9 got award 2
+ 11:04 Item: 12 weapon_railgun
+ 11:04 Item: 2 weapon_railgun
+ 11:05 Kill: 11 6 3: Vladimir Ivan killed Kalamies by MOD_MACHINEGUN
+ 11:05 PlayerScore: 11 14: Vladimir Ivan now has 14 points
+ 11:05 Challenge: 11 202 1: Client 11 got award 202
+ 11:05 Challenge: 11 1 1: Client 11 got award 1
+ 11:05 Challenge: 6 2 1: Client 6 got award 2
+ 11:05 Item: 4 weapon_rocketlauncher
+ 11:05 Item: 3 weapon_rocketlauncher
+ 11:08 Kill: 10 14 8: Olavi killed Topias by MOD_PLASMA
+ 11:08 PlayerScore: 10 47: Olavi now has 47 points
+ 11:08 Challenge: 10 207 1: Client 10 got award 207
+ 11:08 Challenge: 10 1 1: Client 10 got award 1
+ 11:08 Challenge: 14 2 1: Client 14 got award 2
+ 11:08 PlayerScore: 10 48: Olavi now has 48 points
+ 11:08 Challenge: 10 305 1: Client 10 got award 305
+ 11:08 Award: 10 3: Olavi gained the DEFENCE award!
+ 11:08 Kill: 1022 7 22: <world> killed Progamer69 by MOD_TRIGGER_HURT
+ 11:08 PlayerScore: 7 2: Progamer69 now has 2 points
+ 11:09 Item: 15 ammo_shells
+ 11:09 Item: 12 weapon_railgun
+ 11:09 Item: 1 weapon_railgun
+ 11:10 Kill: 5 15 3: finnish Rocker killed Xkylkky by MOD_MACHINEGUN
+ 11:10 PlayerScore: 5 16: finnish Rocker now has 16 points
+ 11:10 Challenge: 5 202 1: Client 5 got award 202
+ 11:10 Challenge: 5 1 1: Client 5 got award 1
+ 11:10 Challenge: 15 2 1: Client 15 got award 2
+ 11:10 Kill: 10 11 8: Olavi killed Vladimir Ivan by MOD_PLASMA
+ 11:10 PlayerScore: 10 49: Olavi now has 49 points
+ 11:10 Challenge: 10 207 1: Client 10 got award 207
+ 11:10 Challenge: 10 1 1: Client 10 got award 1
+ 11:10 Challenge: 11 2 1: Client 11 got award 2
+ 11:10 Award: 10 1: Olavi gained the EXCELLENT award!
+ 11:10 Challenge: 10 302 1: Client 10 got award 302
+ 11:10 PlayerScore: 10 50: Olavi now has 50 points
+ 11:10 Challenge: 10 305 1: Client 10 got award 305
+ 11:10 Award: 10 3: Olavi gained the DEFENCE award!
+ 11:11 Item: 2 team_CTF_redflag
+ 11:11 CTF: 2 1 0: GANG RAP got the RED flag!
+ 11:11 PlayerScore: 2 28: GANG RAP now has 28 points
+ 11:11 Item: 13 weapon_rocketlauncher
+ 11:12 Item: 6 weapon_shotgun
+ 11:12 Item: 10 weapon_plasmagun
+ 11:12 Item: 4 weapon_rocketlauncher
+ 11:14 Item: 1 ammo_slugs
+ 11:15 Item: 7 weapon_railgun
+ 11:16 Item: 7 item_health
+ 11:17 Kill: 10 5 8: Olavi killed finnish Rocker by MOD_PLASMA
+ 11:17 PlayerScore: 10 51: Olavi now has 51 points
+ 11:17 Challenge: 10 207 1: Client 10 got award 207
+ 11:17 Challenge: 10 1 1: Client 10 got award 1
+ 11:17 Challenge: 5 2 1: Client 5 got award 2
+ 11:17 PlayerScore: 10 52: Olavi now has 52 points
+ 11:17 Challenge: 10 305 1: Client 10 got award 305
+ 11:17 Award: 10 3: Olavi gained the DEFENCE award!
+ 11:17 Kill: 4 13 7: siemenneste12 killed Irwin Goodman by MOD_ROCKET_SPLASH
+ 11:18 Item: 3 item_health
+ 11:20 Kill: 1022 2 22: <world> killed GANG RAP by MOD_TRIGGER_HURT
+ 11:20 PlayerScore: 2 27: GANG RAP now has 27 points
+ 11:20 Kill: 15 6 3: Xkylkky killed Kalamies by MOD_MACHINEGUN
+ 11:20 Item: 4 weapon_rocketlauncher
+ 11:20 Item: 1 weapon_rocketlauncher
+ 11:22 Item: 4 ammo_rockets
+ 11:23 Item: 16 team_CTF_blueflag
+ 11:23 CTF: 16 2 0: dani got the BLUE flag!
+ 11:23 PlayerScore: 16 18: dani now has 18 points
+ 11:23 Kill: 10 15 3: Olavi killed Xkylkky by MOD_MACHINEGUN
+ 11:24 Kill: 3 10 6: Nigga Lamp killed Olavi by MOD_ROCKET
+ 11:24 Item: 8 weapon_railgun
+ 11:26 Item: 5 weapon_rocketlauncher
+ 11:27 Kill: 5 4 6: finnish Rocker killed siemenneste12 by MOD_ROCKET
+ 11:27 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+ 11:27 Kill: 3 14 6: Nigga Lamp killed Topias by MOD_ROCKET
+ 11:27 PlayerScore: 3 14: Nigga Lamp now has 14 points
+ 11:27 Challenge: 3 205 1: Client 3 got award 205
+ 11:27 Challenge: 3 1 1: Client 3 got award 1
+ 11:27 Challenge: 14 2 1: Client 14 got award 2
+ 11:27 PlayerScore: 3 15: Nigga Lamp now has 15 points
+ 11:27 Challenge: 3 305 1: Client 3 got award 305
+ 11:27 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+ 11:27 Kill: 3 3 7: Nigga Lamp killed Nigga Lamp by MOD_ROCKET_SPLASH
+ 11:28 Item: 16 weapon_rocketlauncher
+ 11:28 Item: 5 weapon_rocketlauncher
+ 11:28 Kill: 1 9 10: Toni_Mona killed Jeesus by MOD_RAILGUN
+ 11:28 PlayerScore: 1 39: Toni_Mona now has 39 points
+ 11:28 Challenge: 1 208 1: Client 1 got award 208
+ 11:28 Challenge: 1 1 1: Client 1 got award 1
+ 11:28 Challenge: 9 2 1: Client 9 got award 2
+ 11:29 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+ 11:29 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+ 11:29 PlayerScore: 8 17: Matutao now has 17 points
+ 11:29 Item: 13 item_health_mega
+ 11:29 Kill: 7 1 10: Progamer69 killed Toni_Mona by MOD_RAILGUN
+ 11:29 PlayerScore: 7 3: Progamer69 now has 3 points
+ 11:29 Challenge: 7 208 1: Client 7 got award 208
+ 11:29 Challenge: 7 1 1: Client 7 got award 1
+ 11:29 Challenge: 1 2 1: Client 1 got award 2
+ 11:30 Item: 7 weapon_railgun
+ 11:30 Item: 15 ammo_rockets
+ 11:30 Kill: 1022 10 22: <world> killed Olavi by MOD_TRIGGER_HURT
+ 11:30 PlayerScore: 10 51: Olavi now has 51 points
+ 11:30 Kill: 1022 5 19: <world> killed finnish Rocker by MOD_FALLING
+ 11:30 PlayerScore: 5 15: finnish Rocker now has 15 points
+ 11:31 Item: 4 ammo_cells
+ 11:33 Item: 11 item_health
+ 11:33 Kill: 3 11 3: Nigga Lamp killed Vladimir Ivan by MOD_MACHINEGUN
+ 11:33 PlayerScore: 3 16: Nigga Lamp now has 16 points
+ 11:33 Challenge: 3 202 1: Client 3 got award 202
+ 11:33 Challenge: 3 1 1: Client 3 got award 1
+ 11:33 Challenge: 11 2 1: Client 11 got award 2
+ 11:33 PlayerScore: 3 17: Nigga Lamp now has 17 points
+ 11:33 Challenge: 3 305 1: Client 3 got award 305
+ 11:33 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+ 11:33 Kill: 1 7 3: Toni_Mona killed Progamer69 by MOD_MACHINEGUN
+ 11:33 PlayerScore: 1 40: Toni_Mona now has 40 points
+ 11:33 Challenge: 1 202 1: Client 1 got award 202
+ 11:33 Challenge: 1 1 1: Client 1 got award 1
+ 11:33 Challenge: 7 2 1: Client 7 got award 2
+ 11:33 PlayerScore: 1 41: Toni_Mona now has 41 points
+ 11:33 Challenge: 1 305 1: Client 1 got award 305
+ 11:33 Award: 1 3: Toni_Mona gained the DEFENCE award!
+ 11:34 Item: 13 weapon_railgun
+ 11:34 Item: 6 weapon_shotgun
+ 11:34 Item: 9 weapon_rocketlauncher
+ 11:34 Item: 1 weapon_railgun
+ 11:35 Item: 2 weapon_rocketlauncher
+ 11:36 Item: 14 item_armor_combat
+ 11:38 Item: 10 weapon_plasmagun
+ 11:39 Kill: 1022 9 22: <world> killed Jeesus by MOD_TRIGGER_HURT
+ 11:39 PlayerScore: 9 7: Jeesus now has 7 points
+ 11:40 Item: 14 ammo_shells
+ 11:41 Item: 5 weapon_shotgun
+ 11:42 Kill: 3 13 3: Nigga Lamp killed Irwin Goodman by MOD_MACHINEGUN
+ 11:42 PlayerScore: 3 18: Nigga Lamp now has 18 points
+ 11:42 Challenge: 3 202 1: Client 3 got award 202
+ 11:42 Challenge: 3 1 1: Client 3 got award 1
+ 11:42 Challenge: 13 2 1: Client 13 got award 2
+ 11:42 PlayerScore: 3 19: Nigga Lamp now has 19 points
+ 11:42 Challenge: 3 305 1: Client 3 got award 305
+ 11:42 Award: 3 3: Nigga Lamp gained the DEFENCE award!
+ 11:42 Item: 17 ammo_shells
+ 11:42 Item: 16 team_CTF_redflag
+ 11:42 CTF: 16 2 1: dani captured the BLUE flag!
+ 11:42 Award: 16 4: dani gained the CAPTURE award!
+ 11:42 Challenge: 16 303 1: Client 16 got award 303
+ 11:42 PlayerScore: 16 23: dani now has 23 points
+ 11:42 PlayerScore: 4 10: siemenneste12 now has 10 points
+ 11:42 PlayerScore: 5 15: finnish Rocker now has 15 points
+ 11:42 PlayerScore: 7 3: Progamer69 now has 3 points
+ 11:42 PlayerScore: 8 17: Matutao now has 17 points
+ 11:42 PlayerScore: 9 7: Jeesus now has 7 points
+ 11:42 PlayerScore: 11 14: Vladimir Ivan now has 14 points
+ 11:42 PlayerScore: 12 0: f02 now has 0 points
+ 11:42 PlayerScore: 13 3: Irwin Goodman now has 3 points
+ 11:42 PlayerScore: 14 8: Topias now has 8 points
+ 11:42 PlayerScore: 17 0: vilperi now has 0 points
+ 11:42 Item: 12 weapon_rocketlauncher
+ 11:43 Item: 10 weapon_railgun
+ 11:43 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+ 11:43 PlayerScore: 8 16: Matutao now has 16 points
+ 11:43 Kill: 1022 17 22: <world> killed vilperi by MOD_TRIGGER_HURT
+ 11:47 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+ 11:47 Item: 2 team_CTF_redflag
+ 11:47 CTF: 2 1 0: GANG RAP got the RED flag!
+ 11:47 PlayerScore: 2 27: GANG RAP now has 27 points
+ 11:47 Kill: 10 3 10: Olavi killed Nigga Lamp by MOD_RAILGUN
+ 11:47 Item: 4 item_health
+ 11:48 Item: 1 weapon_railgun
+ 11:49 Kill: 8 2 3: Matutao killed GANG RAP by MOD_MACHINEGUN
+ 11:49 PlayerScore: 8 17: Matutao now has 17 points
+ 11:49 Challenge: 8 202 1: Client 8 got award 202
+ 11:49 Challenge: 8 1 1: Client 8 got award 1
+ 11:49 Challenge: 2 2 1: Client 2 got award 2
+ 11:49 PlayerScore: 8 19: Matutao now has 19 points
+ 11:49 CTF: 8 2 3: Matutao fragged BLUE's flag carrier!
+ 11:50 Item: 16 weapon_rocketlauncher
+ 11:50 Item: 14 weapon_plasmagun
+ 11:51 Item: 10 ammo_cells
+ 11:53 Kill: 4 9 2: siemenneste12 killed Jeesus by MOD_GAUNTLET
+ 11:53 Kill: 7 6 3: Progamer69 killed Kalamies by MOD_MACHINEGUN
+ 11:53 PlayerScore: 7 4: Progamer69 now has 4 points
+ 11:53 Challenge: 7 202 1: Client 7 got award 202
+ 11:53 Challenge: 7 1 1: Client 7 got award 1
+ 11:53 Challenge: 6 2 1: Client 6 got award 2
+ 11:53 Item: 1 team_CTF_redflag
+ 11:53 CTF: 1 1 0: Toni_Mona got the RED flag!
+ 11:53 PlayerScore: 1 41: Toni_Mona now has 41 points
+ 11:54 Item: 5 weapon_shotgun
+ 11:55 Item: 8 weapon_rocketlauncher
+ 11:55 Kill: 1022 15 22: <world> killed Xkylkky by MOD_TRIGGER_HURT
+ 11:55 PlayerScore: 15 19: Xkylkky now has 19 points
+ 11:56 Item: 17 weapon_rocketlauncher
+ 11:57 Kill: 1022 16 19: <world> killed dani by MOD_FALLING
+ 11:57 PlayerScore: 16 22: dani now has 22 points
+ 11:58 Kill: 1022 4 19: <world> killed siemenneste12 by MOD_FALLING
+ 11:58 PlayerScore: 4 9: siemenneste12 now has 9 points
+ 11:58 Kill: 10 3 10: Olavi killed Nigga Lamp by MOD_RAILGUN
+ 11:58 Kill: 8 8 7: Matutao killed Matutao by MOD_ROCKET_SPLASH
+ 11:59 Item: 12 ammo_shells
+ 11:59 Kill: 9 17 2: Jeesus killed vilperi by MOD_GAUNTLET
+ 11:59 Item: 9 weapon_rocketlauncher
+ 11:59 Item: 6 weapon_rocketlauncher
+ 12:00 Kill: 1 12 10: Toni_Mona killed f02 by MOD_RAILGUN
+ 12:00 PlayerScore: 1 42: Toni_Mona now has 42 points
+ 12:00 Challenge: 1 208 1: Client 1 got award 208
+ 12:00 Challenge: 1 1 1: Client 1 got award 1
+ 12:00 Challenge: 12 2 1: Client 12 got award 2
+ 12:02 Kill: 10 5 10: Olavi killed finnish Rocker by MOD_RAILGUN
+ 12:02 PlayerScore: 10 52: Olavi now has 52 points
+ 12:02 Challenge: 10 208 1: Client 10 got award 208
+ 12:02 Challenge: 10 1 1: Client 10 got award 1
+ 12:02 Challenge: 5 2 1: Client 5 got award 2
+ 12:02 PlayerScore: 10 53: Olavi now has 53 points
+ 12:02 Challenge: 10 305 1: Client 10 got award 305
+ 12:02 Award: 10 3: Olavi gained the DEFENCE award!
+ 12:02 Kill: 6 11 7: Kalamies killed Vladimir Ivan by MOD_ROCKET_SPLASH
+ 12:02 PlayerScore: 6 30: Kalamies now has 30 points
+ 12:02 Challenge: 6 205 1: Client 6 got award 205
+ 12:02 Challenge: 6 1 1: Client 6 got award 1
+ 12:02 Challenge: 11 2 1: Client 11 got award 2
+ 12:02 Kill: 2 7 3: GANG RAP killed Progamer69 by MOD_MACHINEGUN
+ 12:02 PlayerScore: 2 28: GANG RAP now has 28 points
+ 12:02 Challenge: 2 202 1: Client 2 got award 202
+ 12:02 Challenge: 2 1 1: Client 2 got award 1
+ 12:02 Challenge: 7 2 1: Client 7 got award 2
+ 12:02 PlayerScore: 2 29: GANG RAP now has 29 points
+ 12:02 Challenge: 2 305 1: Client 2 got award 305
+ 12:02 Award: 2 3: GANG RAP gained the DEFENCE award!
+ 12:02 Item: 2 ammo_shells
+ 12:03 Kill: 4 1 22: siemenneste12 killed Toni_Mona by MOD_TRIGGER_HURT
+ 12:03 PlayerScore: 4 10: siemenneste12 now has 10 points
+ 12:03 Challenge: 4 214 1: Client 4 got award 214
+ 12:03 Challenge: 4 1 1: Client 4 got award 1
+ 12:03 Challenge: 1 2 1: Client 1 got award 2
+ 12:03 PlayerScore: 4 12: siemenneste12 now has 12 points
+ 12:03 CTF: 4 2 3: siemenneste12 fragged BLUE's flag carrier!
+ 12:05 Item: 2 weapon_shotgun
+ 12:06 Item: 17 weapon_rocketlauncher
+ 12:08 Kill: 6 9 7: Kalamies killed Jeesus by MOD_ROCKET_SPLASH
+ 12:08 PlayerScore: 6 31: Kalamies now has 31 points
+ 12:08 Challenge: 6 205 1: Client 6 got award 205
+ 12:08 Challenge: 6 1 1: Client 6 got award 1
+ 12:08 Challenge: 9 2 1: Client 9 got award 2
+ 12:09 Item: 4 item_health_mega
+ 12:09 Item: 10 ammo_slugs
+ 12:09 Kill: 10 3 8: Olavi killed Nigga Lamp by MOD_PLASMA
+ 12:09 Item: 4 weapon_rocketlauncher
+ 12:11 Item: 12 ammo_rockets
+ 12:12 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+ 12:12 PlayerScore: 8 18: Matutao now has 18 points
+ 12:12 Item: 11 weapon_rocketlauncher
+ 12:14 Kill: 3 10 3: Nigga Lamp killed Olavi by MOD_MACHINEGUN
+ 12:14 Item: 13 weapon_railgun
+ 12:14 Kill: 6 16 6: Kalamies killed dani by MOD_ROCKET
+ 12:14 PlayerScore: 6 32: Kalamies now has 32 points
+ 12:14 Challenge: 6 205 1: Client 6 got award 205
+ 12:14 Challenge: 6 1 1: Client 6 got award 1
+ 12:14 Challenge: 16 2 1: Client 16 got award 2
+ 12:15 Kill: 14 6 8: Topias killed Kalamies by MOD_PLASMA
+ 12:15 PlayerScore: 14 9: Topias now has 9 points
+ 12:15 Challenge: 14 207 1: Client 14 got award 207
+ 12:15 Challenge: 14 1 1: Client 14 got award 1
+ 12:15 Challenge: 6 2 1: Client 6 got award 2
+ 12:15 Kill: 1022 2 19: <world> killed GANG RAP by MOD_FALLING
+ 12:15 PlayerScore: 2 28: GANG RAP now has 28 points
+ 12:15 Item: 14 weapon_rocketlauncher
+ 12:17 Item: 3 weapon_railgun
+ 12:17 Item: 17 weapon_railgun
+ 12:18 Kill: 1022 5 22: <world> killed finnish Rocker by MOD_TRIGGER_HURT
+ 12:18 PlayerScore: 5 14: finnish Rocker now has 14 points
+ 12:18 Item: 4 weapon_rocketlauncher
+ 12:18 Item: 16 ammo_cells
+ 12:20 Item: 8 weapon_rocketlauncher
+ 12:20 Item: 14 item_health
+ 12:20 Item: 3 item_armor_combat
+ 12:21 Item: 3 item_health
+ 12:21 Item: 1 weapon_railgun
+ 12:21 Kill: 1022 12 22: <world> killed f02 by MOD_TRIGGER_HURT
+ 12:22 Item: 9 weapon_shotgun
+ 12:22 Kill: 4 7 7: siemenneste12 killed Progamer69 by MOD_ROCKET_SPLASH
+ 12:23 Item: 10 weapon_plasmagun
+ 12:23 Item: 10 item_health
+ 12:24 Kill: 14 10 7: Topias killed Olavi by MOD_ROCKET_SPLASH
+ 12:24 PlayerScore: 14 10: Topias now has 10 points
+ 12:24 Challenge: 14 205 1: Client 14 got award 205
+ 12:24 Challenge: 14 1 1: Client 14 got award 1
+ 12:24 Challenge: 10 2 1: Client 10 got award 2
+ 12:24 Kill: 4 17 7: siemenneste12 killed vilperi by MOD_ROCKET_SPLASH
+ 12:24 Item: 4 weapon_railgun
+ 12:25 Item: 1 team_CTF_redflag
+ 12:25 CTF: 1 1 0: Toni_Mona got the RED flag!
+ 12:25 PlayerScore: 1 42: Toni_Mona now has 42 points
+ 12:25 Item: 5 weapon_rocketlauncher
+ 12:26 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+ 12:26 PlayerScore: 8 17: Matutao now has 17 points
+ 12:27 Item: 14 team_CTF_blueflag
+ 12:27 CTF: 14 2 0: Topias got the BLUE flag!
+ 12:27 PlayerScore: 14 10: Topias now has 10 points
+ 12:28 Item: 4 ammo_rockets
+ 12:28 Item: 10 weapon_plasmagun
+ 12:28 Item: 4 weapon_rocketlauncher
+ 12:30 Kill: 12 1 3: f02 killed Toni_Mona by MOD_MACHINEGUN
+ 12:30 PlayerScore: 12 1: f02 now has 1 points
+ 12:30 Challenge: 12 202 1: Client 12 got award 202
+ 12:30 Challenge: 12 1 1: Client 12 got award 1
+ 12:30 Challenge: 1 2 1: Client 1 got award 2
+ 12:30 PlayerScore: 12 3: f02 now has 3 points
+ 12:30 CTF: 12 2 3: f02 fragged BLUE's flag carrier!
+ 12:31 Kill: 6 9 22: Kalamies killed Jeesus by MOD_TRIGGER_HURT
+ 12:31 PlayerScore: 6 33: Kalamies now has 33 points
+ 12:31 Challenge: 6 214 1: Client 6 got award 214
+ 12:31 Challenge: 6 1 1: Client 6 got award 1
+ 12:31 Challenge: 9 2 1: Client 9 got award 2
+ 12:32 Kill: 10 3 8: Olavi killed Nigga Lamp by MOD_PLASMA
+ 12:32 Item: 13 weapon_railgun
+ 12:32 Kill: 7 6 3: Progamer69 killed Kalamies by MOD_MACHINEGUN
+ 12:32 PlayerScore: 7 5: Progamer69 now has 5 points
+ 12:32 Challenge: 7 202 1: Client 7 got award 202
+ 12:32 Challenge: 7 1 1: Client 7 got award 1
+ 12:32 Challenge: 6 2 1: Client 6 got award 2
+ 12:32 Item: 12 team_CTF_redflag
+ 12:32 PlayerScore: 12 4: f02 now has 4 points
+ 12:32 CTF: 12 1 2: f02 returned the RED flag!
+ 12:32 Item: 12 weapon_railgun
+ 12:33 Item: 10 weapon_railgun
+ 12:35 Item: 2 team_CTF_redflag
+ 12:35 CTF: 2 1 0: GANG RAP got the RED flag!
+ 12:35 PlayerScore: 2 28: GANG RAP now has 28 points
+ 12:37 Kill: 10 16 10: Olavi killed dani by MOD_RAILGUN
+ 12:37 PlayerScore: 10 54: Olavi now has 54 points
+ 12:37 Challenge: 10 208 1: Client 10 got award 208
+ 12:37 Challenge: 10 1 1: Client 10 got award 1
+ 12:37 Challenge: 16 2 1: Client 16 got award 2
+ 12:37 PlayerScore: 10 55: Olavi now has 55 points
+ 12:37 Challenge: 10 305 1: Client 10 got award 305
+ 12:37 Award: 10 3: Olavi gained the DEFENCE award!
+ 12:39 Kill: 1022 14 19: <world> killed Topias by MOD_FALLING
+ 12:39 PlayerScore: 14 9: Topias now has 9 points
+ 12:39 Item: 9 item_health
+ 12:39 Item: 4 weapon_rocketlauncher
+ 12:40 Item: 2 weapon_rocketlauncher
+ 12:41 Kill: 10 5 10: Olavi killed finnish Rocker by MOD_RAILGUN
+ 12:41 PlayerScore: 10 56: Olavi now has 56 points
+ 12:41 Challenge: 10 208 1: Client 10 got award 208
+ 12:41 Challenge: 10 1 1: Client 10 got award 1
+ 12:41 Challenge: 5 2 1: Client 5 got award 2
+ 12:41 PlayerScore: 10 57: Olavi now has 57 points
+ 12:41 Challenge: 10 305 1: Client 10 got award 305
+ 12:41 Award: 10 3: Olavi gained the DEFENCE award!
+ 12:41 Award: 10 2: Olavi gained the IMPRESSIVE award!
+ 12:41 Challenge: 10 301 1: Client 10 got award 301
+ 12:41 Item: 7 item_health
+ 12:41 Item: 15 ammo_shells
+ 12:42 Item: 10 ammo_cells
+ 12:42 Kill: 3 1 3: Nigga Lamp killed Toni_Mona by MOD_MACHINEGUN
+ 12:43 Item: 17 weapon_railgun
+ 12:44 Item: 16 team_CTF_blueflag
+ 12:44 CTF: 16 2 0: dani got the BLUE flag!
+ 12:44 PlayerScore: 16 22: dani now has 22 points
+ 12:45 Item: 12 weapon_railgun
+ 12:45 Item: 9 weapon_rocketlauncher
+ 12:45 Kill: 1022 3 22: <world> killed Nigga Lamp by MOD_TRIGGER_HURT
+ 12:45 PlayerScore: 3 18: Nigga Lamp now has 18 points
+ 12:47 Kill: 7 10 3: Progamer69 killed Olavi by MOD_MACHINEGUN
+ 12:47 PlayerScore: 7 6: Progamer69 now has 6 points
+ 12:47 Challenge: 7 202 1: Client 7 got award 202
+ 12:47 Challenge: 7 1 1: Client 7 got award 1
+ 12:47 Challenge: 10 2 1: Client 10 got award 2
+ 12:47 Item: 1 weapon_railgun
+ 12:48 Item: 15 item_health_mega
+ 12:50 Kill: 7 1 3: Progamer69 killed Toni_Mona by MOD_MACHINEGUN
+ 12:50 PlayerScore: 7 7: Progamer69 now has 7 points
+ 12:50 Challenge: 7 202 1: Client 7 got award 202
+ 12:50 Challenge: 7 1 1: Client 7 got award 1
+ 12:50 Challenge: 1 2 1: Client 1 got award 2
+ 12:50 Item: 10 weapon_rocketlauncher
+ 12:51 Item: 5 weapon_rocketlauncher
+ 12:51 Kill: 5 9 6: finnish Rocker killed Jeesus by MOD_ROCKET
+ 12:52 say: jookkaaa: eeddeddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+ 12:52 Item: 15 ammo_cells
+ 12:53 Item: 10 ammo_slugs
+ 12:54 Kill: 3 10 3: Nigga Lamp killed Olavi by MOD_MACHINEGUN
+ 12:55 Kill: 13 2 3: Irwin Goodman killed GANG RAP by MOD_MACHINEGUN
+ 12:55 PlayerScore: 13 4: Irwin Goodman now has 4 points
+ 12:55 Challenge: 13 202 1: Client 13 got award 202
+ 12:55 Challenge: 13 1 1: Client 13 got award 1
+ 12:55 Challenge: 2 2 1: Client 2 got award 2
+ 12:55 PlayerScore: 13 6: Irwin Goodman now has 6 points
+ 12:55 CTF: 13 2 3: Irwin Goodman fragged BLUE's flag carrier!
+ 12:55 Item: 13 team_CTF_redflag
+ 12:55 PlayerScore: 13 7: Irwin Goodman now has 7 points
+ 12:55 CTF: 13 1 2: Irwin Goodman returned the RED flag!
+ 12:55 Item: 13 weapon_rocketlauncher
+ 12:56 Item: 4 weapon_rocketlauncher
+ 12:56 Item: 3 weapon_rocketlauncher
+ 12:57 Kill: 14 15 3: Topias killed Xkylkky by MOD_MACHINEGUN
+ 12:57 PlayerScore: 14 10: Topias now has 10 points
+ 12:57 Challenge: 14 202 1: Client 14 got award 202
+ 12:57 Challenge: 14 1 1: Client 14 got award 1
+ 12:57 Challenge: 15 2 1: Client 15 got award 2
+ 12:57 Kill: 17 1 10: vilperi killed Toni_Mona by MOD_RAILGUN
+ 12:57 PlayerScore: 17 1: vilperi now has 1 points
+ 12:57 Challenge: 17 208 1: Client 17 got award 208
+ 12:57 Challenge: 17 1 1: Client 17 got award 1
+ 12:57 Challenge: 1 2 1: Client 1 got award 2
+ 12:57 Kill: 1022 8 22: <world> killed Matutao by MOD_TRIGGER_HURT
+ 12:57 PlayerScore: 8 16: Matutao now has 16 points
+ 12:57 Kill: 7 3 2: Progamer69 killed Nigga Lamp by MOD_GAUNTLET
+ 12:57 PlayerScore: 7 8: Progamer69 now has 8 points
+ 12:57 Challenge: 7 201 1: Client 7 got award 201
+ 12:57 Award: 7 0: Progamer69 gained the GAUNTLET award!
+ 12:57 Challenge: 7 201 1: Client 7 got award 201
+ 12:57 Challenge: 7 1 1: Client 7 got award 1
+ 12:57 Challenge: 3 2 1: Client 3 got award 2
+ 12:57 Item: 7 weapon_rocketlauncher
+ 12:58 Item: 11 ammo_cells
+ 12:58 Kill: 2 17 3: GANG RAP killed vilperi by MOD_MACHINEGUN
+ 12:58 PlayerScore: 2 29: GANG RAP now has 29 points
+ 12:58 Challenge: 2 202 1: Client 2 got award 202
+ 12:58 Challenge: 2 1 1: Client 2 got award 1
+ 12:58 Challenge: 17 2 1: Client 17 got award 2
+ 12:58 PlayerScore: 2 30: GANG RAP now has 30 points
+ 12:58 Challenge: 2 305 1: Client 2 got award 305
+ 12:58 Award: 2 3: GANG RAP gained the DEFENCE award!
+ 12:59 Item: 2 item_armor_combat
+ 12:59 Kill: 7 13 7: Progamer69 killed Irwin Goodman by MOD_ROCKET_SPLASH
+ 13:00 Item: 9 weapon_rocketlauncher
+ 13:00 Item: 2 weapon_railgun
+ 13:00 Item: 10 weapon_shotgun
+ 13:01 Item: 2 weapon_rocketlauncher
+ 13:02 Item: 11 ammo_slugs
+ 13:02 Kill: 5 3 22: finnish Rocker killed Nigga Lamp by MOD_TRIGGER_HURT
+ 13:02 PlayerScore: 5 15: finnish Rocker now has 15 points
+ 13:02 Challenge: 5 214 1: Client 5 got award 214
+ 13:02 Challenge: 5 1 1: Client 5 got award 1
+ 13:02 Challenge: 3 2 1: Client 3 got award 2
+ 13:03 Kill: 1 7 3: Toni_Mona killed Progamer69 by MOD_MACHINEGUN
+ 13:03 PlayerScore: 1 43: Toni_Mona now has 43 points
+ 13:03 Challenge: 1 202 1: Client 1 got award 202
+ 13:03 Challenge: 1 1 1: Client 1 got award 1
+ 13:03 Challenge: 7 2 1: Client 7 got award 2
+ 13:03 PlayerScore: 1 44: Toni_Mona now has 44 points
+ 13:03 Challenge: 1 305 1: Client 1 got award 305
+ 13:03 Award: 1 3: Toni_Mona gained the DEFENCE award!
+ 13:03 Kill: 5 10 6: finnish Rocker killed Olavi by MOD_ROCKET
+ 13:03 PlayerScore: 5 16: finnish Rocker now has 16 points
+ 13:03 Challenge: 5 205 1: Client 5 got award 205
+ 13:03 Challenge: 5 1 1: Client 5 got award 1
+ 13:03 Challenge: 10 2 1: Client 10 got award 2
+ 13:03 Award: 5 1: finnish Rocker gained the EXCELLENT award!
+ 13:03 Challenge: 5 302 1: Client 5 got award 302
+ 13:03 Kill: 5 5 7: finnish Rocker killed finnish Rocker by MOD_ROCKET_SPLASH
+ 13:04 Item: 1 weapon_rocketlauncher
+ 13:04 Item: 6 weapon_shotgun
+ 13:04 Item: 16 team_CTF_redflag
+ 13:04 CTF: 16 2 1: dani captured the BLUE flag!
+ 13:04 Award: 16 4: dani gained the CAPTURE award!
+ 13:04 Challenge: 16 303 1: Client 16 got award 303
+ 13:04 PlayerScore: 16 27: dani now has 27 points
+ 13:04 Exit: Capturelimit hit.
+ 13:04 red:8  blue:0
+ 13:04 score: 57  ping: 0  client: 10 Olavi
+ 13:04 score: 44  ping: 0  client: 1 Toni_Mona
+ 13:04 score: 33  ping: 38  client: 6 Kalamies
+ 13:04 score: 30  ping: 12  client: 2 GANG RAP
+ 13:04 score: 27  ping: 25  client: 16 dani
+ 13:04 score: 19  ping: 0  client: 15 Xkylkky
+ 13:04 score: 18  ping: 0  client: 3 Nigga Lamp
+ 13:04 score: 16  ping: 5  client: 5 finnish Rocker
+ 13:04 score: 16  ping: 0  client: 8 Matutao
+ 13:04 score: 14  ping: 0  client: 11 Vladimir Ivan
+ 13:04 score: 12  ping: 0  client: 4 siemenneste12
+ 13:04 score: 10  ping: 0  client: 14 Topias
+ 13:04 score: 8  ping: 25  client: 7 Progamer69
+ 13:04 score: 7  ping: 1  client: 9 Jeesus
+ 13:04 score: 7  ping: 38  client: 13 Irwin Goodman
+ 13:04 score: 4  ping: 1  client: 12 f02
+ 13:04 score: 1  ping: 0  client: 17 vilperi
+ 13:04 PlayerScore: 4 12: siemenneste12 now has 12 points
+ 13:04 PlayerScore: 5 16: finnish Rocker now has 16 points
+ 13:04 PlayerScore: 7 8: Progamer69 now has 8 points
+ 13:04 PlayerScore: 8 16: Matutao now has 16 points
+ 13:04 PlayerScore: 9 7: Jeesus now has 7 points
+ 13:04 PlayerScore: 11 14: Vladimir Ivan now has 14 points
+ 13:04 PlayerScore: 12 4: f02 now has 4 points
+ 13:04 PlayerScore: 13 7: Irwin Goodman now has 7 points
+ 13:04 PlayerScore: 13 8: Irwin Goodman now has 8 points
+ 13:04 Challenge: 13 304 1: Client 13 got award 304
+ 13:04 Award: 13 5: Irwin Goodman gained the ASSIST award!
+ 13:04 PlayerScore: 13 10: Irwin Goodman now has 10 points
+ 13:04 Challenge: 13 304 1: Client 13 got award 304
+ 13:04 Award: 13 5: Irwin Goodman gained the ASSIST award!
+ 13:04 PlayerScore: 14 10: Topias now has 10 points
+ 13:04 PlayerScore: 17 1: vilperi now has 1 points
+ 13:20 ShutdownGame:
+ 13:20 ------------------------------------------------------------
